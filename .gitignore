@@ -1,0 +1,15 @@
+mov*/
+debug-*.srt
+output-*.srt
+sync*.tsv
+*.mkv
+*.mp4
+# Ignore copied folders (quick backups)
+runs-*/
+# Ignore LibreOffice lock file
+*.~lock*
+*.zip
+*.log
+*.bak
+# Vegas Pro files
+*.veg
