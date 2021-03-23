@@ -35,13 +35,13 @@ if ((Test-Path $outputFile) -and $Confirm) {
 
 function Process-SubRipFile {
     param (
+        $fileId,
         $inputFile,
         $outputStream,
         $debugId,
         $lastNumber
     )
     $inputFileName = Split-Path -Leaf $inputFile
-    $fileId = [int] ($inputFileName.Substring(1, $inputFileName.IndexOf(".") - 1))
     $lines = Get-Content -Encoding UTF8 $inputFile
 
     if ($debugId) {
@@ -73,9 +73,10 @@ function Process-SubRipFile {
 
 $outputStream = [System.IO.StreamWriter] $outputFile
 
+$fileId = 1
 $highestNumber = 0
 
-$subtitleFiles | % { $highestNumber = Process-SubRipFile $_ $outputStream $debugId $highestNumber ; Write-Host "Processed file $_" }
+$subtitleFiles | % { $highestNumber = Process-SubRipFile $fileId $_ $outputStream $debugId $highestNumber ; Write-Host "Processed run '$fileId' from file $_"; $fileId += 1 }
 
 $outputStream.Close()
 

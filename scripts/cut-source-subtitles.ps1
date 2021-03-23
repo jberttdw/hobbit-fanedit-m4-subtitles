@@ -48,7 +48,7 @@ Add-Type @"
 using System;
 using System.Globalization;
 public struct RunInfo {
-    private int _run;
+    private string _run;
     private int _film;
     private bool _extended;
     private bool _canBeEmpty;
@@ -56,7 +56,7 @@ public struct RunInfo {
     private DateTime _end;
     private string _sourceFile;
 
-    public RunInfo(int run, int film, bool extended, string canBeEmpty, string start, string end) {
+    public RunInfo(string run, int film, bool extended, string canBeEmpty, string start, string end) {
         _run = run; _film = film; _extended = extended;
          _canBeEmpty = Boolean.Parse(canBeEmpty);
         _start = DateTime.ParseExact(start, "hh:mm:ss,fff", CultureInfo.InvariantCulture);
@@ -64,7 +64,7 @@ public struct RunInfo {
         _sourceFile = null;
     }
 
-    public int Run { get { return _run; } }
+    public string Run { get { return _run; } }
     public int Film { get { return _film; } }
     public bool Extended { get { return _extended; } }
     public bool CanBeEmpty { get { return _canBeEmpty; } }
@@ -132,7 +132,7 @@ function Get-NextSubtitle ($reader) {
         } else {
             # We read a line before - add newlines in between
             if ($nextSubtitle.Text) {
-                $nextSubtitle.Text += "`n" + $line
+                $nextSubtitle.Text += "`r`n" + $line
             } else {
                 $nextSubtitle.Text = $line
             }
@@ -149,7 +149,7 @@ function Get-NextSubtitle ($reader) {
 
 $index = Get-Content -Encoding ASCII $indexFile -Raw | ConvertFrom-Csv -Delimiter `t
 $sortedRuns = $index | Sort-Object -Property Film, Type, Start | ForEach-Object {
-    $temp = New-Object -TypeName RunInfo -ArgumentList @([int]$_.Run, [int]$_.Film, ($_.Type -eq "EXT"),
+    $temp = New-Object -TypeName RunInfo -ArgumentList @($_.Run, [int]$_.Film, ($_.Type -eq "EXT"),
               $_.CanBeEmpty, $_.Start, $_.End)
     $temp.PickSourceFile($srtFilm1Normal, $srtFilm1Extended, $srtFilm2Normal, $srtFilm2Extended, $srtFilm3Normal, $srtFilm3Extended)
     $temp
@@ -200,7 +200,7 @@ try {
         }
         # Write subtitles
         if ($subtitles.Count -gt 0) {
-            $currentRunOutput = Join-Path $outputDir ("r{0:000}.srt" -f $run.Run)
+            $currentRunOutput = Join-Path $outputDir ("{0}.srt" -f $run.Run)
             $outputStream = [System.IO.StreamWriter] $currentRunOutput
             try {
                 foreach ($subtitle in $subtitles) {
