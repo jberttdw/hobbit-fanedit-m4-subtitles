@@ -4,7 +4,11 @@
 
 # Currently all the input and output file paths are hard-coded (see main logic).
 
-$indexFolder = Resolve-Path (Join-Path $PSScriptRoot "../index")
+$indexFolder = Resolve-Path (Get-Location)
+
+if (-not (Test-Path (Join-Path $indexFolder "sync_snd_m4edit.srt"))) {
+    throw "Current location should be set to index directory"
+}
 
 # ################################################################################
 #
@@ -68,7 +72,7 @@ function Read-ReferencePoints($file) {
             $lines = $subtitle.Text.Split("`n")
             foreach ($line in $lines) {
 #                if ($line -match "(r\d+\w*).*") {
-                if ($line -match "(e\d+\w*).*") {
+                if ($line -match "(c\d+\w*).*") {
                     $runId = $matches[1]
                     $reference = [pscustomobject]@{ Run = $runId; Time = $subtitle.Start }
                     $references += $reference
@@ -102,12 +106,11 @@ function Write-ReferencePoints($references, $file) {
 
 # Sound reference points
 
-$references =  Read-ReferencePoints (Join-Path $indexFolder "sync_snd_m1_n.srt")
 $references += Read-ReferencePoints (Join-Path $indexFolder "sync_snd_m1_e.srt")
-#$references += Read-ReferencePoints (Join-Path $indexFolder "sync_snd_m2_n.srt")
-#$references += Read-ReferencePoints (Join-Path $indexFolder "sync_snd_m2_e.srt")
-#$references += Read-ReferencePoints (Join-Path $indexFolder "sync_snd_m3_n.srt")
-#$references += Read-ReferencePoints (Join-Path $indexFolder "sync_snd_m3_e.srt")
+$references += Read-ReferencePoints (Join-Path $indexFolder "sync_snd_m2_n.srt")
+$references += Read-ReferencePoints (Join-Path $indexFolder "sync_snd_m2_e.srt")
+$references += Read-ReferencePoints (Join-Path $indexFolder "sync_snd_m3_n.srt")
+$references += Read-ReferencePoints (Join-Path $indexFolder "sync_snd_m3_e.srt")
 Write-ReferencePoints $references (Join-Path $indexFolder "sync_snd_src.tsv")
 
 $references =  Read-ReferencePoints (Join-Path $indexFolder "sync_snd_m4edit.srt")
