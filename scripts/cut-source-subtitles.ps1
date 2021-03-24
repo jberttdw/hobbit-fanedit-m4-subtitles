@@ -13,6 +13,7 @@
 #
 [CmdletBinding()]
 param (
+    $indexFile,
     $srtFilm1Normal,
     $srtFilm1Extended,
     $srtFilm2Normal,
@@ -20,7 +21,8 @@ param (
     $srtFilm3Normal,
     $srtFilm3Extended
 )
-$indexFile = "../../index/index-automated-cut.tsv"
+#$indexFile = "../../index/index-automated-cut.tsv"
+$indexFile = Resolve-Path $indexFile
 $outputDir = Get-Location
 if (-not (Test-Path $indexFile)) {
     throw "Index-automated-cut.tsv file not found"
