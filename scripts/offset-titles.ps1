@@ -26,13 +26,13 @@ $outputDir = Resolve-Path $outputDir
 $offsets = Import-Csv -Path $offsetsFile -Delimiter "`t"
 
 if ($runs) {
-    $runs = $runs | Foreach-Object { [int]$_ }
+    #$runs = $runs | Foreach-Object { [int]$_ }
     # Filter offsets array
-    $offsets = $offsets | Where-Object { [int]($_.Id) -in $runs }
+    $offsets = $offsets | Where-Object { $_.Run -in $runs }
 }
 
 foreach ($runInfo in $offsets) {
-    $runFileName = "r{0}.srt" -f $runInfo.Id
+    $runFileName = "{0}.srt" -f $runInfo.Run
     $runFile = Join-Path "." -ChildPath $runFileName
     if (! (Test-Path -PathType Leaf -Path $runFile)) {
         Write-Warning "Subtitle run '$runFile' file not found"
