@@ -1,0 +1,4 @@
+﻿1
+02:09:11,665 --> 02:09:14,834
+Dit is een oud elfenzwaard.
+

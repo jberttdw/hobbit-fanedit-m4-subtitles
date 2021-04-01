@@ -1,0 +1,5 @@
+﻿1
+00:02:27,402 --> 00:02:30,154
+<i>Ik ben niet meer dezelfde hobbit
+die ik ooit was.</i>
+
