@@ -1,72 +1,52 @@
 ﻿1
-02:24:18,079 --> 02:24:18,912
-Misschien past 't niet...
-
-1
-02:24:19,163 --> 02:24:20,914
+02:24:33,100 --> 02:24:36,810
+Misschien past 't niet,
 maar het houdt je wel warm.
 
 1
-02:24:21,582 --> 02:24:22,624
+02:24:37,190 --> 02:24:38,770
 Dank je wel.
 
 1
-02:24:32,844 --> 02:24:34,928
+02:24:47,780 --> 02:24:51,200
 Een dwergenwindas.
 
 1
-02:24:35,221 --> 02:24:35,804
-Je kijkt alsof...
+02:24:51,200 --> 02:24:53,580
+Je kijkt alsof je een geest heb gezien.
 
 1
-02:24:36,055 --> 02:24:37,347
-je een geest heb gezien.
-
-1
-02:24:38,099 --> 02:24:39,266
+02:24:53,660 --> 02:24:55,490
 Heeft ie ook.
 
 1
-02:24:40,059 --> 02:24:41,059
-De laatste keer dat we...
+02:24:55,580 --> 02:24:58,710
+De laatste keer dat we zo'n wapen zagen...
 
 1
-02:24:41,310 --> 02:24:42,978
-zo'n wapen zagen...
-
-1
-02:24:44,021 --> 02:24:44,896
+02:24:59,580 --> 02:25:02,290
 stond een stad in brand.
 
 1
-02:24:46,941 --> 02:24:49,192
+02:25:02,380 --> 02:25:05,130
 De dag dat de draak kwam.
 
 1
-02:24:52,446 --> 02:24:53,905
-<i>De dag dat Smaug...</i>
+02:25:07,920 --> 02:25:12,140
+De dag dat Smaug Dal verwoestte.
 
 1
-02:24:54,156 --> 02:24:55,282
-<i>Dal verwoestte.</i>
+02:25:13,220 --> 02:25:15,680
+Girion, de heer van de stad...
 
 1
-02:24:57,743 --> 02:24:59,953
-<i>Girion, de heer van de stad...</i>
+02:25:15,680 --> 02:25:18,140
+liet zijn boogschutters op het beest schieten.
 
 1
-02:25:00,204 --> 02:25:00,954
-<i>liet zijn boogschutters...</i>
+02:25:18,940 --> 02:25:21,230
+Maar een drakenhuid is stevig.
 
 1
-02:25:01,205 --> 02:25:02,330
-<i>op het beest schieten.</i>
-
-1
-02:25:03,457 --> 02:25:05,208
-Maar een drakenhuid is dik.
-
-1
-02:25:05,793 --> 02:25:07,961
-Dikker dan het sterkste harnas.
-
+02:25:21,310 --> 02:25:23,360
+Steviger dan het sterkste harnas.

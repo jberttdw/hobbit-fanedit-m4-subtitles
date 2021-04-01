@@ -1,1002 +1,867 @@
 ﻿1
-00:17:47,620 --> 00:17:48,284
+00:17:47,790 --> 00:17:48,580
 Ga zitten.
 
 1
-00:17:48,537 --> 00:17:49,700
-Het is al moeilijk genoeg...
-
-1
-00:17:49,955 --> 00:17:51,331
+00:17:48,580 --> 00:17:52,000
+Het is al moeilijk genoeg
 met een heel leger...
 
 1
-00:17:51,582 --> 00:17:53,658
+00:17:52,000 --> 00:17:54,260
 en wij zijn met maar 13 man.
 
 1
-00:17:53,917 --> 00:17:55,791
+00:17:54,340 --> 00:17:56,130
 En bepaald niet de 13 besten...
 
 1
-00:17:56,420 --> 00:17:57,700
+00:17:56,840 --> 00:17:58,050
 of slimsten.
 
 1
-00:17:58,005 --> 00:17:59,796
+00:17:58,050 --> 00:18:00,180
 Hé, wie is hier dom?
 
 1
-00:18:00,341 --> 00:18:01,799
+00:18:00,180 --> 00:18:02,350
 Wat zegt ie?
 
 1
-00:18:02,051 --> 00:18:03,924
+00:18:02,430 --> 00:18:04,270
 We zijn met weinig...
 
 1
-00:18:04,762 --> 00:18:07,763
+00:18:05,180 --> 00:18:09,060
 maar we zijn wel vechters.
-
-1
-00:18:08,015 --> 00:18:09,011
 Tot de laatste dwerg.
 
 1
-00:18:09,266 --> 00:18:11,425
+00:18:09,150 --> 00:18:11,480
 En we hebben een tovenaar bij ons.
 
 1
-00:18:11,685 --> 00:18:13,477
-Gandalf heeft honderden draken gedood.
+00:18:11,570 --> 00:18:14,320
+Gandalf heeft waarschijnlijk al
+honderden draken gedood.
 
 1
-00:18:14,271 --> 00:18:16,180
+00:18:14,320 --> 00:18:16,610
 Nou, ik wil niet zeggen dat...
 
 1
-00:18:16,440 --> 00:18:17,187
+00:18:16,610 --> 00:18:18,740
 Hoeveel dan?
 
 1
-00:18:18,025 --> 00:18:19,982
+00:18:18,740 --> 00:18:21,660
 Hoeveel draken heb je gedood?
 
 1
-00:18:24,073 --> 00:18:25,318
+00:18:23,240 --> 00:18:25,040
 Noem een getal.
 
 1
-00:18:27,952 --> 00:18:28,983
+00:18:27,660 --> 00:18:29,330
 Alsjeblieft...
 
 1
-00:18:33,958 --> 00:18:35,333
+00:18:34,420 --> 00:18:35,880
 Denk je dat anderen...
 
 1
-00:18:35,584 --> 00:18:38,206
+00:18:35,880 --> 00:18:38,550
 die voortekenen
 niet hebben gezien?
 
 1
-00:18:40,547 --> 00:18:43,085
+00:18:40,930 --> 00:18:43,470
 De geruchten zingen al rond.
 
 1
-00:18:43,509 --> 00:18:46,178
+00:18:43,930 --> 00:18:47,230
 Smaug is al zestig jaar
 niet meer gezien.
 
 1
-00:18:47,846 --> 00:18:50,088
+00:18:48,270 --> 00:18:51,360
 Ook anderen kijken naar de berg...
 
 1
-00:18:50,975 --> 00:18:54,260
+00:18:51,360 --> 00:18:54,860
 en wegen het risico af.
 
 1
-00:18:54,687 --> 00:18:57,059
+00:18:54,860 --> 00:18:57,940
 Onze rijkdommen liggen daar
 voor 't grijpen.
 
 1
-00:18:57,690 --> 00:19:01,141
+00:18:58,030 --> 00:19:01,490
 Gaan we toekijken hoe anderen
 zich dat toe-eigenen?
 
 1
-00:19:01,860 --> 00:19:03,568
-Of veroveren we...
+00:19:02,070 --> 00:19:05,540
+Of veroveren we Erebor terug?
 
 1
-00:19:04,029 --> 00:19:05,358
-Erebor terug?
+00:19:07,330 --> 00:19:10,120
+Vergeet niet: De Voorpoort is afgesloten.
 
 1
-00:19:06,949 --> 00:19:09,784
-De Voorpoort is hermetisch afgesloten.
+00:19:10,870 --> 00:19:13,290
+Je kan de berg niet meer in.
 
 1
-00:19:10,244 --> 00:19:11,109
-Je kan de berg...
-
-1
-00:19:11,370 --> 00:19:13,244
-niet meer in.
-
-1
-00:19:13,497 --> 00:19:16,747
+00:19:13,380 --> 00:19:17,010
 Mijn beste Balin,
 dat is niet helemaal waar.
 
 1
-00:19:20,796 --> 00:19:22,207
+00:19:21,300 --> 00:19:23,300
 Hoe kom je daaraan?
 
 1
-00:19:22,756 --> 00:19:23,752
-Van jouw...
+00:19:23,390 --> 00:19:25,970
+Van jouw vader gekregen.
 
 1
-00:19:24,008 --> 00:19:25,585
-vader gekregen.
+00:19:25,970 --> 00:19:29,140
+Van Thraín. Om veilig te bewaren.
 
 1
-00:19:25,843 --> 00:19:27,337
-Van Thraín.
+00:19:30,480 --> 00:19:32,310
+Hij is nu van jou.
 
 1
-00:19:27,595 --> 00:19:29,089
-Om veilig te bewaren.
-
-1
-00:19:29,930 --> 00:19:30,630
-Hij is nu...
-
-1
-00:19:30,889 --> 00:19:31,969
-van jou.
-
-1
-00:19:39,356 --> 00:19:40,767
+00:19:39,740 --> 00:19:42,110
 Als er een sleutel is...
 
 1
-00:19:41,817 --> 00:19:43,395
+00:19:42,200 --> 00:19:43,740
 dan moet er ook een deur zijn.
 
 1
-00:19:44,028 --> 00:19:44,692
-Deze runen...
-
-1
-00:19:44,945 --> 00:19:48,480
-hebben 't over een gang
+00:19:44,660 --> 00:19:48,910
+Deze runen hebben 't over een gang
 naar de Lagere Zalen.
 
 1
-00:19:48,741 --> 00:19:50,817
+00:19:48,910 --> 00:19:51,250
 Een andere ingang.
 
 1
-00:19:51,076 --> 00:19:55,121
+00:19:51,250 --> 00:19:55,460
 Als we 'm kunnen vinden, want
-dichte dwergendeuren zijn onzichtbaar.
+gesloten dwergendeuren zijn onzichtbaar.
 
 1
-00:19:57,207 --> 00:19:59,995
+00:19:57,460 --> 00:20:00,510
 Het antwoord ligt verborgen in de kaart...
 
 1
-00:20:00,252 --> 00:20:02,209
+00:20:00,510 --> 00:20:02,720
 maar ik kan 't niet vinden.
 
 1
-00:20:02,463 --> 00:20:05,629
+00:20:02,800 --> 00:20:06,010
 Maar er zijn anderen in Midden-aarde
 die dat wel kunnen.
 
 1
-00:20:07,593 --> 00:20:10,878
-Daarvoor zoek ik een man
+00:20:07,760 --> 00:20:11,640
+Voor deze tocht zoek ik een man
 die goed kan sluipen...
 
 1
-00:20:11,138 --> 00:20:13,178
+00:20:11,640 --> 00:20:13,520
 en niet bang uitgevallen is.
 
 1
-00:20:14,975 --> 00:20:19,103
+00:20:14,730 --> 00:20:19,480
 Als we omzichtig en slim handelen,
-moet het mogelijk zijn.
+kunnen we zo ons doel bereiken.
 
 1
-00:20:19,355 --> 00:20:20,849
+00:20:19,480 --> 00:20:21,190
 We zoeken dus een inbreker.
 
 1
-00:20:21,649 --> 00:20:24,603
+00:20:21,570 --> 00:20:25,240
 En een goeie.
 Een expert, zou ik zeggen.
 
 1
-00:20:24,860 --> 00:20:26,734
+00:20:25,240 --> 00:20:27,410
 En ben jij dat?
 
 1
-00:20:29,615 --> 00:20:30,990
+00:20:30,000 --> 00:20:31,410
 Wat ben ik?
 
 1
-00:20:31,241 --> 00:20:33,946
+00:20:31,410 --> 00:20:34,290
 Hij zegt dat hij een expert is.
 
 1
-00:20:34,495 --> 00:20:39,287
+00:20:34,880 --> 00:20:39,670
 Ik? Nee, ik ben geen inbreker.
 Ik heb nog nooit iets gestolen.
 
 1
-00:20:39,541 --> 00:20:42,163
+00:20:39,670 --> 00:20:42,170
 Ik ben het met Mr Balings eens.
 
 1
-00:20:42,419 --> 00:20:44,376
-Hij is geen inbrekerstype.
+00:20:42,880 --> 00:20:44,760
+Hij lijkt geen inbrekerstype.
 
 1
-00:20:44,630 --> 00:20:45,579
+00:20:44,760 --> 00:20:45,970
 Nee.
 
 1
-00:20:46,298 --> 00:20:50,047
+00:20:45,970 --> 00:20:50,390
 De Wildernis is niets voor mensen
 die zichzelf niet kunnen verdedigen.
 
 1
-00:20:50,302 --> 00:20:52,094
+00:20:50,390 --> 00:20:52,770
 Dat kan ie best.
 
 1
-00:20:57,726 --> 00:20:58,889
+00:20:57,980 --> 00:20:58,820
 Genoeg.
 
 1
-00:20:59,144 --> 00:21:00,687
-Als ik zeg dat Bilbo Balings...
+00:20:58,820 --> 00:21:04,400
+Als ik zeg dat Bilbo Balings een inbreker is,
+dan is hij een inbreker.
 
 1
-00:21:00,938 --> 00:21:02,397
-een inbreker is, dan is hij...
+00:21:05,570 --> 00:21:08,370
+Hobbits zijn uitermate lichtvoetig.
 
 1
-00:21:02,648 --> 00:21:04,059
-een inbreker.
+00:21:08,370 --> 00:21:11,870
+Ze kunnen je ongemerkt voorbijlopen.
 
 1
-00:21:05,651 --> 00:21:06,849
-Hobbits zijn uitermate...
-
-1
-00:21:07,111 --> 00:21:11,239
-lichtvoetig.
-Ze kunnen je ongezien voorbijlopen.
-
-1
-00:21:11,490 --> 00:21:15,025
-En de draak weet
+00:21:11,950 --> 00:21:15,710
+En de draak weet dan wel
 hoe een dwerg ruikt...
 
 1
-00:21:15,286 --> 00:21:17,492
-maar de geur van een hobbit...
+00:21:15,790 --> 00:21:18,750
+maar de geur van een hobbit kent hij niet.
 
 1
-00:21:17,746 --> 00:21:21,614
-kent hij niet.
+00:21:18,750 --> 00:21:22,010
 En dat biedt ons een voordeel.
 
 1
-00:21:21,875 --> 00:21:24,497
-Ik moest het 14e lid zoeken...
-
-1
-00:21:24,753 --> 00:21:26,296
+00:21:22,010 --> 00:21:26,590
+Ik moest het 14e lid zoeken
 en mijn keuze is gevallen op Mr Balings.
 
 1
-00:21:26,547 --> 00:21:27,709
-Hij kan meer dan je...
+00:21:27,090 --> 00:21:29,850
+Hij kan meer dan je op het oog zou denken.
 
 1
-00:21:27,965 --> 00:21:29,424
-op het oog zou denken.
-
-1
-00:21:29,675 --> 00:21:32,462
+00:21:29,850 --> 00:21:32,810
 Hij heeft meer te bieden
 dan jullie weten.
 
 1
-00:21:34,096 --> 00:21:35,424
+00:21:34,350 --> 00:21:37,690
 En dan hij weet.
 
 1
-00:21:41,186 --> 00:21:43,559
+00:21:41,570 --> 00:21:44,190
 Jullie moeten me vertrouwen.
 
 1
-00:21:46,734 --> 00:21:48,014
+00:21:47,110 --> 00:21:48,370
 Goed dan.
 
 1
-00:21:48,402 --> 00:21:49,944
+00:21:48,370 --> 00:21:50,450
 We doen het op jouw manier.
 
 1
-00:21:50,195 --> 00:21:52,521
+00:21:50,530 --> 00:21:53,200
 Geef hem het contract.
-- En we gaan.
+-En we gaan.
 
 1
-00:21:52,781 --> 00:21:54,655
+00:21:53,200 --> 00:21:54,200
 Niks bijzonders.
 
 1
-00:21:54,908 --> 00:21:56,735
-Contante uitgaven, tijd...
+00:21:54,290 --> 00:21:56,370
+Contante uitgaven...
 
 1
-00:21:56,994 --> 00:21:57,740
-vergoeding...
+00:21:56,460 --> 00:21:58,080
+tijd, vergoeding...
 
 1
-00:21:57,995 --> 00:21:59,738
+00:21:58,080 --> 00:22:00,090
 uitvaartregeling, enzovoorts.
 
 1
-00:22:00,748 --> 00:22:02,123
+00:22:01,170 --> 00:22:02,460
 Uitvaartregeling?
 
 1
-00:22:07,922 --> 00:22:09,464
+00:22:08,180 --> 00:22:10,470
 Ik kan zijn veiligheid niet garanderen.
 
 1
-00:22:10,132 --> 00:22:11,377
+00:22:10,550 --> 00:22:11,720
 Begrepen.
 
 1
-00:22:11,842 --> 00:22:14,380
+00:22:12,310 --> 00:22:14,720
 Ik ben niet verantwoordelijk
 voor zijn lot.
 
 1
-00:22:18,307 --> 00:22:19,552
+00:22:18,480 --> 00:22:20,020
 Akkoord.
 
 1
-00:22:19,808 --> 00:22:20,473
-'Contante...
+00:22:20,020 --> 00:22:24,900
+'Contante betaling, maar niet meer
+dan een 14e deel van de winst.'
 
 1
-00:22:20,726 --> 00:22:24,806
-betaling, maar niet meer
-dan 1l14e deel van de winst.'
-
-1
-00:22:25,064 --> 00:22:26,344
+00:22:24,900 --> 00:22:26,740
 Redelijk.
 
 1
-00:22:26,607 --> 00:22:30,225
+00:22:27,400 --> 00:22:30,620
 'De groep is niet aansprakelijk
 voor verwondingen...
 
 1
-00:22:30,486 --> 00:22:35,693
+00:22:30,620 --> 00:22:36,040
 als gevolg van openrijten...
 
 1
-00:22:37,117 --> 00:22:38,825
+00:22:37,620 --> 00:22:39,000
 ingewandenverlies...'
 
 1
-00:22:41,413 --> 00:22:43,370
+00:22:41,880 --> 00:22:43,170
 Verbranding?
-- Ja.
 
 1
-00:22:43,624 --> 00:22:45,581
-Hij smelt zo
-het vlees van je botten.
+00:22:43,170 --> 00:22:46,840
+Ja. Hij smelt zo het vlees van je botten.
 
 1
-00:22:50,839 --> 00:22:51,954
+00:22:51,220 --> 00:22:53,720
 Gaat 't, makker?
+-Ja, hoor.
 
 1
-00:22:52,383 --> 00:22:53,711
-Ja, hoor.
-
-1
-00:22:55,511 --> 00:22:56,839
+00:22:55,850 --> 00:22:57,180
 Tikje duizelig.
 
 1
-00:22:57,221 --> 00:22:59,178
+00:22:57,180 --> 00:22:59,560
 Denk aan een oven met vleugels.
 
 1
-00:22:59,431 --> 00:23:00,807
+00:22:59,560 --> 00:23:01,150
 Ik heb frisse lucht nodig.
 
 1
-00:23:01,058 --> 00:23:02,967
-Een lichtflits, pijn en poef.
+00:23:01,230 --> 00:23:04,190
+Een lichtflits, korte pijn en poef.
 
 1
-00:23:03,811 --> 00:23:05,768
+00:23:04,230 --> 00:23:06,110
 Je bent veranderd in een hoopje as.
 
 1
-00:23:12,152 --> 00:23:13,184
+00:23:12,780 --> 00:23:13,530
 Nee.
 
 1
-00:23:14,363 --> 00:23:16,237
+00:23:14,490 --> 00:23:16,620
 Goed bezig, Bofur.
 
 1
-00:23:16,657 --> 00:23:19,112
+00:23:16,620 --> 00:23:19,330
 Het gaat wel.
 Laat me maar even rustig zitten.
 
 1
-00:23:19,910 --> 00:23:22,579
+00:23:19,410 --> 00:23:23,130
 Dat doe je al veel te lang.
 
 1
-00:23:22,997 --> 00:23:24,574
-Sinds...
-
-1
-00:23:24,832 --> 00:23:27,074
-wanneer zijn onderleggers
+00:23:23,130 --> 00:23:27,550
+Sinds wanneer zijn onderleggers
 en borden...
 
 1
-00:23:27,334 --> 00:23:28,959
+00:23:27,550 --> 00:23:29,300
 zo belangrijk voor je?
 
 1
-00:23:29,545 --> 00:23:34,290
+00:23:30,010 --> 00:23:34,760
 Ik herinner me een jonge hobbit
 die altijd in het bos naar elfen zocht.
 
 1
-00:23:34,550 --> 00:23:37,634
+00:23:34,850 --> 00:23:38,220
 Die pas thuiskwam
 als het al donker was.
 
 1
-00:23:37,886 --> 00:23:41,421
+00:23:38,220 --> 00:23:42,060
 Die door de modder kroop,
 en vuurvliegjes volgde.
 
 1
-00:23:41,682 --> 00:23:44,090
+00:23:42,060 --> 00:23:44,150
 Een jonge hobbit
 die niets liever wilde...
 
 1
-00:23:44,351 --> 00:23:47,637
+00:23:44,230 --> 00:23:48,780
 dan te ontdekken wat er buiten
 de Gouw te vinden was.
 
 1
-00:23:48,272 --> 00:23:48,936
-De wereld...
-
-1
-00:23:49,189 --> 00:23:52,107
-bestaat niet
+00:23:48,780 --> 00:23:52,490
+De wereld bestaat niet
 uit boeken en kaarten.
 
 1
-00:23:53,110 --> 00:23:53,774
-Die vind je...
+00:23:53,780 --> 00:23:56,740
+Die vind je buiten.
 
 1
-00:23:54,028 --> 00:23:55,190
-buiten.
-
-1
-00:23:56,989 --> 00:23:59,195
+00:23:56,830 --> 00:23:59,500
 Ik kan niet zomaar weggaan.
 
 1
-00:23:59,450 --> 00:24:02,534
+00:23:59,580 --> 00:24:02,870
 Ik ben een Balings uit Balingshoek.
 
 1
-00:24:02,786 --> 00:24:04,862
+00:24:02,870 --> 00:24:05,210
 Je bent ook een Toek.
 
 1
-00:24:06,624 --> 00:24:07,323
-Weet je...
+00:24:07,250 --> 00:24:10,420
+Weet je dat je oud-oud-oud-oud-oom
+Bullebas Toek...
 
 1
-00:24:07,583 --> 00:24:09,042
-dat je oud-oud-oud-oud-oom...
-
-1
-00:24:09,293 --> 00:24:11,416
-Bullebas Toek zo groot was...
-
-1
-00:24:11,670 --> 00:24:12,619
-dat hij
+00:24:10,510 --> 00:24:13,680
+zo groot was dat hij
 op een echt paard reed?
 
 1
-00:24:14,381 --> 00:24:15,295
+00:24:13,760 --> 00:24:15,680
 Dat kon ie echt.
 
 1
-00:24:15,549 --> 00:24:18,336
-Hij viel in zijn eentje
-de aardmannen aan.
+00:24:15,680 --> 00:24:18,720
+In de Slag van Groeneveld viel hij
+in zijn eentje de aardmannen aan.
 
 1
-00:24:18,594 --> 00:24:22,342
+00:24:18,810 --> 00:24:22,850
 Met één slag sloeg hij
 de Aardman-Koning z'n kop eraf.
 
 1
-00:24:22,598 --> 00:24:26,726
-Honderd meter door de lucht,
-zo een konijnenhol in.
+00:24:22,940 --> 00:24:27,320
+Die vloog honderd meter door de lucht,
+recht een konijnenhol in.
 
 1
-00:24:26,977 --> 00:24:28,637
+00:24:27,320 --> 00:24:28,980
 Zo won hij de strijd.
 
 1
-00:24:29,438 --> 00:24:32,190
+00:24:29,900 --> 00:24:33,450
 En bedacht hij meteen
 het golfspel.
 
 1
-00:24:35,569 --> 00:24:37,776
+00:24:35,740 --> 00:24:38,280
 Volgens mij verzin je dat.
 
 1
-00:24:38,030 --> 00:24:41,695
+00:24:38,370 --> 00:24:41,580
 Ach, een goed verhaal
 verdient wat verfraaiing.
 
 1
-00:24:43,243 --> 00:24:47,193
+00:24:43,250 --> 00:24:47,590
 Jij hebt ook wat te vertellen
 als je terugkomt.
 
 1
-00:24:50,960 --> 00:24:53,166
+00:24:51,300 --> 00:24:53,550
 Kun je me beloven
 dat ik terugkom?
 
 1
-00:24:55,130 --> 00:24:56,625
+00:24:55,550 --> 00:24:57,180
 Nee.
 
 1
-00:24:56,882 --> 00:24:58,875
+00:24:57,260 --> 00:24:59,970
 En als je terugkomt...
 
 1
-00:24:59,718 --> 00:25:01,758
+00:25:00,060 --> 00:25:02,480
 ben je niet meer dezelfde.
 
 1
-00:25:03,597 --> 00:25:05,175
+00:25:03,560 --> 00:25:05,350
 Dat dacht ik al.
 
 1
-00:25:06,433 --> 00:25:08,011
+00:25:06,810 --> 00:25:09,900
 Sorry, Gandalf, ik teken dit niet.
 
 1
-00:25:11,105 --> 00:25:13,347
+00:25:11,530 --> 00:25:13,860
 Je hebt de verkeerde hobbit.
 
 1
-00:25:19,822 --> 00:25:23,238
+00:25:20,240 --> 00:25:23,410
 We zijn onze inbreker kwijt.
 
 1
-00:25:24,451 --> 00:25:26,111
+00:25:24,620 --> 00:25:27,000
 Misschien wel beter.
 
 1
-00:25:26,662 --> 00:25:28,951
+00:25:27,080 --> 00:25:29,340
 We hadden toch al zo weinig kans.
 
 1
-00:25:29,206 --> 00:25:31,958
+00:25:29,340 --> 00:25:31,960
 Want wat zijn we nou?
 
 1
-00:25:32,710 --> 00:25:35,331
+00:25:33,170 --> 00:25:36,340
 Kooplieden, mijnwerkers...
 
 1
-00:25:36,130 --> 00:25:37,410
+00:25:36,430 --> 00:25:38,720
 blikslagers, speelgoedmakers.
 
 1
-00:25:39,466 --> 00:25:41,459
+00:25:38,800 --> 00:25:41,810
 Niet echt legende-materiaal.
 
 1
-00:25:41,927 --> 00:25:44,501
+00:25:42,310 --> 00:25:45,270
 We hebben ook een paar krijgers.
 
 1
-00:25:45,431 --> 00:25:47,258
+00:25:45,770 --> 00:25:47,650
 Oude krijgers.
 
 1
-00:25:47,516 --> 00:25:49,841
+00:25:47,650 --> 00:25:49,980
 Ik ga liever op pad met deze dwergen...
 
 1
-00:25:50,102 --> 00:25:52,142
+00:25:49,980 --> 00:25:52,530
 dan met een leger van de IJzerheuvels.
 
 1
-00:25:52,396 --> 00:25:55,065
-Toen ik ze vroeg,
-zeiden ze ja.
+00:25:52,530 --> 00:25:56,400
+Toen ik ze vroeg, zeiden ze ja.
 
 1
-00:25:56,066 --> 00:25:58,604
+00:25:56,400 --> 00:25:59,370
 Loyaliteit, eer...
 
 1
-00:25:59,028 --> 00:26:00,854
+00:25:59,450 --> 00:26:02,620
 een gewillig hart.
 
 1
-00:26:02,448 --> 00:26:05,068
+00:26:02,620 --> 00:26:05,460
 Meer verlang ik niet.
 
 1
-00:26:05,366 --> 00:26:06,030
-Je hoeft...
+00:26:06,160 --> 00:26:08,120
+Je hoeft dit niet te doen.
 
 1
-00:26:06,284 --> 00:26:07,778
-dit niet te doen.
-
-1
-00:26:08,202 --> 00:26:09,780
+00:26:08,670 --> 00:26:10,420
 Je hebt een keus.
 
 1
-00:26:10,038 --> 00:26:12,992
+00:26:10,500 --> 00:26:13,340
 Je hebt ons volk altijd geholpen.
 
 1
-00:26:13,833 --> 00:26:17,617
+00:26:14,300 --> 00:26:18,300
 Je gaf ons een nieuw leven
 in de Blauwe Bergen.
 
 1
-00:26:17,921 --> 00:26:18,952
-Een leven van vrede...
+00:26:18,300 --> 00:26:21,930
+Een leven van vrede en overvloed.
 
 1
-00:26:19,213 --> 00:26:20,957
-en overvloed.
-
-1
-00:26:21,799 --> 00:26:26,757
+00:26:21,930 --> 00:26:27,100
 Een leven dat meer waard is
 dan al het goud van Erebor.
 
 1
-00:26:27,305 --> 00:26:32,263
+00:26:27,690 --> 00:26:32,610
 Van mijn grootvader tot mijn vader
 is deze tot mij gekomen.
 
 1
-00:26:33,519 --> 00:26:34,718
-Zij droomden van de dag...
-
-1
-00:26:34,979 --> 00:26:37,731
-dat de dwergen
+00:26:34,190 --> 00:26:38,070
+Zij droomden van de dag dat de dwergen
 Erebor zouden heroveren.
 
 1
-00:26:39,567 --> 00:26:41,939
+00:26:39,990 --> 00:26:42,580
 Er is geen keus, Balin.
 
 1
-00:26:43,446 --> 00:26:45,071
+00:26:43,620 --> 00:26:45,450
 Niet voor mij.
 
 1
-00:26:47,408 --> 00:26:49,116
+00:26:47,870 --> 00:26:51,380
 Dan gaan we met je mee.
 
 1
-00:26:51,704 --> 00:26:53,364
+00:26:51,460 --> 00:26:55,340
 We doen 't.
 
 1
-00:27:15,436 --> 00:27:18,686
-<i>ver over</i>
+00:27:15,820 --> 00:27:24,620
+<i>ver over nevelbergen koud</i>
 
 1
-00:27:18,940 --> 00:27:22,985
-<i>nevelbergen koud</i>
-
-1
-00:27:24,404 --> 00:27:28,532
+00:27:24,700 --> 00:27:28,870
 <i>naar kerkers diep</i>
 
 1
-00:27:28,908 --> 00:27:31,197
+00:27:28,870 --> 00:27:33,790
 <i>en grotten oud</i>
 
 1
-00:27:33,579 --> 00:27:36,497
+00:27:33,880 --> 00:27:38,460
 <i>moeten wij gaan</i>
 
 1
-00:27:38,293 --> 00:27:40,202
+00:27:38,460 --> 00:27:42,840
 <i>eer dag breekt aan</i>
 
 1
-00:27:43,256 --> 00:27:45,498
-<i>op zoek naar</i>
+00:27:42,930 --> 00:27:51,440
+<i>op zoek naar het betoverd goud</i>
 
 1
-00:27:47,010 --> 00:27:51,090
-<i>het betoverd goud</i>
+00:27:51,440 --> 00:28:01,030
+<i>de sparren brulden, bergenhoog</i>
 
 1
-00:27:51,973 --> 00:27:55,472
-<i>de sparren brulden</i>
+00:28:01,110 --> 00:28:09,790
+<i>terwijl de storm de nacht bevloog</i>
 
 1
-00:27:55,727 --> 00:28:00,305
-<i>bergenhoog</i>
+00:28:09,870 --> 00:28:19,130
+<i>het vuur was rood,
+werd angstig groot</i>
 
 1
-00:28:01,024 --> 00:28:01,770
-<i>terwijl de storm</i>
+00:28:19,130 --> 00:28:29,020
+<i>tot boom als fakkel, vlammen spoog</i>
 
 1
-00:28:02,025 --> 00:28:04,729
-<i>de nacht</i>
-
-1
-00:28:04,986 --> 00:28:08,189
-<i>bevloog</i>
-
-1
-00:28:09,991 --> 00:28:14,202
-<i>het vuur was rood</i>
-
-1
-00:28:14,454 --> 00:28:18,286
-<i>werd angstig groot</i>
-
-1
-00:28:19,208 --> 00:28:22,791
-<i>tot boom als fakkel</i>
-
-1
-00:28:23,046 --> 00:28:26,794
-<i>vlammen spoog</i>
-
-1
-00:29:52,510 --> 00:29:56,378
+00:29:52,680 --> 00:29:55,980
 Getekend: Thorin, zoon van Thraín
 Getuige: Balin, zoon van Fundin
 
 1
-00:29:56,639 --> 00:29:57,920
+00:29:55,990 --> 00:29:58,270
 Inbreker:
 
 1
-00:30:34,677 --> 00:30:35,591
-Hé...
-
-1
-00:30:35,845 --> 00:30:37,505
-Mr Bilbo.
+00:30:35,060 --> 00:30:37,560
+Hé, Mr Bilbo.
 Waar ga je naartoe?
 
 1
-00:30:37,764 --> 00:30:40,006
+00:30:37,560 --> 00:30:40,770
 Geen tijd, ben al te laat.
-- Te laat voor wat?
+-Te laat voor wat?
 
 1
-00:30:40,350 --> 00:30:43,019
+00:30:40,770 --> 00:30:43,440
 Ik ga op avontuur.
 
 1
-00:30:48,816 --> 00:30:52,185
+00:30:49,160 --> 00:30:52,870
 Ik zei 't toch?
 Allemaal tijdverspilling.
 
 1
-00:30:52,445 --> 00:30:53,939
+00:30:52,870 --> 00:30:54,450
 Helemaal waar.
 
 1
-00:30:54,197 --> 00:30:57,032
+00:30:54,450 --> 00:30:57,660
 Belachelijk.
 Een hobbit? Een halfling?
 
 1
-00:30:57,283 --> 00:30:58,612
+00:30:57,660 --> 00:30:59,420
 Wiens idee was het eigenlijk?
 
 1
-00:30:58,868 --> 00:30:59,864
+00:30:59,500 --> 00:31:00,210
 Wacht.
 
 1
-00:31:00,745 --> 00:31:01,776
+00:31:01,290 --> 00:31:02,130
 Wacht.
 
 1
-00:31:13,007 --> 00:31:14,466
+00:31:13,260 --> 00:31:15,060
 Ik heb getekend.
 
 1
-00:31:16,302 --> 00:31:17,583
-Hier.
+00:31:27,360 --> 00:31:29,780
+Alles lijkt me in orde.
 
 1
-00:31:26,729 --> 00:31:27,761
-Alles lijkt...
-
-1
-00:31:28,022 --> 00:31:29,398
-me in orde.
-
-1
-00:31:29,649 --> 00:31:31,974
+00:31:29,780 --> 00:31:32,320
 Welkom, meester Balings...
 
 1
-00:31:32,610 --> 00:31:36,228
+00:31:32,910 --> 00:31:36,580
 bij de groep van Thorin Eikenschild.
 
 1
-00:31:41,577 --> 00:31:42,740
+00:31:41,960 --> 00:31:43,080
 Geef hem een pony.
 
 1
-00:31:43,204 --> 00:31:44,746
+00:31:43,630 --> 00:31:45,130
 Nee, dat hoeft niet.
 
 1
-00:31:44,998 --> 00:31:47,121
+00:31:45,130 --> 00:31:47,420
 Ik hou het lopend wel bij.
 
 1
-00:31:47,375 --> 00:31:49,866
+00:31:47,510 --> 00:31:50,260
 Ik maak vaak wandeltochten.
 
 1
-00:31:50,128 --> 00:31:52,120
-Ik ben al 's naar
+00:31:50,260 --> 00:31:52,470
+Ik ben al's naar
 Puitenlee gelopen.
 
 1
-00:32:06,019 --> 00:32:07,892
-Kom op, Nori.
-Dokken.
+00:32:06,400 --> 00:32:08,230
+Kom op, Nori. Dokken.
 
 1
-00:32:09,897 --> 00:32:11,937
+00:32:10,070 --> 00:32:12,490
 Nog één.
 
 1
-00:32:12,191 --> 00:32:13,686
+00:32:12,490 --> 00:32:14,450
 Waar is dat voor?
 
 1
-00:32:13,943 --> 00:32:18,404
+00:32:14,450 --> 00:32:19,080
 Ze hebben gewed of je wel
 of niet zou komen.
 
 1
-00:32:18,656 --> 00:32:21,443
+00:32:19,080 --> 00:32:21,870
 De meesten dachten van niet.
 
 1
-00:32:22,827 --> 00:32:24,369
+00:32:23,210 --> 00:32:24,790
 En wat dacht jij?
 
 1
-00:32:29,208 --> 00:32:33,787
+00:32:29,170 --> 00:32:33,380
 Mijn beste, ik heb geen seconde
 aan je getwijfeld.
 
 1
-00:32:38,676 --> 00:32:42,508
+00:32:39,100 --> 00:32:42,390
 Paardenhaar.
 Daar kan ik niet tegen.
 
 1
-00:32:44,223 --> 00:32:45,848
+00:32:44,440 --> 00:32:46,190
 Wacht 's. Stop.
 
 1
-00:32:46,476 --> 00:32:48,552
+00:32:46,810 --> 00:32:48,900
 Stop. We moeten terug.
 
 1
-00:32:48,895 --> 00:32:49,808
-Wat is...
+00:32:49,440 --> 00:32:51,280
+Wat is er loos?
 
 1
-00:32:50,063 --> 00:32:50,845
-er loos?
+00:32:51,280 --> 00:32:53,570
+Ik vergat mijn zakdoek.
+-Hier...
 
 1
-00:32:51,105 --> 00:32:53,228
-Ik vergeet mijn zakdoek.
-- Hier...
-
-1
-00:32:54,901 --> 00:32:55,932
+00:32:55,450 --> 00:32:56,280
 Neem dit.
 
 1
-00:33:00,323 --> 00:33:01,817
+00:33:00,830 --> 00:33:02,040
 Doorgaan.
 
 1
-00:33:08,998 --> 00:33:11,785
+00:33:09,420 --> 00:33:12,380
 <i>Je zult het zonder zakdoeken
 moeten doen...</i>
 
 1
-00:33:12,043 --> 00:33:14,285
+00:33:12,470 --> 00:33:15,180
 <i>en nog een heleboel meer...</i>
 
 1
-00:33:14,545 --> 00:33:17,879
+00:33:15,180 --> 00:33:17,720
 <i>voordat we ons doel
 hebben bereikt.</i>
 
 1
-00:33:18,508 --> 00:33:19,254
-<i>Je bent geboren...</i>
-
-1
-00:33:19,509 --> 00:33:23,838
-<i>in de heuvels
+00:33:18,970 --> 00:33:24,440
+<i>Je bent geboren in de heuvels
 en riviertjes van de Gouw.</i>
 
 1
-00:33:24,931 --> 00:33:27,766
+00:33:25,390 --> 00:33:28,360
 <i>Maar je thuis ligt nu achter je.</i>
 
 1
-00:33:28,017 --> 00:33:31,018
-<i>Voor je ligt de wereld.</i>
-
+00:33:28,440 --> 00:33:31,860
+<i>Maar je thuis ligt nu achter je.</i>

@@ -1,234 +1,193 @@
 ﻿1
-00:14:57,613 --> 00:14:59,938
+00:14:57,540 --> 00:15:00,210
 <i>dat vindt Bilbo Balings naar</i>
 
 1
-00:15:02,284 --> 00:15:03,862
-Bilbo.
-
-1
-00:15:13,170 --> 00:15:14,201
+00:15:13,720 --> 00:15:15,430
 Hij is er.
 
 1
-00:15:19,092 --> 00:15:20,635
+00:15:19,480 --> 00:15:21,190
 Gandalf.
 
 1
-00:15:22,054 --> 00:15:22,836
-Je zei dat...
+00:15:22,560 --> 00:15:25,320
+Je zei dat 't makkelijk te vinden was.
 
 1
-00:15:23,096 --> 00:15:24,128
-'t makkelijk...
-
-1
-00:15:24,389 --> 00:15:26,880
-te vinden was.
+00:15:25,320 --> 00:15:27,530
 Ik ben twee keer verdwaald.
 
 1
-00:15:27,142 --> 00:15:30,558
+00:15:27,530 --> 00:15:30,820
 Zonder dat teken op de deur
 had ik 't nooit gevonden.
 
 1
-00:15:30,813 --> 00:15:33,683
+00:15:30,900 --> 00:15:34,030
 Er is geen teken.
 Die deur is net geschilderd.
 
 1
-00:15:33,941 --> 00:15:36,942
+00:15:34,030 --> 00:15:36,950
 Er is wel een teken.
 Ik heb 't er zelf op gezet.
 
 1
-00:15:37,778 --> 00:15:41,858
+00:15:38,120 --> 00:15:42,210
 Bilbo Balings, ik stel je voor
 aan de leider van onze groep:
 
 1
-00:15:42,449 --> 00:15:44,358
+00:15:42,750 --> 00:15:44,920
 Thorin Eikenschild.
 
 1
-00:15:44,618 --> 00:15:46,112
+00:15:45,000 --> 00:15:46,500
 Zo...
 
 1
-00:15:47,663 --> 00:15:49,371
+00:15:48,050 --> 00:15:50,510
 dus dit is de hobbit.
 
 1
-00:15:50,415 --> 00:15:52,704
+00:15:50,970 --> 00:15:53,090
 Mr Balings, heb je veel gevochten?
 
 1
-00:15:52,960 --> 00:15:54,418
+00:15:53,090 --> 00:15:55,470
 Pardon?
-- Bijl of zwaard?
+-Bijl of zwaard?
 
 1
-00:15:55,087 --> 00:15:56,546
+00:15:55,470 --> 00:15:57,260
 Wat is je favoriete wapen?
 
 1
-00:15:56,797 --> 00:16:00,213
+00:15:57,260 --> 00:16:00,680
 Ik kan wel aardig kastanje-tikken,
 als je 't per se wilt weten.
 
 1
-00:16:00,467 --> 00:16:04,002
+00:16:00,680 --> 00:16:04,350
 Maar ik begrijp niet echt
 wat dat ertoe doet.
 
 1
-00:16:04,429 --> 00:16:05,972
+00:16:04,350 --> 00:16:05,980
 Dat dacht ik al.
 
 1
-00:16:06,223 --> 00:16:08,975
+00:16:06,650 --> 00:16:09,320
 Hij lijkt meer op
 een kruidenier dan op 'n inbreker.
 
 1
-00:16:14,231 --> 00:16:14,895
-<i>Nog nieuws...</i>
-
-1
-00:16:15,149 --> 00:16:17,900
-van Ered Luin?
+00:16:14,700 --> 00:16:18,410
+Nog nieuws van Ered Luin?
 Waren ze er allemaal?
 
 1
-00:16:18,152 --> 00:16:21,106
+00:16:18,490 --> 00:16:21,580
 Ja, afgezanten van alle
 zeven koninkrijken.
 
 1
-00:16:21,363 --> 00:16:23,901
+00:16:21,660 --> 00:16:24,250
 Wat zeiden de dwergen
 van de IJzerheuvels?
 
 1
-00:16:25,117 --> 00:16:27,026
+00:16:25,500 --> 00:16:27,420
 Doet Dain mee?
 
 1
-00:16:29,413 --> 00:16:30,872
+00:16:29,840 --> 00:16:31,220
 Ze komen niet.
 
 1
-00:16:33,959 --> 00:16:34,955
-Ze zeggen dat dit...
+00:16:34,800 --> 00:16:38,430
+Ze zeggen dat dit onze zoektocht is.
 
 1
-00:16:35,210 --> 00:16:38,377
-onze zoektocht is.
-
-1
-00:16:40,507 --> 00:16:42,500
+00:16:40,890 --> 00:16:42,890
 Een zoektocht?
 
 1
-00:16:43,760 --> 00:16:48,588
+00:16:44,140 --> 00:16:48,520
 Bilbo, mijn beste vriend,
 geef ons eens wat meer licht.
 
 1
-00:16:49,600 --> 00:16:51,343
+00:16:49,980 --> 00:16:52,240
 Ver weg in het oosten...
 
 1
-00:16:51,977 --> 00:16:54,729
+00:16:52,320 --> 00:16:55,110
 over bergketens en rivieren...
 
 1
-00:16:55,022 --> 00:16:58,272
+00:16:55,110 --> 00:16:58,700
 voorbij onbewoonbare
 woestenijen...
 
 1
-00:16:58,525 --> 00:17:00,814
+00:16:58,700 --> 00:17:01,450
 ligt een alleenstaande berg.
 
 1
-00:17:04,364 --> 00:17:06,156
+00:17:04,750 --> 00:17:06,500
 De Eenzame Berg.
 
 1
-00:17:06,783 --> 00:17:08,860
-Ja, Oín heeft...
+00:17:07,130 --> 00:17:10,250
+Ja, Oín heeft de voortekenen gelezen...
 
 1
-00:17:09,119 --> 00:17:13,448
-de voortekenen gelezen
+00:17:10,340 --> 00:17:13,800
 en de voortekenen zeggen: Het is tijd.
 
 1
-00:17:13,790 --> 00:17:14,786
-De raven zijn...
+00:17:13,800 --> 00:17:18,970
+De raven zijn teruggekeerd naar de berg,
+zoals voorspeld.
 
 1
-00:17:15,042 --> 00:17:18,577
-teruggekeerd
-naar de berg, zoals voorspeld.
-
-1
-00:17:18,837 --> 00:17:21,375
+00:17:18,970 --> 00:17:23,140
 'Als de vogels van voorheen
-terugkeren...
+terugkeren naar Erebor...
 
 1
-00:17:21,632 --> 00:17:22,711
-naar Erebor...
-
-1
-00:17:22,966 --> 00:17:24,461
-is dat het eind
-van de heerschappij...
-
-1
-00:17:24,718 --> 00:17:26,378
+00:17:23,230 --> 00:17:26,850
+is dat het eind van de heerschappij
 van het Beest.'
 
 1
-00:17:29,515 --> 00:17:31,472
+00:17:29,060 --> 00:17:31,320
 Welk beest?
-- Dat is...
 
 1
-00:17:31,892 --> 00:17:33,137
-Smaug de Verschrikkelijke.
+00:17:31,320 --> 00:17:33,570
+Dat is Smaug de Verschrikkelijke.
 
 1
-00:17:33,393 --> 00:17:34,638
-Het grootste...
+00:17:33,570 --> 00:17:37,360
+Het grootste onheil van onze era.
 
 1
-00:17:34,895 --> 00:17:36,010
-onheil van onze era.
-
-1
-00:17:38,065 --> 00:17:39,725
+00:17:38,490 --> 00:17:40,080
 Vliegende vuurspuwer.
 
 1
-00:17:39,983 --> 00:17:40,979
+00:17:40,080 --> 00:17:43,080
 Tanden als scheermessen.
-
-1
-00:17:41,235 --> 00:17:42,693
 Klauwen als vleeshaken.
 
 1
-00:17:42,945 --> 00:17:44,225
+00:17:43,080 --> 00:17:45,750
 Dol op kostbare metalen.
+-Ik weet wat een draak is.
 
 1
-00:17:44,488 --> 00:17:45,353
-Ik weet wat een draak is.
-
-1
-00:17:45,948 --> 00:17:47,656
-Ik ben er klaar voor.
+00:17:45,750 --> 00:17:47,790
+Ik ben niet bang. Ik ben er klaar voor.

@@ -1,13 +1,9 @@
 ﻿1
-03:37:53,811 --> 03:37:56,223
-Jij zit hier in die grote zalen...
-
-1
-03:37:56,480 --> 03:37:58,937
+03:38:09,150 --> 03:38:13,760
+Jij zit hier in die grote zalen
 met een kroon op je hoofd...
 
 1
-03:37:59,692 --> 03:38:02,775
-en je bent nog minder
+03:38:15,040 --> 03:38:19,020
+en toch ben je nog minder
 dan je ooit bent geweest.
-

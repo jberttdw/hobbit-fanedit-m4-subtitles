@@ -1,336 +1,305 @@
 ﻿1
-00:35:56,321 --> 00:35:58,112
+00:35:56,550 --> 00:35:58,460
 We overnachten hier.
 
 1
-00:35:58,573 --> 00:36:02,950
+00:35:59,010 --> 00:36:03,590
 Fíli, Kíli, zorg voor de pony's.
 Blijf bij ze.
 
 1
-00:36:03,202 --> 00:36:07,200
+00:36:03,590 --> 00:36:07,600
 Hier heeft een boer
 met zijn gezin gewoond.
 
 1
-00:36:07,457 --> 00:36:10,161
+00:36:07,600 --> 00:36:10,560
 Oín, Gloín.
 Maak een vuurtje.
 
 1
-00:36:11,628 --> 00:36:15,210
+00:36:11,690 --> 00:36:15,020
 Ik denk dat we beter
 door kunnen gaan.
 
 1
-00:36:16,215 --> 00:36:19,086
+00:36:16,440 --> 00:36:19,650
 Tot de Verborgen Vallei.
 
 1
-00:36:19,385 --> 00:36:21,212
-Dat heb ik je al gezegd.
-
-1
-00:36:21,471 --> 00:36:23,262
+00:36:19,650 --> 00:36:23,860
+Ik heb je het al gezegd:
 Daar ga ik niet naartoe.
 
 1
-00:36:23,514 --> 00:36:25,721
+00:36:23,860 --> 00:36:26,330
 Hoezo niet?
 De elfen kunnen ons helpen...
 
 1
-00:36:25,975 --> 00:36:27,968
+00:36:26,410 --> 00:36:28,620
 met voedsel, rust, advies.
 
 1
-00:36:28,227 --> 00:36:30,897
+00:36:28,660 --> 00:36:30,790
 Ik hoef hun advies niet.
-- Wij kunnen die kaart...
 
 1
-00:36:31,648 --> 00:36:34,483
-niet lezen.
+00:36:30,790 --> 00:36:34,880
+Wij kunnen die kaart niet lezen.
 Heer Elrond kan ons helpen.
 
 1
-00:36:34,734 --> 00:36:36,062
+00:36:34,880 --> 00:36:36,790
 Helpen?
 
 1
-00:36:37,111 --> 00:36:39,151
+00:36:37,500 --> 00:36:41,970
 Een draak viel Erebor aan.
-
-1
-00:36:39,405 --> 00:36:41,612
 En wat deden de elfen?
 
 1
-00:36:42,700 --> 00:36:43,779
+00:36:43,050 --> 00:36:45,140
 Orks plunderden Moria...
 
 1
-00:36:44,827 --> 00:36:48,279
+00:36:45,220 --> 00:36:47,680
 ontheiligden onze zalen.
-De elfen keken...
 
 1
-00:36:48,539 --> 00:36:49,998
-alleen maar toe.
+00:36:47,760 --> 00:36:50,270
+De elfen keken alleen maar toe.
 
 1
-00:36:51,250 --> 00:36:54,999
+00:36:51,430 --> 00:36:55,900
 En nu moet ik naar hen die mijn
 grootvader hebben verraden?
 
 1
-00:36:55,505 --> 00:36:56,703
+00:36:55,900 --> 00:36:57,110
 En mijn vader.
 
 1
-00:36:56,965 --> 00:36:58,708
+00:36:57,110 --> 00:36:59,020
 En jij bent geen van beiden.
 
 1
-00:36:59,509 --> 00:37:00,173
-Daar heb ik...
-
-1
-00:37:00,426 --> 00:37:03,131
-je die kaart en sleutel
+00:37:00,030 --> 00:37:03,450
+Daar heb ik je die kaart en sleutel
 niet voor gegeven.
 
 1
-00:37:03,388 --> 00:37:04,798
+00:37:03,450 --> 00:37:07,070
 Ik wist niet dat die van jou waren.
 
 1
-00:37:11,521 --> 00:37:14,190
+00:37:11,700 --> 00:37:14,540
 Is alles goed?
 Gandalf, waar ga je heen?
 
 1
-00:37:14,440 --> 00:37:17,774
-Naar de enige hier
+00:37:14,620 --> 00:37:18,210
+Op stap met de enige hier
 die nog een beetje verstand heeft.
 
 1
-00:37:18,027 --> 00:37:18,727
-Wie is dat?
+00:37:18,210 --> 00:37:21,010
+Wie bedoel je?
+-Mezelf, Mr Balings.
 
 1
-00:37:18,987 --> 00:37:20,647
-Ik, Mr Balings.
-
-1
-00:37:21,114 --> 00:37:23,605
+00:37:21,010 --> 00:37:23,970
 Ik ben die dwergen zat.
 
 1
-00:37:25,535 --> 00:37:27,492
-Kom, Bombur.
-We hebben honger.
+00:37:25,890 --> 00:37:27,800
+Kom, Bombur. We hebben honger.
 
 1
-00:37:28,162 --> 00:37:30,285
+00:37:28,550 --> 00:37:30,310
 Komt ie wel terug?
 
 1
-00:37:34,752 --> 00:37:35,997
+00:37:35,190 --> 00:37:36,650
 Hij blijft wel lang weg.
 
 1
-00:37:36,254 --> 00:37:37,452
+00:37:36,650 --> 00:37:38,020
 Wie?
-- Gandalf.
+-Gandalf.
 
 1
-00:37:37,714 --> 00:37:39,790
+00:37:38,020 --> 00:37:40,190
 Tovenaars doen wat ze willen.
 
 1
-00:37:40,049 --> 00:37:43,050
+00:37:40,270 --> 00:37:43,900
 Hier, breng dit eens
 naar de mannen.
 
 1
-00:37:43,636 --> 00:37:45,130
+00:37:43,990 --> 00:37:45,490
 Ho maar, je hebt genoeg gehad.
 
 1
-00:37:45,388 --> 00:37:48,923
+00:37:45,490 --> 00:37:49,490
 Da's niet slecht, Bombur.
 
 1
-00:37:49,183 --> 00:37:51,141
+00:37:49,490 --> 00:37:51,700
 Dori had 't ook gekund.
 
 1
-00:37:51,394 --> 00:37:53,303
+00:37:51,790 --> 00:37:52,830
 Om te gillen.
 
 1
-00:38:04,324 --> 00:38:05,569
+00:38:04,590 --> 00:38:05,970
 Wat is er?
 
 1
-00:38:05,825 --> 00:38:10,154
+00:38:05,970 --> 00:38:10,550
 We moesten op de pony's letten.
-- Maar er is een klein probleempje.
+-Maar er is een klein probleempje.
 
 1
-00:38:10,413 --> 00:38:12,204
+00:38:10,550 --> 00:38:12,720
 We hadden er 16.
 
 1
-00:38:12,457 --> 00:38:15,208
+00:38:12,810 --> 00:38:16,060
 En nu zijn er nog 14.
 
 1
-00:38:18,588 --> 00:38:20,462
+00:38:18,980 --> 00:38:21,270
 Daisy en Bungo zijn weg.
 
 1
-00:38:21,090 --> 00:38:22,798
+00:38:21,360 --> 00:38:23,440
 Da's niet zo mooi.
 
 1
-00:38:23,051 --> 00:38:26,384
+00:38:23,440 --> 00:38:26,280
 En dat is helemaal niet zo mooi.
 Moeten we Thorin inlichten?
 
 1
-00:38:26,638 --> 00:38:28,677
-Nee, dat gaan we niet doen.
+00:38:26,280 --> 00:38:29,240
+Nee, we moeten hem niet ongerust maken.
 
 1
-00:38:28,931 --> 00:38:32,098
-Als onze officiële inbreker,
-is dit wel een klusje voor jou.
+00:38:29,240 --> 00:38:32,740
+Als onze officiële inbreker leek dit
+een klusje voor jou.
 
 1
-00:38:34,228 --> 00:38:38,357
+00:38:34,540 --> 00:38:38,830
 Dat is 't werk van iets groots.
-- Dachten wij ook.
+-Dachten wij ook.
 
 1
-00:38:38,608 --> 00:38:43,069
+00:38:38,920 --> 00:38:42,960
 Iets wat heel erg groot is
 en wellicht gevaarlijk.
 
 1
-00:38:45,531 --> 00:38:47,074
+00:38:45,880 --> 00:38:47,970
 Ik zie daar licht.
 
 1
-00:38:47,700 --> 00:38:49,111
+00:38:48,050 --> 00:38:49,340
 Kom hier.
 
 1
-00:38:51,621 --> 00:38:52,652
+00:38:51,850 --> 00:38:52,970
 Laag blijven.
 
 1
-00:38:58,127 --> 00:38:59,503
+00:38:58,520 --> 00:39:01,400
 Wat is het?
+-Trollen.
 
 1
-00:38:59,754 --> 00:39:01,129
-Trollen.
-
-1
-00:39:28,074 --> 00:39:32,866
+00:39:28,300 --> 00:39:30,340
 Hij heeft Myrtle en Minty.
+
+1
+00:39:31,550 --> 00:39:34,350
 Ze gaan ze opeten. We moeten wat doen.
 
 1
-00:39:34,122 --> 00:39:35,865
+00:39:34,350 --> 00:39:36,220
 Ja, je moet wat doen.
 
 1
-00:39:36,165 --> 00:39:37,541
-Bergtrollen zijn langzaam...
+00:39:36,600 --> 00:39:40,520
+Bergtrollen zijn niet slim, en jij bent klein.
+Ze gaan je nooit opmerken.
 
 1
-00:39:37,792 --> 00:39:40,164
-en dom.
-Ze zien je niet.
-
-1
-00:39:40,420 --> 00:39:42,329
+00:39:40,520 --> 00:39:42,650
+Er is geen gevaar.
 Wij blijven in de buurt.
 
 1
-00:39:42,588 --> 00:39:44,462
-Je krast twee keer als een kerkuil...
+00:39:42,650 --> 00:39:46,280
+Bij problemen kras je twee keer als
+een kerkuil en één keer als een bruine uil.
 
 1
-00:39:44,716 --> 00:39:46,044
-en één keer als een bruine uil.
-
-1
-00:39:46,301 --> 00:39:49,136
+00:39:46,360 --> 00:39:49,570
 Twee keer als een kerkuil...
-Nee, als een...
+Nee, twee keer als...
 
 1
-00:39:49,387 --> 00:39:51,344
+00:39:49,570 --> 00:39:51,660
+Als...
 Is dit wel een goed idee?
 
 1
-00:39:51,723 --> 00:39:54,724
+00:39:52,070 --> 00:39:55,200
 Gisteren schaap, vandaag schaap...
 
 1
-00:39:54,976 --> 00:39:58,427
-en het zal morgen ook wel
+00:39:55,200 --> 00:39:58,830
+en verduveld, het zal morgen ook wel
 weer schaap worden.
 
 1
-00:39:59,522 --> 00:40:01,479
+00:39:59,870 --> 00:40:01,870
 Zanik niet zo.
 
 1
-00:40:01,733 --> 00:40:06,810
+00:40:01,870 --> 00:40:06,460
 Dit is geen schaap.
 Dit zijn verse knollen.
 
 1
-00:40:07,155 --> 00:40:10,274
+00:40:06,460 --> 00:40:12,010
 Ik lust geen paard.
-
-1
-00:40:10,533 --> 00:40:12,573
 Er zit veel te weinig vet aan.
-- Beter...
 
 1
-00:40:12,827 --> 00:40:14,985
-dan zo'n taaie boer.
-Hij was nog vel over been ook.
+00:40:12,010 --> 00:40:14,430
+Beter dan zo'n taaie boer.
 
 1
-00:40:15,705 --> 00:40:16,618
-Het zit nog steeds...
+00:40:14,430 --> 00:40:18,850
+Hij was slechts vel over been.
+Het zit nog steeds tussen m'n tanden.
 
 1
-00:40:16,873 --> 00:40:18,865
-tussen m'n tanden.
+00:40:20,230 --> 00:40:23,480
+Lekker hoor. Hij blijft drijven.
 
 1
-00:40:19,876 --> 00:40:22,960
-Lekker hoor.
-Hij blijft drijven.
+00:40:23,560 --> 00:40:25,440
+Misschien goed voor de smaak.
 
 1
-00:40:23,212 --> 00:40:25,086
-Goed voor de smaak.
+00:40:25,440 --> 00:40:27,440
+Oh, ik heb nog veel meer.
 
 1
-00:40:25,465 --> 00:40:27,790
-En ik heb nog veel meer.
-
-1
-00:40:28,134 --> 00:40:29,297
+00:40:28,360 --> 00:40:30,400
 Waag het niet.
-

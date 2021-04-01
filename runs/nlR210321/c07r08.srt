@@ -1,158 +1,123 @@
 ﻿1
-01:53:00,232 --> 01:53:01,775
+01:52:58,910 --> 01:53:00,460
 Zijn er nog meer zoals jij?
 
 1
-01:53:03,319 --> 01:53:04,861
+01:53:02,130 --> 01:53:04,880
 Ooit waren er heel veel.
 
 1
-01:53:05,821 --> 01:53:06,655
+01:53:04,920 --> 01:53:06,340
 En nu?
 
 1
-01:53:08,366 --> 01:53:10,158
+01:53:07,260 --> 01:53:10,010
 Nu is er nog maar één.
 
 1
-01:53:12,787 --> 01:53:13,912
-Jullie moeten...
+01:53:11,630 --> 01:53:13,850
+Jullie moeten bij de Berg zijn...
 
 1
-01:53:14,163 --> 01:53:17,832
-bij de Berg zijn
+01:53:13,930 --> 01:53:16,180
 voor het eind van de herfst.
 
 1
-01:53:18,084 --> 01:53:19,209
+01:53:16,260 --> 01:53:19,520
 Voor het eind van Durinsdag.
 
 1
-01:53:19,460 --> 01:53:20,418
-Ja.
-
-1
-01:53:20,962 --> 01:53:22,504
+01:53:19,520 --> 01:53:21,230
 Jullie hebben niet veel tijd meer.
 
 1
-01:53:22,755 --> 01:53:24,965
-We moeten door het Demsterwold.
+01:53:21,230 --> 01:53:23,690
+Daarom gaan we door het Demsterwold.
 
 1
-01:53:25,216 --> 01:53:28,009
+01:53:23,690 --> 01:53:27,030
 Er heerst een duistere kracht in dat bos.
 
 1
-01:53:28,260 --> 01:53:31,262
+01:53:27,110 --> 01:53:30,320
 Kwade dingen kruipen onder de bomen.
 
 1
-01:53:31,806 --> 01:53:33,723
-Ik zou er niet doorheen reizen...
-
-1
-01:53:33,975 --> 01:53:35,850
+01:53:30,320 --> 01:53:34,570
+Ik zou er niet doorheen reizen
 als het niet noodzakelijk is.
 
 1
-01:53:36,102 --> 01:53:38,144
+01:53:34,570 --> 01:53:36,870
 We nemen de elfenweg.
 
 1
-01:53:38,396 --> 01:53:39,396
+01:53:36,870 --> 01:53:39,870
 Dat pad is nog veilig.
+-Nee.
 
 1
-01:53:39,647 --> 01:53:40,605
-Veilig?
+01:53:39,950 --> 01:53:43,000
+De elfen van het Demsterwold zijn anders.
 
 1
-01:53:41,107 --> 01:53:42,440
-De elfen van het Demsterwold...
+01:53:43,000 --> 01:53:46,710
+Minder wijs en veel gevaarlijker.
 
 1
-01:53:42,692 --> 01:53:43,650
-zijn anders.
-
-1
-01:53:44,276 --> 01:53:45,735
-Minder wijs...
-
-1
-01:53:45,987 --> 01:53:47,862
-en veel gevaarlijker.
-
-1
-01:53:49,323 --> 01:53:50,907
+01:53:48,210 --> 01:53:50,590
 Maar het maakt niets uit.
 
 1
-01:53:52,827 --> 01:53:53,910
+01:53:51,670 --> 01:53:52,680
 Wat bedoel je?
 
 1
-01:53:54,161 --> 01:53:56,913
+01:53:52,680 --> 01:53:56,390
 Het krioelt hier van de orks.
 
 1
-01:53:57,665 --> 01:54:00,375
+01:53:56,430 --> 01:53:59,140
 Het worden er steeds meer.
 
 1
-01:54:00,626 --> 01:54:02,085
+01:53:59,560 --> 01:54:01,770
 En jullie zijn te voet.
 
 1
-01:54:03,004 --> 01:54:03,962
-Jullie zullen het bos...
+01:54:01,850 --> 01:54:04,980
+Jullie zullen het bos nooit bereiken.
 
 1
-01:54:04,213 --> 01:54:06,256
-nooit bereiken.
-
-1
-01:54:10,720 --> 01:54:13,054
+01:54:09,570 --> 01:54:11,780
 Ik hou niet van dwergen.
 
 1
-01:54:14,056 --> 01:54:15,724
+01:54:12,900 --> 01:54:14,570
 Ze zijn hebzuchtig...
 
 1
-01:54:16,434 --> 01:54:17,434
+01:54:15,620 --> 01:54:16,950
 en blind.
 
 1
-01:54:18,936 --> 01:54:20,812
-Blind voor de levens van hen...
-
-1
-01:54:21,063 --> 01:54:23,523
+01:54:16,950 --> 01:54:22,710
+Blind voor de levens van hen
 die zij minder achten.
 
 1
-01:54:30,156 --> 01:54:32,407
+01:54:29,050 --> 01:54:31,210
 Maar orks haat ik nog meer.
 
 1
-01:54:34,243 --> 01:54:35,910
+01:54:33,050 --> 01:54:34,630
 Wat heb je nodig?
 
 1
-01:54:44,045 --> 01:54:44,669
-Laat mijn...
-
-1
-01:54:44,920 --> 01:54:46,504
-pony's los
+01:54:42,850 --> 01:54:45,310
+Laat mijn pony's los
 voordat je het bos in gaat.
 
 1
-01:54:46,756 --> 01:54:48,465
+01:54:45,310 --> 01:54:47,060
 Je hebt mijn woord.
-
-1
-01:54:50,634 --> 01:54:51,843
-We worden bekeken.
-

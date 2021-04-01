@@ -1,17 +1,12 @@
 ﻿1
-02:51:57,107 --> 02:52:00,777
+02:52:12,300 --> 02:52:16,260
 De Koning onder de Berg is dood.
 
 1
-02:52:01,028 --> 02:52:02,695
+02:52:16,340 --> 02:52:18,550
 Ik heb zijn troon ingenomen.
 
 1
-02:52:03,072 --> 02:52:03,988
-Ik at zijn...
-
-1
-02:52:04,239 --> 02:52:07,033
-volk op
+02:52:18,550 --> 02:52:22,600
+Ik at zijn volk op
 als een wolf onder de schapen.
-

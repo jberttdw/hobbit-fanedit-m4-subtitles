@@ -1,98 +1,78 @@
 ﻿1
-01:08:10,798 --> 01:08:11,463
-Waar ga...
+01:08:15,230 --> 01:08:17,530
+Waar ga jij naartoe?
 
 1
-01:08:11,716 --> 01:08:13,210
-jij naartoe?
+01:08:20,200 --> 01:08:22,410
+Terug naar Rivendell.
 
 1
-01:08:16,012 --> 01:08:17,292
-Terug naar Rivendel.
-
-1
-01:08:18,473 --> 01:08:20,715
+01:08:22,410 --> 01:08:24,870
 Nee, je kan nu niet teruggaan.
 
 1
-01:08:20,975 --> 01:08:22,220
-Je hoort bij de groep...
+01:08:24,870 --> 01:08:28,120
+Je hoort bij de groep.
+Je bent een van ons.
 
 1
-01:08:22,477 --> 01:08:23,852
-je bent een van ons.
-
-1
-01:08:24,103 --> 01:08:25,384
+01:08:28,120 --> 01:08:29,500
 Niet echt, hè?
 
 1
-01:08:27,231 --> 01:08:29,722
+01:08:31,620 --> 01:08:35,000
 Thorin zei ook dat ik niet
 mee had moeten gaan.
 
 1
-01:08:30,735 --> 01:08:31,517
-Ik ben geen Toek...
-
-1
-01:08:31,778 --> 01:08:34,732
+01:08:35,130 --> 01:08:38,090
+Ik ben geen Toek,
 ik ben een Balings.
 
 1
-01:08:36,115 --> 01:08:37,775
+01:08:40,130 --> 01:08:44,300
 Ik had 't nooit moeten doen.
+-Je hebt heimwee, ik snap 't.
 
 1
-01:08:38,034 --> 01:08:40,192
-Je hebt heimwee, ik snap 't.
-
-1
-01:08:40,453 --> 01:08:42,861
+01:08:44,300 --> 01:08:47,010
 Nee, je snapt het niet.
+Geen van jullie.
 
 1
-01:08:43,122 --> 01:08:45,744
+01:08:47,100 --> 01:08:50,350
 Jullie zijn dwergen.
-Jullie zijn gewend...
+Jullie zijn dit gewend.
 
 1
-01:08:46,000 --> 01:08:47,198
-te reizen.
+01:08:50,430 --> 01:08:55,020
+Altijd op doorreis, nooit blijven staan.
+Nooit een thuisgevoel hebben.
 
 1
-01:08:47,460 --> 01:08:49,749
-Jullie horen nergens thuis.
-
-1
-01:08:53,883 --> 01:08:56,172
+01:08:58,070 --> 01:09:00,280
 Sorry, ik...
 
 1
-01:09:01,099 --> 01:09:02,676
+01:09:05,200 --> 01:09:06,870
 Je hebt gelijk.
 
 1
-01:09:06,104 --> 01:09:08,013
+01:09:10,200 --> 01:09:12,250
 Wij horen nergens thuis.
 
 1
-01:09:16,322 --> 01:09:18,564
+01:09:20,380 --> 01:09:22,680
 Ik wens je alle geluk van de wereld.
 
 1
-01:09:21,828 --> 01:09:22,824
+01:09:25,720 --> 01:09:26,890
 Echt.
 
 1
-01:09:27,667 --> 01:09:28,497
+01:09:31,770 --> 01:09:32,560
 Wat is dat?
 
 1
-01:09:51,524 --> 01:09:52,555
+01:09:55,500 --> 01:09:57,710
 Wakker worden.
-
-1
-01:09:52,817 --> 01:09:53,599
-Wakker worden.
-

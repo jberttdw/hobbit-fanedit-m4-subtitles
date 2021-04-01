@@ -1,58 +1,42 @@
 ﻿1
-01:28:11,525 --> 01:28:12,984
-Ik ken dat zwaard.
+01:28:16,060 --> 01:28:19,560
+Dat zwaard,
+dat is de Aardmannenkliever.
 
 1
-01:28:13,486 --> 01:28:15,478
-Dat is de Aardmannenkliever.
-
-1
-01:28:16,113 --> 01:28:17,276
+01:28:20,310 --> 01:28:25,110
 De Bijter.
+Het zwaard dat duizend nekken heeft genekt.
 
 1
-01:28:18,532 --> 01:28:19,813
-Het zwaard dat...
+01:28:25,110 --> 01:28:29,240
+Verwond ze. Sla ze. Dood ze.
 
 1
-01:28:20,075 --> 01:28:21,902
-duizend nekken heeft genekt.
-Maak ze af.
-
-1
-01:28:23,120 --> 01:28:25,160
-Versla ze. Dood ze.
-
-1
-01:28:25,414 --> 01:28:27,039
+01:28:29,240 --> 01:28:31,160
 Dood ze allemaal.
 
 1
-01:28:27,291 --> 01:28:28,869
-Sla z'n kop eraf.
+01:28:31,410 --> 01:28:32,950
+Snij z'n kop eraf.
 
 1
-01:28:58,989 --> 01:29:01,196
+01:29:02,770 --> 01:29:05,360
 Pak je wapens.
 
 1
-01:29:01,867 --> 01:29:03,148
+01:29:06,020 --> 01:29:07,820
 Vecht.
 
 1
-01:29:04,495 --> 01:29:05,775
+01:29:08,650 --> 01:29:09,820
 Vecht.
 
 1
-01:29:13,169 --> 01:29:15,541
-Hij heeft de Vijandhamer.
-De Slachter.
-
-1
-01:29:16,172 --> 01:29:17,964
+01:29:16,330 --> 01:29:22,040
+Hij heeft de Vijandhamer. De Slachter.
 Schitterend als daglicht.
 
 1
-01:29:27,392 --> 01:29:28,174
+01:29:31,130 --> 01:29:32,430
 Thorin.
-

@@ -1,68 +1,63 @@
 ﻿1
-00:33:55,331 --> 00:33:58,783
-Hallo, meisje.
-Jij bent lief.
+00:33:55,740 --> 00:33:59,140
+Hallo, meisje. Jij bent lief.
 
 1
-00:34:02,297 --> 00:34:04,170
+00:34:02,620 --> 00:34:04,520
 Dit is ons geheim, Myrtle.
 
 1
-00:34:04,424 --> 00:34:06,333
+00:34:04,520 --> 00:34:06,520
 Tegen niemand zeggen.
 
 1
-00:34:11,097 --> 00:34:12,128
+00:34:11,830 --> 00:34:13,320
 Wat was dat?
 
 1
-00:34:13,516 --> 00:34:14,547
+00:34:13,960 --> 00:34:15,340
 Orks.
 
 1
-00:34:15,268 --> 00:34:16,299
+00:34:15,960 --> 00:34:17,450
 Orks?
 
 1
-00:34:17,979 --> 00:34:18,761
+00:34:18,420 --> 00:34:19,780
 Strottensnijders.
 
 1
-00:34:19,022 --> 00:34:20,849
+00:34:19,890 --> 00:34:21,870
 Het zijn er tientallen.
 
 1
-00:34:21,107 --> 00:34:21,889
-De Eenzame Landen...
+00:34:21,950 --> 00:34:23,640
+De Eenzame Landen zitten er vol mee.
 
 1
-00:34:22,150 --> 00:34:24,059
-zitten er vol mee.
-Ze slaan toe...
+00:34:23,640 --> 00:34:26,770
+Ze slaan toe als iedereen slaapt.
 
 1
-00:34:24,319 --> 00:34:28,103
-als iedereen slaapt.
-Snel en geruisloos. Geen gegil...
+00:34:26,770 --> 00:34:28,500
+Snel en geruisloos. Geen gegil.
 
 1
-00:34:28,364 --> 00:34:29,562
-alleen bloed.
+00:34:28,500 --> 00:34:30,500
+Alleen veel bloed.
 
 1
-00:34:34,078 --> 00:34:35,822
+00:34:34,460 --> 00:34:36,860
 Vind je dat grappig?
 
 1
-00:34:37,749 --> 00:34:40,121
-Denk je dat een aanval van orks
-leuk is?
+00:34:37,930 --> 00:34:40,470
+Denk je dat een aanval van orks leuk is?
 
 1
-00:34:40,919 --> 00:34:42,329
+00:34:41,290 --> 00:34:43,130
 We bedoelden er niets mee.
 
 1
-00:34:43,505 --> 00:34:45,296
+00:34:43,820 --> 00:34:45,680
 Nee, dat snap ik.
-

@@ -1,65 +1,44 @@
 ﻿1
-00:14:23,285 --> 00:14:23,949
-Willen jullie
+00:14:23,670 --> 00:14:26,300
+Willen jullie daarmee stoppen?
+Zo worden ze bot.
 
 1
-00:14:24,202 --> 00:14:24,949
-daarmee stoppen?
-
-1
-00:14:25,203 --> 00:14:26,532
-Dan worden ze bot.
-
-1
-00:14:26,788 --> 00:14:27,951
+00:14:26,300 --> 00:14:28,300
 Horen jullie dat?
 
 1
-00:14:28,665 --> 00:14:29,447
-We maken...
+00:14:29,090 --> 00:14:31,760
+We maken de messen bot.
 
 1
-00:14:29,708 --> 00:14:31,368
-de messen bot.
+00:14:31,760 --> 00:14:33,850
+<i>maak vorken krom en messen bot</i>
 
 1
-00:14:31,626 --> 00:14:33,453
-<i>maak vorken krom
-en messen bot</i>
-
-1
-00:14:33,712 --> 00:14:36,119
+00:14:33,850 --> 00:14:36,520
 <i>smijt de flessen gerust kapot</i>
 
 1
-00:14:36,381 --> 00:14:38,124
+00:14:36,520 --> 00:14:39,810
 <i>schilfer de glazen en borden maar</i>
 
 1
-00:14:39,342 --> 00:14:40,671
-<i>dat vindt Bilbo Balings</i>
+00:14:39,850 --> 00:14:41,900
+<i>dat vindt Bilbo Balings naar</i>
 
 1
-00:14:40,927 --> 00:14:41,591
-<i>naar</i>
-
-1
-00:14:41,845 --> 00:14:43,220
+00:14:41,900 --> 00:14:43,610
 <i>snij in het laken, trap in het vet</i>
 
 1
-00:14:43,471 --> 00:14:45,263
+00:14:43,610 --> 00:14:45,610
 <i>gooi de botten maar op 't bed</i>
 
 1
-00:14:45,515 --> 00:14:46,974
+00:14:45,610 --> 00:14:49,070
 <i>schenk de melk op de keukenmat</i>
 
 1
-00:14:49,186 --> 00:14:50,265
-<i>spat de deuren</i>
-
-1
-00:14:50,520 --> 00:14:51,184
-<i>met wijn maar nat</i>
-
+00:14:49,070 --> 00:14:51,530
+<i>spat de deuren met wijn maar nat</i>

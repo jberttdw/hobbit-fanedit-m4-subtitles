@@ -1,61 +1,55 @@
 ﻿1
-01:35:47,786 --> 01:35:50,740
-Wat doet 't ertoe?
-Hij is terug.
+01:35:46,840 --> 01:35:49,720
+Wat doet 't ertoe? Hij is terug.
 
 1
-01:35:51,874 --> 01:35:52,739
+01:35:50,970 --> 01:35:53,680
 Het doet er wel toe.
-
-1
-01:35:53,375 --> 01:35:54,704
 Ik wil het weten.
 
 1
-01:35:56,921 --> 01:35:58,629
+01:35:56,020 --> 01:35:57,600
 Waarom kwam je terug?
 
 1
-01:36:01,967 --> 01:36:05,052
+01:36:00,980 --> 01:36:04,070
 Ik weet dat je altijd
 aan me getwijfeld hebt.
 
 1
-01:36:07,264 --> 01:36:09,340
+01:36:05,730 --> 01:36:09,030
 En terecht.
 Ik denk vaak aan Balingshoek.
 
 1
-01:36:10,142 --> 01:36:11,969
+01:36:09,150 --> 01:36:11,070
 Ik mis mijn boeken.
 
 1
-01:36:12,937 --> 01:36:15,475
-En mijn leunstoel.
-Mijn tuin.
+01:36:12,070 --> 01:36:14,160
+En mijn leunstoel. Mijn tuin.
 
 1
-01:36:16,732 --> 01:36:18,061
+01:36:15,740 --> 01:36:17,750
 Want daar hoor ik thuis.
 
 1
-01:36:18,776 --> 01:36:20,484
+01:36:17,830 --> 01:36:19,540
 Dat is thuis.
 
 1
-01:36:22,238 --> 01:36:24,314
-Daarom kwam ik terug.
+01:36:21,290 --> 01:36:23,340
+Daarom kwam ik terug. Want...
 
 1
-01:36:26,659 --> 01:36:29,529
-Dat hebben jullie niet.
+01:36:25,800 --> 01:36:29,220
+dat hebben jullie niet.
 Een thuis.
 
 1
-01:36:30,204 --> 01:36:31,782
+01:36:29,300 --> 01:36:31,840
 Dat is jullie ontnomen.
 
 1
-01:36:34,875 --> 01:36:37,413
+01:36:33,890 --> 01:36:36,350
 Ik wil je helpen dat terug te krijgen.
-

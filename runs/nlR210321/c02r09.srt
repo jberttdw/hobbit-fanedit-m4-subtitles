@@ -1,123 +1,111 @@
 ﻿1
-00:41:27,012 --> 00:41:28,044
+00:41:27,790 --> 00:41:29,210
 Krijg nou wat.
 
 1
-00:41:28,806 --> 00:41:31,641
+00:41:29,210 --> 00:41:32,010
 Bert, kijk nou
 wat er uit mijn gok komt.
 
 1
-00:41:31,892 --> 00:41:33,968
+00:41:32,380 --> 00:41:34,300
 Het heeft armen en benen.
 
 1
-00:41:34,311 --> 00:41:36,470
-Wat is 't?
-- Geen idee.
+00:41:34,760 --> 00:41:36,300
+Wat is het?
 
 1
-00:41:36,731 --> 00:41:38,604
-Maar het spartelt enorm.
+00:41:36,300 --> 00:41:38,930
+Geen idee. Maar het spartelt
+en dat bevalt me niet.
 
 1
-00:41:42,611 --> 00:41:45,778
+00:41:42,980 --> 00:41:46,150
 Wat ben jij dan?
 Een bovenmaatse eekhoorn?
 
 1
-00:41:46,032 --> 00:41:47,656
-Een inbreker... Hobbit.
+00:41:46,150 --> 00:41:48,020
+Een in... een Hobbit.
 
 1
-00:41:47,908 --> 00:41:49,901
-Een inbrekerhobbit?
+00:41:48,020 --> 00:41:50,400
+Een innehobbit?
 
 1
-00:41:50,161 --> 00:41:51,703
+00:41:50,440 --> 00:41:52,190
 Kunnen we hem bakken?
 
 1
-00:41:51,954 --> 00:41:53,911
-We gaan 't proberen.
+00:41:52,280 --> 00:41:54,570
+We kunnen proberen.
 
 1
-00:41:57,251 --> 00:41:59,291
+00:41:57,490 --> 00:41:59,830
 Dat is nauwelijks een mond vol.
 
 1
-00:41:59,545 --> 00:42:02,250
+00:41:59,910 --> 00:42:02,120
 Helemaal als ie gevild
 en ontbeend is.
 
 1
-00:42:02,506 --> 00:42:03,835
-Misschien zijn er...
+00:42:02,830 --> 00:42:06,000
+Misschien zijn er nog meer
+innehobbits in de buurt.
 
 1
-00:42:04,091 --> 00:42:06,463
-hier nog meer
-inbrekerhobbits.
-
-1
-00:42:06,719 --> 00:42:07,999
+00:42:06,000 --> 00:42:08,080
 Genoeg voor een pastei.
 
 1
-00:42:08,929 --> 00:42:10,887
+00:42:09,290 --> 00:42:11,420
 Pak 'm.
-- Hij is watervlug.
+-Hij is watervlug.
 
 1
-00:42:11,140 --> 00:42:14,390
+00:42:11,420 --> 00:42:14,800
 Kom hier, kleine...
 
 1
-00:42:14,643 --> 00:42:15,758
+00:42:14,800 --> 00:42:16,260
 Hebbes.
 
 1
-00:42:16,145 --> 00:42:18,351
-Zitten er nog meer van jouw soort...
-
-1
-00:42:18,606 --> 00:42:21,523
+00:42:16,260 --> 00:42:20,050
+Zitten er nog meer van jouw soort
 hier ergens verstopt?
 
 1
-00:42:21,776 --> 00:42:23,056
+00:42:22,180 --> 00:42:23,600
 Hij liegt.
 
 1
-00:42:23,319 --> 00:42:27,566
+00:42:23,600 --> 00:42:27,980
 Helemaal niet.
-- Hou z'n tenen boven het vuur.
+-Hou z'n tenen boven het vuur.
 
 1
-00:42:27,823 --> 00:42:28,819
+00:42:27,980 --> 00:42:29,860
 Laat hem gillen.
 
 1
-00:42:33,954 --> 00:42:34,950
+00:42:34,320 --> 00:42:35,570
 Laat 'm vallen.
 
 1
-00:42:35,206 --> 00:42:36,581
-Wat zeg je?
+00:42:35,610 --> 00:42:36,900
+Wat zeg je daar?
 
 1
-00:42:37,375 --> 00:42:38,833
+00:42:37,650 --> 00:42:39,570
 Ik zei...
 
 1
-00:42:39,126 --> 00:42:40,158
+00:42:39,660 --> 00:42:41,490
 laat hem vallen.
 
 1
-00:43:02,942 --> 00:43:03,606
-Pak de zakken.
-
-1
-00:43:04,568 --> 00:43:06,608
-Stop ze in de zakken.
-
+00:43:03,470 --> 00:43:06,560
+Pak de zakken. Stop ze in de zakken.

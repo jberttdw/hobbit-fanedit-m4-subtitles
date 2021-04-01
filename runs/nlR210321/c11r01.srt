@@ -1,85 +1,78 @@
 ﻿1
-02:34:07,927 --> 02:34:10,095
+02:34:23,400 --> 02:34:25,110
 Zo stil.
 
 1
-02:34:10,346 --> 02:34:13,348
+02:34:25,860 --> 02:34:27,650
 Zo was het niet altijd.
 
 1
-02:34:13,600 --> 02:34:18,729
+02:34:29,030 --> 02:34:33,660
 Ooit stonden deze hellingen
 vol met bossen.
 
 1
-02:34:18,980 --> 02:34:20,189
-En de bomen...
-
-1
-02:34:20,440 --> 02:34:22,733
-waren gevuld
+02:34:34,320 --> 02:34:38,540
+En de bomen waren gevuld
 met zangvogels.
 
 1
-02:34:26,821 --> 02:34:28,030
+02:34:42,040 --> 02:34:44,540
 Rustig, meester Balings.
 
 1
-02:34:29,115 --> 02:34:32,910
-We hebben eten, gereedschap
-en tijd genoeg.
+02:34:44,540 --> 02:34:48,210
+We hebben materiaal, gereedschap
+en we schieten goed op.
 
 1
-02:34:46,257 --> 02:34:47,883
+02:35:01,640 --> 02:35:03,600
 Wat is dit?
 
 1
-02:34:48,134 --> 02:34:49,426
+02:35:03,690 --> 02:35:05,730
 Dit was ooit de stad Dal.
 
 1
-02:34:51,429 --> 02:34:53,096
+02:35:06,940 --> 02:35:09,320
 Nu is het een ruïne.
 
 1
-02:34:53,848 --> 02:34:56,058
+02:35:09,360 --> 02:35:11,740
 De Woestenij van Smaug.
 
 1
-02:34:56,309 --> 02:34:58,227
+02:35:11,820 --> 02:35:13,990
 Het is bijna middag.
 
 1
-02:34:58,478 --> 02:35:00,729
+02:35:13,990 --> 02:35:16,530
 We moeten de deur vinden
 voor zonsondergang.
 
 1
-02:35:00,980 --> 02:35:01,813
+02:35:16,530 --> 02:35:17,370
 Hierheen.
 
 1
-02:35:02,065 --> 02:35:04,107
+02:35:17,410 --> 02:35:19,490
 Wacht. Is dit de uitkijkpost?
 
 1
-02:35:04,442 --> 02:35:05,776
+02:35:19,490 --> 02:35:21,200
 Gandalf zou hierheen komen.
 
 1
-02:35:06,027 --> 02:35:07,653
-Zie je hem?
+02:35:21,200 --> 02:35:23,790
+We mochten de Berg niet...
+-Zie je hem?
 
 1
-02:35:08,321 --> 02:35:08,987
-We hebben geen tijd...
-
-1
-02:35:09,239 --> 02:35:10,614
+02:35:23,790 --> 02:35:26,380
+We hebben geen tijd
 om op de tovenaar te wachten.
 
 1
-02:35:10,907 --> 02:35:12,658
+02:35:26,460 --> 02:35:28,920
 We moeten 't alleen doen.
 Kom mee.
-

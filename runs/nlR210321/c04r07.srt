@@ -1,71 +1,66 @@
 ﻿1
-01:12:30,056 --> 01:12:32,808
+01:12:33,950 --> 01:12:36,830
 <i>langs het pad naar Aardmanstad</i>
 
 1
-01:12:33,059 --> 01:12:34,886
+01:12:36,910 --> 01:12:39,410
 <i>langs het pad naar Aardmanstad</i>
 
 1
-01:12:35,145 --> 01:12:38,229
+01:12:39,410 --> 01:12:42,580
 <i>met een zwiep en een zwap
 en een zweepklap</i>
 
 1
-01:12:38,481 --> 01:12:41,186
+01:12:42,670 --> 01:12:45,590
 <i>iedereen praat
 die bij mij op de bank ligt</i>
 
 1
-01:12:41,443 --> 01:12:44,728
+01:12:45,590 --> 01:12:49,090
 <i>bons, bons, diep ondergronds</i>
 
 1
-01:12:44,988 --> 01:12:47,740
+01:12:49,170 --> 01:12:52,090
 <i>langs het pad naar Aardmanstad</i>
 
 1
-01:12:47,991 --> 01:12:50,612
+01:12:52,180 --> 01:12:55,050
 <i>langs het pad naar Aardmanstad</i>
 
 1
-01:12:50,869 --> 01:12:53,490
+01:12:55,050 --> 01:12:57,890
 <i>hamer en tang
 galmende gang</i>
 
 1
-01:12:53,747 --> 01:12:58,954
+01:12:57,970 --> 01:13:02,980
 <i>je houdt het niet lang uit
 bij mij, kornuit</i>
 
 1
-01:12:59,669 --> 01:13:01,080
+01:13:03,900 --> 01:13:05,650
 <i>knal, knak</i>
 
 1
-01:13:01,546 --> 01:13:02,791
+01:13:05,730 --> 01:13:06,980
 <i>zwiep, klap</i>
 
 1
-01:13:03,048 --> 01:13:05,336
+01:13:07,110 --> 01:13:09,780
 <i>knal, tril
 schud en ril</i>
 
 1
-01:13:05,592 --> 01:13:09,720
+01:13:09,780 --> 01:13:14,160
 <i>schreeuw wat je wil
 niemand hoort je gegil</i>
 
 1
-01:13:10,305 --> 01:13:14,967
+01:13:14,160 --> 01:13:19,660
 <i>bons, bons
 diep ondergronds</i>
 
 1
-01:13:15,810 --> 01:13:18,930
-<i>langs het pad naar Aardman</i>
-
-1
-01:13:19,356 --> 01:13:22,107
-<i>stad</i>
-
+01:13:19,660 --> 01:13:28,630
+<i>langs het pad naar Aardman stad</i>

@@ -1,12 +1,3 @@
 ﻿1
-02:57:40,272 --> 02:57:41,808
-Wie ben jij...
-
-1
-02:57:42,066 --> 02:57:43,556
-dat je mij...
-
-1
-02:57:43,817 --> 02:57:45,853
-durft te trotseren?
-
+02:57:55,760 --> 02:58:01,440
+Wie ben jij dat je mij durft te trotseren?

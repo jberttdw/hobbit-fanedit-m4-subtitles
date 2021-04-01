@@ -1,24 +1,22 @@
 ﻿1
-01:02:41,722 --> 01:02:45,969
-Gandalf, dit is niet alleen
-onze beslissing. Het is niet...
+01:02:45,950 --> 01:02:50,070
+Gandalf, dit is niet alleen onze beslissing.
 
 1
-01:02:46,226 --> 01:02:49,975
-aan ons om de kaart van Midden-aarde
-te veranderen.
+01:02:50,070 --> 01:02:54,700
+Het is niet aan ons om het roer
+van Midden-aarde om te gooien.
 
 1
-01:02:50,856 --> 01:02:54,640
-Met of zonder onze hulp,
-de dwergen rukken op naar de berg.
+01:02:54,700 --> 01:02:58,870
+Maar met of zonder onze hulp
+zullen de dwergen naar de berg oprukken.
 
 1
-01:02:54,902 --> 01:02:57,737
+01:02:58,960 --> 01:03:01,920
 Ze willen hun thuisland terug.
 
 1
-01:02:57,988 --> 01:03:03,065
+01:03:02,000 --> 01:03:07,380
 Ik denk niet dat Thorin Eikenschild
 om permissie gaat vragen.
-

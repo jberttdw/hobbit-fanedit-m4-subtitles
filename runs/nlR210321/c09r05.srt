@@ -1,178 +1,160 @@
 ﻿1
-02:10:42,794 --> 02:10:43,461
+02:10:58,120 --> 02:10:59,580
 Nog een keer.
-- Ophouden.
+-Hou op.
 
 1
-02:10:44,630 --> 02:10:46,047
+02:11:00,160 --> 02:11:01,450
 Dit lukt niet.
 
 1
-02:10:46,298 --> 02:10:48,299
+02:11:01,450 --> 02:11:03,710
 Dit is geen ork-kerker.
 
 1
-02:10:48,550 --> 02:10:51,052
-Dit zijn de Zalen
-van het Demsterwold.
+02:11:04,040 --> 02:11:06,790
+Dit zijn de Zalen van het Demsterwold.
 
 1
-02:10:51,345 --> 02:10:55,139
+02:11:06,880 --> 02:11:10,840
 Niemand komt hieruit
 zonder toestemming van de koning.
 
 1
-02:10:59,811 --> 02:11:03,356
+02:11:15,220 --> 02:11:19,180
 Sommigen hebben het
 over een nobele tocht.
 
 1
-02:11:04,024 --> 02:11:06,859
+02:11:19,180 --> 02:11:22,060
 Om een thuisland te heroveren...
 
 1
-02:11:07,110 --> 02:11:08,861
+02:11:22,680 --> 02:11:25,100
 en een draak te verslaan.
 
 1
-02:11:10,238 --> 02:11:14,241
+02:11:25,730 --> 02:11:29,650
 Ik vermoed dat er
 een meer prozaïsch motief is.
 
 1
-02:11:15,118 --> 02:11:16,786
+02:11:30,520 --> 02:11:33,030
 Een poging tot inbraak...
 
 1
-02:11:17,537 --> 02:11:19,789
+02:11:33,110 --> 02:11:35,400
 of iets soortgelijks.
 
 1
-02:11:22,960 --> 02:11:23,709
-Je bent hier...
+02:11:38,320 --> 02:11:40,700
+Je weet hoe je binnen kan.
 
 1
-02:11:23,961 --> 02:11:24,961
-binnengekomen.
+02:11:40,700 --> 02:11:45,750
+Je zoekt naar dat wat je het recht geeft
+om te heersen.
 
 1
-02:11:25,212 --> 02:11:26,170
-Op zoek naar iets wat je...
-
-1
-02:11:26,421 --> 02:11:29,423
-het recht geeft om te heersen.
-
-1
-02:11:30,092 --> 02:11:31,968
+02:11:45,750 --> 02:11:47,710
 Het Juweel van de Koning.
 
 1
-02:11:32,886 --> 02:11:34,387
+02:11:48,420 --> 02:11:51,170
 De Arkensteen.
 
 1
-02:11:36,640 --> 02:11:39,976
+02:11:52,130 --> 02:11:55,380
 Voor jou van onschatbare waarde.
 
 1
-02:11:40,978 --> 02:11:42,687
+02:11:56,430 --> 02:11:59,090
 Dat begrijp ik.
 
 1
-02:11:43,647 --> 02:11:47,274
-In de Berg liggen ook
-edelstenen die ik begeer.
+02:11:59,090 --> 02:12:02,930
+In de Berg liggen edelstenen die ik begeer.
 
 1
-02:11:48,610 --> 02:11:49,610
-Witte edelstenen...
+02:12:04,100 --> 02:12:07,770
+Witte edelstenen, van puur sterrenlicht.
 
 1
-02:11:49,861 --> 02:11:51,904
-van puur sterrenlicht.
-
-1
-02:11:52,948 --> 02:11:55,199
+02:12:08,480 --> 02:12:10,650
 Ik bied je mijn hulp aan.
 
 1
-02:11:58,412 --> 02:11:59,787
+02:12:13,780 --> 02:12:15,240
 Ik luister.
 
 1
-02:12:00,038 --> 02:12:01,664
+02:12:15,240 --> 02:12:18,160
 Ik laat jullie gaan...
 
 1
-02:12:02,666 --> 02:12:05,334
-en je komt terug
-met wat mij toebehoort.
+02:12:18,200 --> 02:12:20,740
+en geeft me wat mij toebehoort.
 
 1
-02:12:08,547 --> 02:12:09,839
+02:12:24,080 --> 02:12:25,620
 Een wederdienst.
 
 1
-02:12:10,090 --> 02:12:11,048
+02:12:25,700 --> 02:12:27,910
 Je hebt mijn woord.
 
 1
-02:12:12,467 --> 02:12:14,969
+02:12:28,000 --> 02:12:30,500
 Als koningen onder elkaar.
 
 1
-02:12:19,141 --> 02:12:22,351
+02:12:34,630 --> 02:12:37,760
 Ik heb geen vertrouwen
 in Thranduil...
 
 1
-02:12:23,395 --> 02:12:24,353
+02:12:38,380 --> 02:12:39,930
 de grote koning...
 
 1
-02:12:24,604 --> 02:12:25,771
-en zijn erewoord...
-
-1
-02:12:26,023 --> 02:12:28,524
+02:12:39,930 --> 02:12:43,680
+en zijn erewoord,
 al zou het eind van de wereld daar zijn.
 
 1
-02:12:29,151 --> 02:12:29,734
+02:12:44,640 --> 02:12:45,810
 Jij...
 
 1
-02:12:30,235 --> 02:12:31,193
-hebt geen enkele...
+02:12:45,890 --> 02:12:47,930
+Je hebt geen enkele eer.
 
 1
-02:12:31,445 --> 02:12:32,445
-eer.
-
-1
-02:12:33,530 --> 02:12:35,573
+02:12:49,060 --> 02:12:51,730
 Ik zag
 hoe je je vrienden behandelde.
 
 1
-02:12:36,241 --> 02:12:39,869
+02:12:51,730 --> 02:12:55,650
 We kwamen naar je toe,
 uitgehongerd, dakloos...
 
 1
-02:12:40,120 --> 02:12:41,579
+02:12:55,650 --> 02:12:57,320
 smekend om hulp.
 
 1
-02:12:42,122 --> 02:12:44,498
+02:12:57,320 --> 02:13:00,280
 Maar jij keerde ons de rug toe.
 
 1
-02:12:44,791 --> 02:12:48,419
+02:13:00,280 --> 02:13:04,120
 Jij liet mijn volk lijden en branden...
 
 1
-02:12:48,670 --> 02:12:50,629
+02:13:04,120 --> 02:13:06,500
 in de verwoestende vlammen.
 
+1
+02:13:06,600 --> 02:13:08,370
+Sterf in drakenvuur.

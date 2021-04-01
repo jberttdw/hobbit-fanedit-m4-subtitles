@@ -1,65 +1,44 @@
 ﻿1
-03:16:28,898 --> 03:16:31,810
+03:16:44,310 --> 03:16:47,520
 Zet je wrok tegen de dwergen opzij.
 
 1
-03:16:32,068 --> 03:16:33,103
+03:16:47,520 --> 03:16:48,520
 Er dreigt oorlog.
 
 1
-03:16:33,361 --> 03:16:34,476
-De beerputten...
+03:16:48,520 --> 03:16:53,070
+Het gespuis van Dol Guldur komt hierheen.
 
 1
-03:16:34,737 --> 03:16:36,102
-van Dol Guldur zijn...
+03:16:53,070 --> 03:16:55,490
+Jullie verkeren in levensgevaar.
 
 1
-03:16:36,364 --> 03:16:37,364
-geopend.
-
-1
-03:16:37,406 --> 03:16:38,411
-Jullie verkeren...
-
-1
-03:16:38,466 --> 03:16:39,546
-in levensgevaar.
-
-1
-03:16:39,700 --> 03:16:40,985
+03:16:55,570 --> 03:16:57,030
 Waar heb je 't over?
 
 1
-03:16:42,244 --> 03:16:43,324
-Je weet niets...
+03:16:57,110 --> 03:16:59,990
+Ik zie dat je niets weet van tovenaars.
 
 1
-03:16:43,579 --> 03:16:44,819
-van tovenaars.
-
-1
-03:16:45,081 --> 03:16:47,322
+03:16:59,990 --> 03:17:02,830
 Ze zijn als een winterstorm...
 
 1
-03:16:47,583 --> 03:16:51,075
+03:17:02,910 --> 03:17:07,960
 die van ver komt,
 en voor onrust zorgt.
 
 1
-03:16:52,797 --> 03:16:54,879
-Maar soms is een storm...
+03:17:07,960 --> 03:17:12,170
+Maar soms is een storm maar een storm.
 
 1
-03:16:55,132 --> 03:16:56,747
-maar een storm.
-
-1
-03:16:57,009 --> 03:16:58,499
+03:17:12,170 --> 03:17:13,920
 Deze keer niet.
 
 1
-03:16:58,761 --> 03:17:01,218
+03:17:14,300 --> 03:17:17,590
 Er zijn ork-legers onderweg.
-
