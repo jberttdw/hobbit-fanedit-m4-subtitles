@@ -3,6 +3,7 @@ Add-Type -TypeDefinition @"
 using System;
 using System.Globalization;
 public struct RunInfo {
+    private int _id;
     private string _run;
     private int _film;
     private bool _extended;
@@ -12,8 +13,8 @@ public struct RunInfo {
     private TimeSpan _offset;
     private string _sourceFile;
 
-    public RunInfo(string run, int film, bool extended, string canBeEmpty, string start, string end, string offset) {
-        _run = run; _film = film; _extended = extended;
+    public RunInfo(int id, string run, int film, bool extended, string canBeEmpty, string start, string end, string offset) {
+        _id = id; _run = run; _film = film; _extended = extended;
          _canBeEmpty = Boolean.Parse(canBeEmpty);
         _start = DateTime.ParseExact(start, "hh:mm:ss,fff", CultureInfo.InvariantCulture);
         _end = DateTime.ParseExact(end, "hh:mm:ss,fff", CultureInfo.InvariantCulture);
@@ -30,11 +31,12 @@ public struct RunInfo {
     }
 
     /// <summary>Copy constructor</summary>
-    private RunInfo(string run, int film, bool extended, bool canBeEmpty, DateTime start, DateTime end, TimeSpan offset, string sourceFile) {
-        _run = run; _film = film; _extended = extended; _canBeEmpty = canBeEmpty; _start = start; _end = end; _offset = offset;
+    private RunInfo(int id, string run, int film, bool extended, bool canBeEmpty, DateTime start, DateTime end, TimeSpan offset, string sourceFile) {
+        _id = id; _run = run; _film = film; _extended = extended; _canBeEmpty = canBeEmpty; _start = start; _end = end; _offset = offset;
         _sourceFile = sourceFile;
     }
 
+    public int Id { get { return _id; } }
     public string Run { get { return _run; } }
     public int Film { get { return _film; } }
     public bool Extended { get { return _extended; } }
@@ -65,7 +67,7 @@ public struct RunInfo {
     }
 
     public RunInfo ChangeInterval(DateTime start, DateTime end) {
-        return new RunInfo(_run, _film, _extended, _canBeEmpty, start, end, _offset, _sourceFile);
+        return new RunInfo(_id, _run, _film, _extended, _canBeEmpty, start, end, _offset, _sourceFile);
     }
 
     public override string ToString() {
@@ -81,7 +83,7 @@ function Read-Index {
     $index = Get-Content -Encoding UTF8 $indexFile -Raw | ConvertFrom-Csv -Delimiter `t
 
     $indexItems = $index | ForEach-Object {
-        New-Object -TypeName RunInfo -ArgumentList @($_.Run, [int]$_.Film, ($_.Type -eq "EXT"),
+        New-Object -TypeName RunInfo -ArgumentList @([int]$_.Id, $_.Run, [int]$_.Film, ($_.Type -eq "EXT"),
                 $_.CanBeEmpty, $_.Start, $_.End, $_.Diff)
     }
     $indexItems

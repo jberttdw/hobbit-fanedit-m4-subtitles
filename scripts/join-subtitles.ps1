@@ -6,6 +6,9 @@ param (
     # Path to which to write the final result. Defaults to "..\output-{lang}-{date}.srt"
     [parameter()]
     [string] $outputFile,
+    # Path to the index file, used to build "debug" SRT files
+    [parameter()]
+    [string] $indexFile,
     # If true, the sequence identifiers will be of the format xxx0yy where 'x' stands for the run number and y for the original sequence id (starting from 1).
     # The default filename will also be changed to start with "debug".
     [parameter()]
@@ -15,10 +18,22 @@ param (
     [switch] $Confirm = $true
 )
 
+Import-Module (Join-Path $PSScriptRoot "subtitle-helpers.psm1")
+
 $subtitleFiles = Get-ChildItem "*.srt" | Sort-Object -Property Name
 
 $currentDateTime = Get-Date -Format "yyyy-MM-dd HH-mm"
 $currentLangFolder = Split-Path -Leaf "."
+
+$index = @()
+
+if ($debugId) {
+    if (-not $indexFile -or -not (Test-Path $indexFile)) {
+        throw "Index file [$indexFile] not found"
+    }
+    $indexFile = Resolve-Path $indexFile
+    $index = Read-Index $indexFile
+}
 
 if (-not ($outputFile) -and $debugId) {
     $outputFile = Join-Path (Resolve-Path "..") ("debug-{0}-{1}.srt" -f $currentLangFolder, $currentDateTime)
@@ -41,7 +56,6 @@ function Process-SubRipFile {
         $debugId,
         $lastNumber
     )
-    $inputFileName = Split-Path -Leaf $inputFile
     $lines = Get-Content -Encoding UTF8 $inputFile
 
     if ($debugId) {
@@ -71,13 +85,30 @@ function Process-SubRipFile {
     $number
 }
 
-$outputStream = [System.IO.StreamWriter] $outputFile
+try {
+    $outputStream = [System.IO.StreamWriter] $outputFile
 
-$fileId = 1
-$highestNumber = 0
-
-$subtitleFiles | % { $highestNumber = Process-SubRipFile $fileId $_ $outputStream $debugId $highestNumber ; Write-Host "Processed run '$fileId' from file $_"; $fileId += 1 }
-
-$outputStream.Close()
+    $fileId = 1
+    $highestNumber = 0
+    
+    foreach ($subtitleFile in $subtitleFiles) {
+        if ($debugId) {
+            $baseName = (Get-Item $subtitleFile).BaseName
+            $runInfo = $index | Where-Object { $baseName -eq $_.Run }
+            if ($null -eq $runInfo) {
+                throw "Run $baseName not found in index"
+            } elseif ($runInfo.Count -gt 1) {
+                throw "Run $baseName found $($runInfo.Count) times?!?"
+            }
+            $fileId = $runInfo.Id
+        }
+        $highestNumber = Process-SubRipFile $fileId $subtitleFile $outputStream $debugId $highestNumber
+        Write-Host "Processed run '$fileId' from file $subtitleFile"
+    }
+} finally {
+    if ($null -ne $outputStream) {
+        $outputStream.Close()
+    }
+}
 
 Write-Host "Wrote $outputFile"
