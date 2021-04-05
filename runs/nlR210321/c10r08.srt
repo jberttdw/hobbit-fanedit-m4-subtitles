@@ -7,7 +7,7 @@ We hebben betaald voor wapens.
 IJzeren zwaarden en bijlen.
 
 1
-02:26:39,890 --> 02:26:40,900
+02:26:39,890 --> 02:26:41,300
 Dit is troep.
 
 1
@@ -28,9 +28,5 @@ Thorin...
 laten we dit aannemen en gaan.
 
 1
-02:26:52,150 --> 02:26:53,650
-Ik ben wel minder gewend.
-
-1
-02:26:53,650 --> 02:26:54,660
-Jij ook.
+02:26:52,150 --> 02:26:54,660
+Ik ben wel minder gewend. Jij ook.

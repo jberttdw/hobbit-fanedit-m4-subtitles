@@ -1,5 +1,5 @@
 ﻿1
-03:38:26,320 --> 03:38:27,400
+03:38:26,320 --> 03:38:28,110
 Terugtrekken.
 
 1
@@ -29,7 +29,7 @@ onze strijd vechten.
 
 1
 03:39:27,550 --> 03:39:30,090
-Dat zit niet in mijn bloed, Thorin.
+Dat ligt niet in mijn aard, Thorin.
 
 1
 03:39:34,930 --> 03:39:36,390
@@ -37,7 +37,7 @@ Nee.
 
 1
 03:39:36,390 --> 03:39:38,390
-Dat zit er niet in.
+Je hebt gelijk.
 
 1
 03:39:40,140 --> 03:39:42,310
@@ -53,8 +53,7 @@ vlucht niet voor een gevecht.
 
 1
 03:40:13,510 --> 03:40:17,470
-Ik heb niet het recht
-jullie dit te vragen.
+Ik heb niet het recht jullie dit te vragen.
 
 1
 03:40:22,310 --> 03:40:24,640

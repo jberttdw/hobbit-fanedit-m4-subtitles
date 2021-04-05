@@ -53,20 +53,17 @@ een pad, een spoor.
 
 1
 01:14:46,080 --> 01:14:48,880
-En toen ineens niet, en dat is een probleem,
-want we moesten...
+En toen ineens niet, en dat is een probleem...
 
 1
 01:14:48,960 --> 01:14:52,300
-vorige dinsdag al in Dunland zijn.
+want we moesten vorige dinsdag al
+in Dunland zijn.
 
 1
-01:14:52,300 --> 01:14:54,760
+01:14:52,300 --> 01:14:56,430
 Bij verre kennissen.
-
-1
-01:14:54,840 --> 01:14:56,430
-Er was wat inteelt aan m'n moeders kant.
+-Er was wat inteelt aan m'n moeders kant.
 
 1
 01:14:56,430 --> 01:14:58,840
@@ -74,7 +71,7 @@ Hou je kop.
 
 1
 01:15:01,260 --> 01:15:05,350
-Als ze niets zeggen,
+Als ze niets nuttigs zeggen,
 leggen we ze op de pijnbank.
 
 1

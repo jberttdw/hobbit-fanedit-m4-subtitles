@@ -43,7 +43,7 @@ hongerige monden te vullen.
 
 1
 02:19:01,430 --> 02:19:03,140
-Hoeveel kroost?
+Hoeveel kinderen?
 
 1
 02:19:04,140 --> 02:19:06,520

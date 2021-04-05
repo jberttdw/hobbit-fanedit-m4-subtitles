@@ -1,8 +1,8 @@
 ﻿1
 00:02:18,750 --> 00:02:22,070
-<i>Het was het begin
-van een onwaarschijnlijke vriendschap...</i>
+Het was het begin
+van een onwaarschijnlijke vriendschap...
 
 1
 00:02:22,090 --> 00:02:24,900
-<i>die m'n hele leven zou voortduren.</i>
+die m'n hele leven zou voortduren.

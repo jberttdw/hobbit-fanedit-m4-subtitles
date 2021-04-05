@@ -33,14 +33,11 @@ De dag dat de draak kwam.
 
 1
 02:25:07,920 --> 02:25:12,140
-De dag dat Smaug Dal verwoestte.
+De dag dat Smaug de stad Dal verwoestte.
 
 1
-02:25:13,220 --> 02:25:15,680
-Girion, de heer van de stad...
-
-1
-02:25:15,680 --> 02:25:18,140
+02:25:13,220 --> 02:25:18,140
+Girion, de heer van de stad,
 liet zijn boogschutters op het beest schieten.
 
 1

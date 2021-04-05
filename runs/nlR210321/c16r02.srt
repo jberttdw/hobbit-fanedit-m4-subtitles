@@ -70,22 +70,19 @@ Het Juweel van de Koning.
 
 1
 03:21:02,820 --> 03:21:05,030
-Van grote waarde.
+En heel wat losgeld waard.
 
 1
 03:21:07,240 --> 03:21:09,030
-Hoe kom jij eraan?
+Hoe kwam dit in je bezit?
 
 1
 03:21:09,030 --> 03:21:12,200
-Het is mijn deel van de schat.
+Ik nam het als mijn deel van de schat.
 
 1
-03:21:12,910 --> 03:21:14,040
+03:21:12,910 --> 03:21:15,540
 Waarom doe je dit?
-
-1
-03:21:14,450 --> 03:21:15,540
 Je bent ons niets verschuldigd.
 
 1
@@ -187,3 +184,4 @@ van iedereen die hier komt.
 1
 03:22:29,110 --> 03:22:30,820
 Bijna iedereen.
+

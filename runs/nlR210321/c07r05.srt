@@ -15,19 +15,13 @@ Zijn naam is Beorn.
 Hij is een huidverwisselaar.
 
 1
-01:46:40,990 --> 01:46:43,200
+01:46:40,990 --> 01:46:45,870
 Soms is hij een enorme zwarte beer.
-
-1
-01:46:43,290 --> 01:46:45,870
 En soms een grote, sterke man.
 
 1
-01:46:45,960 --> 01:46:47,960
-De beer is onvoorspelbaar...
-
-1
-01:46:47,960 --> 01:46:50,420
+01:46:45,960 --> 01:46:49,812
+De beer is onvoorspelbaar,
 maar met de man valt te praten.
 
 1

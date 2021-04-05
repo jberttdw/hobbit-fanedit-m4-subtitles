@@ -33,9 +33,6 @@ Hierheen.
 Pak het andere eind.
 
 1
-02:24:18,580 --> 02:24:20,750
+02:24:18,580 --> 02:24:21,960
 Onopvallend doorlopen.
-
-1
-02:24:20,750 --> 02:24:21,960
 Vlug.

@@ -1,7 +1,7 @@
 ﻿1
 00:57:37,390 --> 00:57:41,470
-<i>Dit is Orcrist,
-de Aardmannenkliever.</i>
+Dit is Orcrist,
+de Aardmannenkliever.
 
 1
 00:57:41,850 --> 00:57:43,270
@@ -37,7 +37,7 @@ is nog nooit gevochten?
 
 1
 00:58:10,170 --> 00:58:13,510
-Het is ook niet echt een zwaard.
+Ik twijfel of het een zwaard is.
 
 1
 00:58:13,590 --> 00:58:15,510

@@ -16,4 +16,4 @@ Het is van ons.
 
 1
 01:30:16,260 --> 01:30:19,010
-<i>Het is van ons.</i>
+Het is van ons.

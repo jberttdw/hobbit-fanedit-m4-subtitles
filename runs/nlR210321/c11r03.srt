@@ -20,10 +20,10 @@ Oké, we hebben een sleutel.
 
 1
 02:36:56,010 --> 02:36:58,510
-Dan moet er ergens
+Dan moet er ergens...
 
 1
-02:36:58,590 --> 02:36:59,720
+02:36:58,590 --> 02:37:00,304
 een sleutelgat zijn.
 
 1

@@ -109,9 +109,8 @@ Gegroet, Thorin,
 zoon van Thraín.
 
 1
-03:10:04,870 --> 03:10:07,200
-Het doet ons goed dat jullie
-nog in leven zijn.
+03:10:04,870 --> 03:10:07,363
+Het doet ons deugd om jullie in leven te zien.
 
 1
 03:10:07,790 --> 03:10:12,080

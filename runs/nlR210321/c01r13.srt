@@ -20,16 +20,13 @@ En bepaald niet de 13 besten...
 of slimsten.
 
 1
-00:17:58,050 --> 00:18:00,180
-Hé, wie is hier dom?
+00:17:58,050 --> 00:18:02,350
+Hé, noem je me dom?
+-Wat zegt ie?
 
 1
-00:18:00,180 --> 00:18:02,350
-Wat zegt ie?
-
-1
-00:18:02,430 --> 00:18:04,270
-We zijn met weinig...
+00:18:02,430 --> 00:18:05,180
+We zijn misschien met weinig...
 
 1
 00:18:05,180 --> 00:18:09,060
@@ -165,7 +162,7 @@ Het antwoord ligt verborgen in de kaart...
 maar ik kan 't niet vinden.
 
 1
-00:20:02,800 --> 00:20:06,010
+00:20:02,800 --> 00:20:06,654
 Maar er zijn anderen in Midden-aarde
 die dat wel kunnen.
 
@@ -184,8 +181,8 @@ Als we omzichtig en slim handelen,
 kunnen we zo ons doel bereiken.
 
 1
-00:20:19,480 --> 00:20:21,190
-We zoeken dus een inbreker.
+00:20:19,480 --> 00:20:21,570
+Daarom zoeken we een inbreker.
 
 1
 00:20:21,570 --> 00:20:25,240
@@ -245,7 +242,7 @@ Hobbits zijn uitermate lichtvoetig.
 
 1
 00:21:08,370 --> 00:21:11,870
-Ze kunnen je ongemerkt voorbijlopen.
+Ze kunnen je ongemerkt voorbijglippen.
 
 1
 00:21:11,950 --> 00:21:15,710
@@ -405,13 +402,9 @@ Laat me maar even rustig zitten.
 Dat doe je al veel te lang.
 
 1
-00:23:23,130 --> 00:23:27,550
+00:23:23,130 --> 00:23:29,300
 Sinds wanneer zijn onderleggers
-en borden...
-
-1
-00:23:27,550 --> 00:23:29,300
-zo belangrijk voor je?
+en borden zo belangrijk voor je?
 
 1
 00:23:30,010 --> 00:23:34,760
@@ -526,7 +519,7 @@ En als je terugkomt...
 
 1
 00:25:00,060 --> 00:25:02,480
-ben je niet meer dezelfde.
+zal je niet meer dezelfde zijn.
 
 1
 00:25:03,560 --> 00:25:05,350
@@ -577,16 +570,13 @@ We hebben ook een paar krijgers.
 Oude krijgers.
 
 1
-00:25:47,650 --> 00:25:49,980
-Ik ga liever op pad met deze dwergen...
-
-1
-00:25:49,980 --> 00:25:52,530
-dan met een leger van de IJzerheuvels.
+00:25:47,650 --> 00:25:52,530
+Ik verkies deze dwergen
+boven een leger van de IJzerheuvels.
 
 1
 00:25:52,530 --> 00:25:56,400
-Toen ik ze vroeg, zeiden ze ja.
+Want toen ik ze vroeg, zeiden ze ja.
 
 1
 00:25:56,400 --> 00:25:59,370
@@ -610,7 +600,7 @@ Je hebt een keus.
 
 1
 00:26:10,500 --> 00:26:13,340
-Je hebt ons volk altijd geholpen.
+Je hebt ons volk erdoor geloodst.
 
 1
 00:26:14,300 --> 00:26:18,300
@@ -824,7 +814,7 @@ Stop. We moeten terug.
 
 1
 00:32:49,440 --> 00:32:51,280
-Wat is er loos?
+Wat is er mis?
 
 1
 00:32:51,280 --> 00:32:53,570
@@ -841,27 +831,27 @@ Doorgaan.
 
 1
 00:33:09,420 --> 00:33:12,380
-<i>Je zult het zonder zakdoeken
-moeten doen...</i>
+Je zult het zonder zakdoeken
+moeten doen...
 
 1
 00:33:12,470 --> 00:33:15,180
-<i>en nog een heleboel meer...</i>
+en nog een heleboel meer...
 
 1
 00:33:15,180 --> 00:33:17,720
-<i>voordat we ons doel
-hebben bereikt.</i>
+voordat we ons doel
+hebben bereikt.
 
 1
 00:33:18,970 --> 00:33:24,440
-<i>Je bent geboren in de heuvels
-en riviertjes van de Gouw.</i>
+Je bent geboren in de heuvels
+en riviertjes van de Gouw.
 
 1
 00:33:25,390 --> 00:33:28,360
-<i>Maar je thuis ligt nu achter je.</i>
+Maar je thuis ligt nu achter je.
 
 1
 00:33:28,440 --> 00:33:31,860
-<i>Maar je thuis ligt nu achter je.</i>
+Voor je ligt de wereld.

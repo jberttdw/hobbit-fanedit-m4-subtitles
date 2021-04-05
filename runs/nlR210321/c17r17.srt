@@ -13,7 +13,7 @@ ze sterven voor ons daarbuiten.
 
 1
 03:37:28,090 --> 03:37:31,720
-Er zijn zalen onder de zalen
+Er zijn cryptes onder de zalen
 in deze Berg.
 
 1
@@ -37,14 +37,12 @@ Ja.
 Dat is het.
 
 1
-03:37:46,030 --> 03:37:47,860
-We moeten het goud
-in de diepten storten.
+03:37:46,030 --> 03:37:48,881
+We moeten het goud veilig stellen.
 
 1
-03:37:47,860 --> 03:37:50,030
-Daar is het veilig.
--Hoor je me niet?
+03:37:48,882 --> 03:37:50,030
+Hoor je me niet?
 
 1
 03:37:50,030 --> 03:37:51,910
@@ -66,3 +64,4 @@ Een leven is niets waard.
 03:38:02,980 --> 03:38:08,010
 Maar een schat als deze is niet
 in levens uit te drukken.
+

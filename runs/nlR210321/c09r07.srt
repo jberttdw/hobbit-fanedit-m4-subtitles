@@ -28,6 +28,7 @@ Ik moet de dwergen bewaken.
 1
 02:14:01,050 --> 02:14:04,720
 Die zitten toch opgesloten?
+Ze lopen niet weg.
 
 1
 02:14:07,100 --> 02:14:09,600
@@ -111,11 +112,8 @@ Allemaal in de vaten. Snel.
 Ben je gek? Dan vinden ze ons.
 
 1
-02:15:36,980 --> 02:15:38,650
-Nee, echt niet.
-
-1
-02:15:38,730 --> 02:15:42,530
+02:15:36,980 --> 02:15:42,530
+Nee, echt niet, ik beloof het.
 Alsjeblieft, vertrouw me nou.
 
 1
@@ -139,13 +137,9 @@ Iedereen zit erin.
 En wat nu?
 
 1
-02:16:09,050 --> 02:16:10,930
+02:16:09,050 --> 02:16:12,010
 Adem inhouden.
--Hoezo?
-
-1
-02:16:10,930 --> 02:16:12,010
-Wat bedoel je?
+-Hoezo? Wat bedoel je?
 
 1
 02:16:37,370 --> 02:16:39,250

@@ -3,11 +3,8 @@
 Zet je wrok tegen de dwergen opzij.
 
 1
-03:16:47,520 --> 03:16:48,520
+03:16:47,520 --> 03:16:53,070
 Er dreigt oorlog.
-
-1
-03:16:48,520 --> 03:16:53,070
 Het gespuis van Dol Guldur komt hierheen.
 
 1

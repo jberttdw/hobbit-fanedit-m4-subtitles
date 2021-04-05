@@ -29,7 +29,7 @@ ziek.
 
 1
 01:55:48,620 --> 01:55:51,090
-Er gaat een dreiging van uit.
+Er gaat zo'n dreiging van uit.
 
 1
 01:55:53,300 --> 01:55:55,090

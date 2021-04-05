@@ -16,8 +16,7 @@ Achteruit. Ga achteruit.
 
 1
 01:17:45,390 --> 01:17:48,890
-Ik waarschuw je,
-kom niet dichterbij.
+Ik waarschuw je, kom niet dichterbij.
 
 1
 01:17:50,520 --> 01:17:54,640
@@ -134,19 +133,19 @@ Misschien.
 
 1
 01:19:17,560 --> 01:19:22,150
-<i>Wat heeft wortels die niemand ziet?</i>
+Wat heeft wortels die niemand ziet?
 
 1
 01:19:22,150 --> 01:19:25,070
-<i>Is hoger dan bomen?</i>
+Is hoger dan bomen?
 
 1
 01:19:25,150 --> 01:19:27,320
-<i>Rijst op in 't verschiet...</i>
+Rijst op in 't verschiet...
 
 1
 01:19:27,450 --> 01:19:30,410
-<i>zonder hoger te komen?</i>
+zonder hoger te komen?
 
 1
 01:19:31,450 --> 01:19:34,040
@@ -236,16 +235,16 @@ Balings eerst.
 
 1
 01:20:56,790 --> 01:20:59,500
-<i>Dertig paarden op een heuvel rood.</i>
+Dertig paarden op een heuvel rood.
 
 1
 01:21:00,290 --> 01:21:03,080
-<i>Eerst kauwen ze,
-dan stampen ze.</i>
+Eerst kauwen ze,
+dan stampen ze.
 
 1
 01:21:03,170 --> 01:21:04,830
-<i>Dan staan ze als de dood.</i>
+Dan staan ze als de dood.
 
 1
 01:21:15,890 --> 01:21:17,850
@@ -266,19 +265,19 @@ Wij zijn.
 
 1
 01:21:33,780 --> 01:21:36,530
-<i>Stemloos krijst hij.</i>
+Stemloos krijst hij.
 
 1
 01:21:37,080 --> 01:21:40,080
-<i>Vliegt vleugelloos rond.</i>
+Vliegt vleugelloos rond.
 
 1
 01:21:40,160 --> 01:21:42,750
-<i>Tandeloos bijt hij.</i>
+Tandeloos bijt hij.
 
 1
 01:21:43,460 --> 01:21:47,250
-<i>Mompelt zonder mond.</i>
+Mompelt zonder mond.
 
 1
 01:21:49,670 --> 01:21:51,630
@@ -310,11 +309,11 @@ Heel slim.
 
 1
 01:22:14,610 --> 01:22:20,080
-<i>Zonder deksel, scharnieren of slot bevat...</i>
+Zonder deksel, scharnieren of slot bevat...
 
 1
 01:22:20,160 --> 01:22:23,460
-<i>dit doosje niettemin een gouden schat.</i>
+dit doosje niettemin een gouden schat.
 
 1
 01:22:26,420 --> 01:22:27,710
@@ -360,19 +359,19 @@ Wij hebben er een voor jou.
 
 1
 01:23:21,140 --> 01:23:24,810
-<i>Dit verslindt al dat men kan noemen.</i>
+Dit verslindt al dat men kan noemen.
 
 1
 01:23:25,430 --> 01:23:29,850
-<i>Dieren, beesten, bomen, bloemen.</i>
+Dieren, beesten, bomen, bloemen.
 
 1
 01:23:30,650 --> 01:23:34,690
-<i>Knaagt ijzer, bijt staal en...</i>
+Knaagt ijzer, bijt staal en...
 
 1
 01:23:35,030 --> 01:23:38,860
-<i>kan de hardste stenen malen.</i>
+kan de hardste stenen malen.
 
 1
 01:23:40,320 --> 01:23:42,240
