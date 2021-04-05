@@ -1,0 +1,247 @@
+﻿1
+03:07:52,150 --> 03:07:54,700
+Heer Thranduil. We hadden u...
+
+1
+03:07:54,700 --> 03:07:57,820
+ hier niet verwacht.
+-Jullie hebben hulp nodig.
+
+1
+03:08:15,970 --> 03:08:16,890
+Hier.
+
+1
+03:08:18,260 --> 03:08:19,550
+Geeft het door.
+
+1
+03:08:20,470 --> 03:08:21,560
+Nog één.
+
+1
+03:08:25,980 --> 03:08:28,150
+U hebt ons gered.
+
+1
+03:08:28,150 --> 03:08:32,070
+Hoe moet ik u bedanken?
+-Je dankbaarheid is misplaatst.
+
+1
+03:08:32,070 --> 03:08:34,030
+Ik ben hier niet voor jullie.
+
+1
+03:08:34,030 --> 03:08:37,740
+Ik kom iets opeisen wat van mij is.
+
+1
+03:08:44,080 --> 03:08:48,460
+<i>In de Berg liggen edelstenen
+die ik begeer.</i>
+
+1
+03:08:48,460 --> 03:08:51,750
+<i>Witte edelstenen
+van puur sterrenlicht.</i>
+
+1
+03:08:52,380 --> 03:08:55,050
+De Witte Edelstenen
+van Lasgalen.
+
+1
+03:08:56,680 --> 03:08:59,680
+Ik ken een elfenkoning
+die daar veel voor over heeft.
+
+1
+03:09:05,600 --> 03:09:08,060
+Wacht. Wacht nou.
+
+1
+03:09:10,650 --> 03:09:13,280
+Wilt u oorlog voeren
+om wat edelstenen?
+
+1
+03:09:13,360 --> 03:09:16,990
+De erfstukken van mijn volk
+verloochenen we niet.
+
+1
+03:09:16,990 --> 03:09:19,450
+We zijn bondgenoten.
+
+1
+03:09:20,320 --> 03:09:24,950
+Mijn volk eist ook een deel van
+de rijkdommen van de Berg op.
+
+1
+03:09:24,950 --> 03:09:27,250
+Laat mij met Thorin praten.
+
+1
+03:09:27,290 --> 03:09:29,750
+Dus je wilt onderhandelen met die dwerg?
+
+1
+03:09:29,750 --> 03:09:32,170
+Om oorlog te voorkomen?
+
+1
+03:09:32,250 --> 03:09:33,210
+Ja.
+
+1
+03:09:34,090 --> 03:09:36,090
+Niet slecht.
+
+1
+03:09:37,920 --> 03:09:39,130
+Kom.
+
+1
+03:10:02,030 --> 03:10:04,780
+Gegroet, Thorin,
+zoon van Thraín.
+
+1
+03:10:04,870 --> 03:10:07,363
+Het doet ons deugd om jullie in leven te zien.
+
+1
+03:10:07,790 --> 03:10:12,080
+Waarom komen jullie gewapend
+naar de Koning onder de Berg?
+
+1
+03:10:12,170 --> 03:10:15,670
+Waarom heeft de Koning onder de Berg
+zich ingegraven...
+
+1
+03:10:15,670 --> 03:10:17,960
+als een rover in zijn hol?
+
+1
+03:10:18,630 --> 03:10:21,800
+Misschien omdat ik verwacht
+beroofd te worden.
+
+1
+03:10:22,890 --> 03:10:24,680
+Heer...
+
+1
+03:10:24,760 --> 03:10:26,890
+We komen u niet beroven.
+
+1
+03:10:26,970 --> 03:10:29,140
+We willen een overeenkomst.
+
+1
+03:10:29,730 --> 03:10:31,600
+Wilt u niet met me praten?
+
+1
+03:11:06,720 --> 03:11:08,060
+Ik luister.
+
+1
+03:11:09,140 --> 03:11:11,100
+Namens de mensen uit Meerstad...
+
+1
+03:11:11,180 --> 03:11:13,270
+vraag ik u uw belofte na te komen.
+
+1
+03:11:13,940 --> 03:11:17,440
+Een deel van de schat zodat zij hun leven
+weer kunnen opbouwen.
+
+1
+03:11:18,400 --> 03:11:21,150
+Ik maak geen afspraken met gelijk wie...
+
+1
+03:11:21,240 --> 03:11:23,660
+als er gewapende troepen klaar staan.
+
+1
+03:11:23,660 --> 03:11:28,080
+Die troepen vallen aan
+als wij het niet eens worden.
+
+1
+03:11:28,950 --> 03:11:31,620
+Je dreigement overtuigt me niet.
+
+1
+03:11:33,540 --> 03:11:35,460
+En uw geweten?
+
+1
+03:11:35,540 --> 03:11:38,340
+Zegt dat niet dat onze zaak
+rechtvaardig is?
+
+1
+03:11:39,630 --> 03:11:42,260
+Mijn mensen hielpen u.
+
+1
+03:11:43,590 --> 03:11:47,890
+In ruil daarvoor
+bracht u ze dood en verderf.
+
+1
+03:11:47,890 --> 03:11:51,310
+De mensen uit Meerstad
+dachten alleen aan rijkdom.
+
+1
+03:11:51,310 --> 03:11:52,850
+We hadden een afspraak.
+
+1
+03:11:52,850 --> 03:11:54,600
+Een afspraak?
+
+1
+03:11:54,600 --> 03:11:58,730
+Wij moesten ons geboorterecht ruilen
+voor dekens en voedsel.
+
+1
+03:11:58,820 --> 03:12:02,780
+Onze toekomst verkwanselen
+in ruil voor onze vrijheid.
+
+1
+03:12:02,780 --> 03:12:04,780
+Dat noem jij een eerlijke ruil?
+
+1
+03:12:07,160 --> 03:12:08,740
+Vertel eens...
+
+1
+03:12:08,830 --> 03:12:11,580
+Bard de Drakendoder...
+
+1
+03:12:12,120 --> 03:12:14,580
+waarom zou ik me daaraan houden?
+
+1
+03:12:16,790 --> 03:12:20,090
+Omdat u uw woord gaf.
+
+1
+03:12:23,170 --> 03:12:25,130
+Betekent dat niets?
