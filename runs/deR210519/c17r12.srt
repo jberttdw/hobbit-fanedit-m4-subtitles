@@ -1,0 +1,29 @@
+﻿1
+03:34:43,629 --> 03:34:46,129
+Orks stürmen über den Dammweg!
+
+1
+03:34:47,009 --> 03:34:50,179
+Die Bogenschützen zur östlichen Brustwehr.
+Haltet sie auf, solange ihr könnt.
+
+1
+03:34:50,219 --> 03:34:52,599
+Schützen! Hier entlang!
+
+1
+03:34:52,641 --> 03:34:54,889
+Die Orks haben
+die Steinstraße eingenommen!
+
+1
+03:34:54,969 --> 03:34:56,849
+Der Markt wird überrannt!
+
+1
+03:34:59,939 --> 03:35:01,019
+Alle anderen,
+
+1
+03:35:01,809 --> 03:35:03,269
+folgt mir!
