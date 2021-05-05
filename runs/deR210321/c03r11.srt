@@ -1,0 +1,51 @@
+﻿1
+01:03:33,120 --> 01:03:35,950
+Du bist nicht
+bei deinen Gefährten?
+
+1
+01:03:36,040 --> 01:03:39,670
+Äh...
+Ich werde sicherlich nicht vermisst.
+
+1
+01:03:42,670 --> 01:03:46,590
+In Wahrheit finden die meisten, ich sollte
+auf dieser Reise nicht dabei sein.
+
+1
+01:03:47,590 --> 01:03:49,050
+Tatsächlich?
+
+1
+01:03:50,340 --> 01:03:53,220
+Ich habe gehört,
+Hobbits seien sehr widerstandsfähig.
+
+1
+01:03:56,930 --> 01:03:57,850
+Wirklich?
+
+1
+01:03:58,520 --> 01:03:59,520
+Mhm.
+
+1
+01:04:04,150 --> 01:04:08,740
+Und ich hörte, sie schätzten
+die Bequemlichkeit ihres Heims.
+
+1
+01:04:12,030 --> 01:04:14,950
+Ich habe gehört, es sei unklug,
+den Rat der Elben zu suchen,
+
+1
+01:04:14,950 --> 01:04:17,660
+denn sie antworten immer mit Ja und Nein.
+
+1
+01:04:26,630 --> 01:04:30,510
+!! Du bist herzlich willkommen,
+wenn du es wünscht,
+hierzubleiben.

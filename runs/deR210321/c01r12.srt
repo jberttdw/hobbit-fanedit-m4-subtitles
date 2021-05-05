@@ -1,0 +1,196 @@
+﻿1
+00:14:57,540 --> 00:15:00,210
+<i>Tut, was Bilbo Beutlin hasst</i>
+
+1
+00:15:13,720 --> 00:15:15,430
+Er ist da.
+
+1
+00:15:19,480 --> 00:15:21,190
+Gandalf.
+
+1
+00:15:22,560 --> 00:15:25,320
+Hattest du nicht gesagt,
+dieser Ort sei leicht zu finden?
+
+1
+00:15:25,320 --> 00:15:27,530
+Ich hab mich verirrt. 2-mal.
+
+1
+00:15:27,530 --> 00:15:30,820
+Ohne das Zeichen an der Tür
+hätte ich's überhaupt nicht gefunden.
+
+1
+00:15:30,900 --> 00:15:34,030
+Zeichen? Da ist kein Zeichen. Sie wurde
+erst vor einer Woche frisch gestrichen.
+
+1
+00:15:34,030 --> 00:15:36,950
+Es gibt ein Zeichen.
+Ich habe es selbst angebracht.
+
+1
+00:15:38,120 --> 00:15:42,210
+Bilbo Beutlin. Darf ich Euch den Anführer
+unserer Unternehmung vorstellen?
+
+1
+00:15:42,750 --> 00:15:44,920
+Thorin Eichenschild.
+
+1
+00:15:45,000 --> 00:15:46,500
+So,
+
+1
+00:15:48,050 --> 00:15:50,510
+das ist also der Hobbit.
+
+1
+00:15:50,970 --> 00:15:53,090
+Sagt, Herr Beutlin,
+seid Ihr im Kampf erfahren?
+
+1
+00:15:53,090 --> 00:15:55,470
+- Bitte was?
+- Axt oder Schwert?
+
+1
+00:15:55,470 --> 00:15:57,260
+Welche Waffe ist die Eure?
+
+1
+00:15:57,260 --> 00:16:00,680
+Ich werfe eine ganz elegante Rosskastanie,
+wenn Ihr es wissen wollt.
+
+1
+00:16:00,680 --> 00:16:04,350
+Aber ich weiß nicht,
+inwiefern das von Bedeutung sein sollte.
+
+1
+00:16:04,350 --> 00:16:05,980
+Dachte ich's mir.
+
+1
+00:16:06,650 --> 00:16:09,320
+Eher ein Krämer als ein Meisterdieb.
+
+1
+00:16:14,700 --> 00:16:18,410
+Was gibt es Neues vom Treffen
+in den Ered Luin? Sind alle gekommen?
+
+1
+00:16:18,490 --> 00:16:21,580
+- Ja. Abgesandte aller 7 Königreiche.
+- Klingt vielversprechend!
+
+1
+00:16:21,660 --> 00:16:24,250
+Und was haben die Zwerge
+aus den Eisenbergen gesagt?
+
+1
+00:16:25,500 --> 00:16:27,420
+Schließt Dain sich uns an?
+
+1
+00:16:29,840 --> 00:16:31,220
+Sie werden nicht kommen.
+
+1
+00:16:34,800 --> 00:16:38,430
+Sie sagen, diese Reise
+sei unsere Sache. Unsere allein.|
+
+1
+00:16:40,890 --> 00:16:42,890
+Ihr geht auf eine Reise?
+
+1
+00:16:44,140 --> 00:16:48,520
+Bilbo, mein lieber Freund,
+könnten wir wohl etwas mehr Licht haben?
+
+1
+00:16:49,980 --> 00:16:52,240
+Weit im Osten,
+
+1
+00:16:52,320 --> 00:16:55,110
+hinter Gebirgen und Flüssen,
+
+1
+00:16:55,110 --> 00:16:58,700
+jenseits von Wäldern und Ödland,
+
+1
+00:16:58,700 --> 00:17:01,450
+liegt ein einzelner, entlegener Berg.
+
+1
+00:17:04,750 --> 00:17:06,500
+"Der Einsame Berg".
+
+1
+00:17:07,130 --> 00:17:10,250
+Ja. Oin hat die Zeichen
+
+1
+00:17:10,340 --> 00:17:13,800
+gedeutet, und die Zeichen besagen,
+die Zeit ist reif.
+
+1
+00:17:13,800 --> 00:17:18,970
+Man hat Raben gesehen, die zu dem Berg
+zurückflogen, wie es geweissagt wurde.
+
+1
+00:17:18,970 --> 00:17:23,140
+"Kehren die Vögel aus alter Zeit
+zurück zum Erebor,
+
+1
+00:17:23,230 --> 00:17:26,850
+wird die Herrschaft der Bestie enden."
+
+1
+00:17:29,060 --> 00:17:31,320
+- Äh... Welche Bestie?
+- Oh, damit ist wohl
+
+1
+00:17:31,320 --> 00:17:33,570
+Smaug, der Schreckliche, gemeint,
+
+1
+00:17:33,570 --> 00:17:37,360
+ehrwürdigstes und entsetzlichstes
+Verhängnis unseres Zeitalters.
+
+1
+00:17:38,490 --> 00:17:40,080
+Fliegender Feuerspucker.
+
+1
+00:17:40,080 --> 00:17:43,080
+Zähne wie Rasiermesser
+und Klauen wie Fleischerhaken.
+
+1
+00:17:43,080 --> 00:17:45,750
+- Mit einer Vorliebe für Edelmetall.
+- Ich weiß was ein Drache ist.
+
+1
+00:17:45,750 --> 00:17:47,790
+Ich hab keine Angst. Ich bin bereit.

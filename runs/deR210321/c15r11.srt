@@ -1,0 +1,48 @@
+﻿1
+03:16:44,310 --> 03:16:47,520
+Ihr müsst Euren kleinlichen Zwist
+mit den Zwergen beilegen.
+
+1
+03:16:47,520 --> 03:16:48,520
+Es wird Krieg geben!
+
+1
+03:16:48,520 --> 03:16:53,070
+Die Jauchegruben Dol Guldurs
+ergießen sich.
+
+1
+03:16:53,070 --> 03:16:55,490
+Ihr alle seid in tödlicher Gefahr.
+
+1
+03:16:55,570 --> 03:16:57,030
+Was redet Ihr da?
+
+1
+03:16:57,110 --> 03:16:59,990
+Ich sehe, dass Ihr nichts
+von Zauberern wisst.
+
+1
+03:16:59,990 --> 03:17:02,830
+!! Sie sind wie ein Wintergewitter,
+das auf einem rasenden Wind heranrollt,
+
+1
+03:17:02,910 --> 03:17:07,960
+um dann donnernd schlechte Kunde zu bringen.
+
+1
+03:17:07,960 --> 03:17:12,170
+Doch manchmal ist ein Sturm
+nur ein Sturm.
+
+1
+03:17:12,170 --> 03:17:13,920
+Nicht dieses Mal.
+
+1
+03:17:14,300 --> 03:17:17,590
+Ork-Heere rücken vor.

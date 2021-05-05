@@ -1,0 +1,3 @@
+﻿1
+02:01:00,810 --> 02:01:04,060
+Wir brauchen eine Verschnaufpause.
