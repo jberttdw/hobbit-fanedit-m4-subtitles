@@ -46,6 +46,5 @@ denn sie antworten immer mit Ja und Nein.
 
 1
 01:04:26,630 --> 01:04:30,510
-!! Du bist herzlich willkommen,
-wenn du es wünscht,
-hierzubleiben.
+Du bist herzlich willkommen hierzubleiben,
+wenn du es wünscht.

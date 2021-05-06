@@ -12,7 +12,8 @@ Ihr müsst zuhören!
 
 1
 02:31:57,920 --> 02:32:01,210
-Habt ihr vergessen, was mit Thal geschehen ist?
+Habt ihr vergessen,
+was mit Thal geschehen ist?
 
 1
 02:32:01,840 --> 02:32:04,880
@@ -49,4 +50,4 @@ Es war Girion, der Fürst von Thal,
 1
 02:32:29,530 --> 02:32:34,040
 Euer Ahnherr,
-der die Bestie zu erlegen versäumt hat, hm!
+der die Bestie zu erlegen versäumt hat!

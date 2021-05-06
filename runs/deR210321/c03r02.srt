@@ -58,15 +58,15 @@ Wo ist das Fleisch?
 Oder gebratene Kartoffeln?
 
 1
-00:57:11,900 --> 00:57:14,070
+00:57:11,900 --> 00:57:14,075
 Ich danke Euch
 für die Einladung.
 
 1
-00:57:14,160 --> 00:57:15,820
-!! Wenn ich auch nicht
+00:57:14,077 --> 00:57:16,166
+Wenn ich auch nicht
 fürs Essen gekleidet bin.
 
 1
-00:57:15,950 --> 00:57:17,990
+00:57:16,168 --> 00:57:17,990
 Das seid Ihr doch nie.

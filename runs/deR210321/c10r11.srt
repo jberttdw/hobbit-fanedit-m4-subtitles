@@ -23,8 +23,8 @@ Finger weg!
 Bringt sie hier rüber.
 
 1
-02:29:57,170 --> 02:29:58,050
-!! Macht ihnen Beine!
+02:29:57,049 --> 02:29:58,050
+Macht ihnen Beine!
 
 1
 02:30:06,760 --> 02:30:09,100
@@ -32,8 +32,7 @@ Was ist das für ein Aufruhr?
 
 1
 02:30:09,180 --> 02:30:11,100
-Wir haben sie geschnappt,
-als sie Waffen stehlen wollten, Herr.
+Sie wollten Waffen stehlen, Herr.
 
 1
 02:30:11,190 --> 02:30:14,060
@@ -50,7 +49,8 @@ Hütet Eure Zunge!
 
 1
 02:30:21,650 --> 02:30:24,200
-Ihr wisst nicht, mit wem Ihr es zu tun habt.
+Ihr wisst nicht,
+mit wem Ihr es zu tun habt.
 
 1
 02:30:24,280 --> 02:30:26,080
@@ -85,7 +85,8 @@ beladen mit Seide und Edelsteinen.
 
 1
 02:30:56,150 --> 02:30:58,940
-Dies war keine vergessene Stadt auf einem See.
+Dies war keine vergessene Stadt
+auf einem See.
 
 1
 02:30:58,940 --> 02:31:03,570
@@ -140,7 +141,8 @@ Wenn es gelingt,
 
 1
 02:31:38,560 --> 02:31:42,530
-werden alle am Reichtum des Berges teilhaben.
+werden alle
+am Reichtum des Berges teilhaben.
 
 1
 02:31:45,150 --> 02:31:48,490

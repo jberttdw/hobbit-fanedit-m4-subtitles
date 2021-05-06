@@ -36,8 +36,11 @@ Ich erinnere mich.
 Heimat von Durins Volk.
 
 1
-02:40:49,280 --> 02:40:57,250
-!! Möge das Herz des Berges
+02:40:49,197 --> 02:40:51,252
+Möge das Herz des Berges
+
+1
+02:40:51,294 --> 02:40:56,260
 alle Zwerge vereinen,
 um diese Heimat zu verteidigen."
 

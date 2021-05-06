@@ -48,21 +48,24 @@ Wovor fürchtet ihr Euch?
 Habt Ihr es vergessen?
 
 1
-01:02:33,270 --> 01:02:37,060
+01:02:33,270 --> 01:02:36,849
 Ein Hang zum Wahnsinn liegt
 in dieser Familie.
 
 1
-01:02:37,060 --> 01:02:38,560
-!! Sein Großvater hat
-den Verstand verloren.
+01:02:36,851 --> 01:02:39,584
+Sein Großvater hat den Verstand verloren.
+Sein Vater ist
 
 1
-01:02:38,560 --> 01:02:41,360
-Sein Vater ist
+01:02:39,585 --> 01:02:41,358
 der gleichen Krankheit erlegen.
 
 1
-01:02:41,360 --> 01:02:45,860
-Könnt ihr schwören, dass Thorin Eichenschild
+01:02:41,360 --> 01:02:44,075
+Könnt ihr schwören,
+dass Thorin Eichenschild
+
+1
+01:02:44,076 --> 01:02:45,948
 ihr nicht ebenfalls anheimfällt?

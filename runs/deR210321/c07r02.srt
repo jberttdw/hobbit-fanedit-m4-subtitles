@@ -3,14 +3,14 @@
 Wie nah ist die Meute?
 
 1
-01:44:38,540 --> 01:44:42,460
+01:44:38,540 --> 01:44:42,290
 Zu nah. Ein paar Wegstunden, mehr nicht.
 Aber es kommt noch schlimmer.
 
 1
-01:44:42,540 --> 01:44:45,210
-- !! Haben die Warge uns gewittert?
-- Noch nicht. Aber das werden sie.
+01:44:42,373 --> 01:44:45,210
+- Haben die Warge uns gewittert?
+- Nein, aber das werden sie.
 
 1
 01:44:45,300 --> 01:44:47,460

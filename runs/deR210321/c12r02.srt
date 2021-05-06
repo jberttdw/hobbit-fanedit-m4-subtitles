@@ -34,7 +34,7 @@ finden wirst.
 
 1
 02:42:12,450 --> 02:42:15,700
-!! Du musst nicht gehen, wenn du nicht willst.
+Du musst nicht gehen, wenn du nicht willst.
 Es ist nicht unehrenhaft, umzukehren.
 
 1

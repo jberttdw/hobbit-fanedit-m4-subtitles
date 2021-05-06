@@ -62,7 +62,8 @@ Ha, ha. Verkauft an Frau Bolger.
 
 1
 04:01:55,850 --> 04:01:59,020
-Jetzt haben Dicks Füße endlich ein Plätzchen.
+Jetzt haben Dicks Füße
+endlich ein Plätzchen.
 
 1
 04:02:00,770 --> 04:02:03,730
@@ -111,17 +112,17 @@ Verbindlichsten Dank.
 - Verzeihung.
 
 1
-04:02:22,460 --> 04:02:26,130
+04:02:22,460 --> 04:02:26,047
 Es sind mehr als 13 Monate vergangen
 seit dem Verschwinden.
 
 1
 04:02:26,130 --> 04:02:29,180
-!! Wenn Sie tatsächlich
+Wenn Sie tatsächlich Bilbo Beutlin sind
 
 1
 04:02:29,300 --> 04:02:32,850
-!! Bilbo Beutlin und unverstorben sind,
+und unverstorben,
 können Sie das beweisen?
 
 1
@@ -150,13 +151,16 @@ Als was ist ja egal.
 Da. Meine Unterschrift.
 
 1
-04:02:51,660 --> 04:02:53,950
+04:02:51,660 --> 04:02:53,867
 Ja, also, äh...
 
 1
-04:02:53,950 --> 04:02:59,540
-!! Es scheint seine Richtigkeit zu haben.
+04:02:53,950 --> 04:02:57,098
+Es scheint seine Richtigkeit zu haben.
 Ja.
+
+1
+04:02:57,181 --> 04:02:59,540
 Mir scheint, es gibt da keine Zweifel.
 
 1

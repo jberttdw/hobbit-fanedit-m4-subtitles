@@ -21,18 +21,19 @@ Ihr alle seid in tödlicher Gefahr.
 Was redet Ihr da?
 
 1
-03:16:57,110 --> 03:16:59,990
+03:16:57,110 --> 03:16:59,905
 Ich sehe, dass Ihr nichts
 von Zauberern wisst.
 
 1
-03:16:59,990 --> 03:17:02,830
-!! Sie sind wie ein Wintergewitter,
+03:16:59,907 --> 03:17:02,868
+Sie sind wie ein Wintergewitter,
 das auf einem rasenden Wind heranrollt,
 
 1
 03:17:02,910 --> 03:17:07,960
-um dann donnernd schlechte Kunde zu bringen.
+um dann donnernd
+schlechte Kunde zu bringen.
 
 1
 03:17:07,960 --> 03:17:12,170

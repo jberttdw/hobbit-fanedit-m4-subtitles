@@ -26,34 +26,37 @@ Schwert des Königs von Gondolin.
 
 1
 00:57:59,490 --> 00:58:02,120
-!! Diese Schwerter wurden für die Orkkriege
+Diese Schwerter wurden für die Orkkriege
 im Ersten Zeitalter angefertigt.
 
 1
-00:58:02,200 --> 00:58:07,170
-!! Mach dir keine Gedanken.
+00:58:02,200 --> 00:58:03,465
+Mach dir keine Gedanken.
+
+1
+00:58:03,467 --> 00:58:07,168
 Schwerter heißen nach großen Taten,
 die sie im Krieg vollbringen.
 
 1
-00:58:07,170 --> 00:58:10,170
+00:58:07,170 --> 00:58:10,168
 Soll das heißen, mein Schwert
 hat noch keine Schlacht gesehen?
 
 1
-00:58:10,170 --> 00:58:13,510
+00:58:10,170 --> 00:58:13,505
 Ich weiß nicht mal,
 ob es ein Schwert ist.
 
 1
-00:58:13,590 --> 00:58:15,510
+00:58:13,507 --> 00:58:15,510
 Sieht eher wie ein Brieföffner aus.
 
 1
-00:58:16,760 --> 00:58:18,300
-!! Wie sind sie in Euren Besitz gelangt?
+00:58:16,760 --> 00:58:19,938
+- Wie sind sie in Euren Besitz gelangt?
+- Wir fanden sie in einem Troll-Hort,
 
 1
-00:58:18,300 --> 00:58:22,180
-Wir fanden sie in einem Troll-Hort,
+00:58:19,940 --> 00:58:21,649
 an der Großen Oststraße.

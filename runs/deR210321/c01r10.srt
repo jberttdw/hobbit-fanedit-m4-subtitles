@@ -12,17 +12,17 @@ Spitzendeckchen und kein Geschirrtuch.
 Aber da sind Löcher drin.
 
 1
-00:13:41,300 --> 00:13:43,340
+00:13:41,300 --> 00:13:43,418
 Das gehört auch so.
 Das ist geklöppelt.
 
 1
-00:13:43,420 --> 00:13:46,180
+00:13:43,420 --> 00:13:46,387
 Oh, nichts geht über eine gute Klopperei.
 Wenn du den richtigen Prügel hast.
 
 1
-00:13:46,180 --> 00:13:48,640
+00:13:46,389 --> 00:13:48,718
 Dass ihnen die Bärte verhageln,
 diesen Zwergen!
 
@@ -42,7 +42,7 @@ Was wollen die hier?
 
 1
 00:13:56,600 --> 00:14:00,520
-Sie sind doch eine ganz muntere Versammlung,
+Sie sind doch eine ganz muntere gruppe,
 wenn man sich erst an sie gewöhnt hat.
 
 1
@@ -60,19 +60,28 @@ Der Teppich ist voller Schlamm.
 Die Speisekammer ist geplündert.
 
 1
-00:14:08,030 --> 00:14:09,870
+00:14:08,030 --> 00:14:09,948
 Vom Badezimmer ganz zu schweigen.
 
 1
-00:14:09,950 --> 00:14:13,870
-Das haben sie so gut wie kaputtgemacht.
+00:14:09,950 --> 00:14:11,607
+Das haben sie so gut
+wie kaputtgemacht.
+
+1
+00:14:11,609 --> 00:14:13,948
 Ich begreife nicht,
 was die in meinem Haus wollen!
 
 1
-00:14:13,950 --> 00:14:19,750
-Es tut mir leid, wenn ich Euch unterbreche,
-aber was soll ich mit meinem Teller machen?
+00:14:13,950 --> 00:14:17,503
+Es tut mir leid,
+wenn ich Euch unterbreche,
+
+1
+00:14:17,504 --> 00:14:19,750
+aber was soll ich mit
+meinem Teller machen?
 
 1
 00:14:19,750 --> 00:14:22,380

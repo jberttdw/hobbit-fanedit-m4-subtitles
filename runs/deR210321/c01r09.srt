@@ -35,13 +35,9 @@ Dwalin, Balin,
 Bifur, Bofur, Bombur,
 
 1
-00:12:19,210 --> 00:12:21,800
+00:12:19,210 --> 00:12:22,630
 - Dori, Nori, Ori!
-- Nein. Nicht meine preisgekrönten Tomaten.
-
-1
-00:12:21,800 --> 00:12:22,630
-Nein, danke.
+- Nicht meine Tomaten. Nein, danke.
 
 1
 00:12:26,720 --> 00:12:28,600
@@ -52,9 +48,13 @@ Ja, du hast vollkommen recht, Bifur.
 Ein Zwerg fehlt uns offensichtlich noch.
 
 1
-00:12:31,730 --> 00:12:36,690
-Er verspätet sich nur. Er wanderte gen Norden
-zum Treffen unserer Sippe. Er wird kommen.
+00:12:31,730 --> 00:12:33,337
+Er verspätet sich nur.
+
+1
+00:12:33,339 --> 00:12:36,690
+Er wanderte gen Norden zum Treffen
+unserer Sippe. Er wird kommen.
 
 1
 00:12:37,520 --> 00:12:41,240
@@ -71,35 +71,27 @@ Oh. Zum Wohle.
 
 1
 00:12:45,910 --> 00:12:48,830
-Ich finde, wir sollten anfangen.
-Bombur isst schon seine zweite Lammkeule.
+<i>Bombur isst schon seine zweite Lammkeule.</i>
 
 1
 00:12:50,790 --> 00:12:51,620
 Hm.
 
 1
-00:12:53,040 --> 00:12:55,670
-Niemals. Nicht aus der Entfernung.
-
-1
-00:12:55,750 --> 00:12:56,710
-Wollen wir wetten?
+00:12:53,040 --> 00:12:56,710
+- Niemals. Nicht aus der Entfernung.
+- Wollen wir wetten?
 
 1
 00:12:57,290 --> 00:12:58,540
 Bombur, fang!
 
 1
-00:13:01,960 --> 00:13:03,050
-Du wirfst wie ein Mädchen.
-
-1
 00:13:10,760 --> 00:13:12,930
 Ah, du ungeschickter Trampel!
 
 1
-00:13:12,930 --> 00:13:15,100
+00:13:12,930 --> 00:13:15,592
 - Wer will ein Bier? Bitte sehr.
 - Ich will eins, Bruder.
 

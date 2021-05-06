@@ -24,17 +24,19 @@ Klingt, als wärt Ihr dabei gewesen.
 Alle Zwerge kennen die Geschichte.
 
 1
-02:25:59,350 --> 02:26:02,140
+02:25:59,350 --> 02:26:01,973
 Dann wüsstet Ihr,
 dass Girion den Drachen getroffen hat.
 
 1
-02:26:02,140 --> 02:26:03,900
-!! Er löste eine Schuppe unter dem linken Flügel.
+02:26:02,057 --> 02:26:03,898
+Er löste eine Schuppe
+unter dem linken Flügel.
 
 1
 02:26:03,900 --> 02:26:06,440
-!! Noch ein Pfeil und er hätte die Bestie getötet.
+Noch ein Pfeil
+und er hätte die Bestie getötet.
 
 1
 02:26:07,440 --> 02:26:09,440

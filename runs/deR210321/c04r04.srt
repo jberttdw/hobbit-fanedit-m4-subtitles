@@ -61,10 +61,12 @@ sind selten unbewohnt.
 Hier ist nichts.
 
 1
-01:07:07,620 --> 01:07:11,920
-!! - Gut, dann machen wir
-erst mal ein schönes Feuer.
-- Nein. Kein Feuer. Nicht hier.
+01:07:07,495 --> 01:07:09,733
+Gut, lass uns ein schönes Feuer machen.
+
+1
+01:07:09,735 --> 01:07:11,920
+Nein. Kein Feuer. Nicht hier.
 
 1
 01:07:12,920 --> 01:07:16,550

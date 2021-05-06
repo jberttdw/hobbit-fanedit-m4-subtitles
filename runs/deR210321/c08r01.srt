@@ -13,7 +13,8 @@ Geht nicht ohne mich in den Berg hinein.
 
 1
 01:56:55,400 --> 01:56:58,490
-Dieser Wald ist nicht der Grünwald von ehedem.
+Dieser Wald ist nicht
+der Grünwald von ehedem.
 
 1
 01:56:58,490 --> 01:57:02,240

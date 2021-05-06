@@ -80,9 +80,9 @@ Ich will keine Schwierigkeiten,
 verstehst du?
 
 1
-01:18:38,440 --> 01:18:41,480
-!! Zeig mir einfach, wie ich hier wieder
-rauskomme, und dann bin ich auch schon weg.
+01:18:38,315 --> 01:18:41,478
+Zeig mir wie ich hier wieder rauskomme,
+und dann bin ich auch schon weg.
 
 1
 01:18:41,480 --> 01:18:43,780
@@ -571,8 +571,11 @@ Aber auch beide falsch.
 Also...
 
 1
-01:25:57,670 --> 01:26:01,090
-!! Komm schon. Ich hab gewonnen.
+01:25:57,545 --> 01:25:59,201
+Komm schon. Ich hab gewonnen.
+
+1
+01:25:59,203 --> 01:26:01,797
 Du hast versprochen,
 du zeigst mir den Ausgang.
 
@@ -686,13 +689,17 @@ Gestohlen!
 <i>Hälse umgedreht</i>
 
 1
-01:28:02,000 --> 01:28:05,670
-<i>Es wird alles zertrümmert
-Erschlagen und gequält</i>
+01:28:02,000 --> 01:28:03,945
+<i>Es wird alles zertrümmert</i>
+
+1
+01:28:03,947 --> 01:28:05,670
+<i>Erschlagen und gequält</i>
 
 1
 01:28:05,670 --> 01:28:10,260
-!! Hier, wo jeder euch heut grausam Sterben sieht
+<i>Hier, wo jeder euch
+Heut grausam Sterben sieht</i>
 
 1
 01:28:10,260 --> 01:28:13,810

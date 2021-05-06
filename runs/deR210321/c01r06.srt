@@ -16,12 +16,14 @@ irgendetwas Unerwartetes.
 - Wie meint Ihr das?
 
 1
-00:03:10,080 --> 00:03:11,370
+00:03:10,080 --> 00:03:12,350
 Wünscht Ihr mir einen guten Morgen,
+oder meint Ihr,
 
 1
-00:03:11,370 --> 00:03:16,130
-oder meint Ihr, dass es ein schöner Morgen ist,egal was ich wünsche?
+00:03:12,352 --> 00:03:16,130
+dass es ein schöner Morgen ist,
+egal was ich wünsche?
 
 1
 00:03:16,130 --> 00:03:20,840
@@ -55,9 +57,14 @@ und suche jemanden, der noch mitmacht.
 Ein Abenteuer?
 
 1
-00:03:51,250 --> 00:03:56,840
+00:03:51,250 --> 00:03:53,976
 Ich glaube nicht, dass irgendjemand
-westlich von Bree sonderlich viel Interesse an Abenteuern hat.
+westlich von Bree
+
+1
+00:03:53,978 --> 00:03:56,840
+sonderlich viel Interesse
+an Abenteuern hat.
 
 1
 00:03:56,840 --> 00:04:00,140
@@ -104,9 +111,8 @@ Wie bitte?
 
 1
 00:04:24,070 --> 00:04:27,410
-Ihr habt euch verändert.
-Und nicht nur zum Besseren,
-Bilbo Beutlin.
+Ihr habt euch verändert. Und nicht nur
+zum Besseren, Bilbo Beutlin.
 
 1
 00:04:27,410 --> 00:04:28,740
@@ -189,10 +195,13 @@ Mitteilen, wem denn?
 Was? Nein. Nein... Wartet.
 
 1
-00:05:18,460 --> 00:05:24,170
+00:05:18,460 --> 00:05:22,007
 Wir haben keine Verwendung
-für Abenteuer,
-schon gar nicht hier. Weder heute, noch...
+für Abenteuer, schon gar nicht hier.
+
+1
+00:05:22,008 --> 00:05:24,170
+Weder heute, noch...
 
 1
 00:05:24,170 --> 00:05:28,090

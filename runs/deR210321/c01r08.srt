@@ -81,7 +81,7 @@ Balin. Zu Euren Diensten.
 - Ja. Ja, er ist gut.
 
 1
-00:09:00,640 --> 00:09:03,180
+00:09:00,640 --> 00:09:03,558
 Obwohl ich denke,
 dass es nachher regnen könnte.
 
@@ -134,9 +134,8 @@ Hast du schon gegessen?
 
 1
 00:09:40,930 --> 00:09:46,230
-Also, eigentlich habe ich nichts gegen Besuch.
-Ich schätze Besuch,
-so wie jeder andere Hobbit.
+Ich habe nichts gegen Besuch. Ich schätze
+Besuch so wie jeder andere Hobbit.
 
 1
 00:09:46,230 --> 00:09:49,980
@@ -144,12 +143,12 @@ Doch noch mehr schätze ich es,
 ihn zu kennen, bevor er mich besucht.
 
 1
-00:09:49,980 --> 00:09:51,070
+00:09:49,980 --> 00:09:51,121
 - Was ist das?
 - Keine Ahnung.
 
 1
-00:09:51,110 --> 00:09:54,530
+00:09:51,123 --> 00:09:54,530
 - Soll wohl Käse sein. Ist ganz blau.
 - Wimmelt vor Schimmel.
 
@@ -159,28 +158,27 @@ Es ist ja so, ich kenne Euch beide nicht.
 Nicht im Geringsten.
 
 1
-00:09:59,910 --> 00:10:02,450
+00:09:59,910 --> 00:10:01,234
 Ich will nicht unhöflich sein,
-aber das musste mal gesagt werden.
 
 1
-00:10:02,450 --> 00:10:03,660
-- Es tut mir leid.
-- Glaubst du...
+00:10:01,236 --> 00:10:03,659
+aber das musste mal gesagt werden.
+Es tut mir leid.
 
 1
 00:10:07,580 --> 00:10:08,830
 Entschuldigung angenommen.
 
 1
-00:10:08,830 --> 00:10:11,290
-- Oh.
-- Mach schon voll, Bruder. Nicht so knickrig.
+00:10:08,830 --> 00:10:11,554
+Mach schon voll, Bruder.
+Nicht so knickrig.
 
 1
 00:10:12,420 --> 00:10:14,960
-- Lass es dir schmecken.
-- Ich könnte was essen, wenn du drauf bestehst.
+- Willst du etwas zu essen?
+- Ich bin noch etwas hungrig.
 
 1
 00:10:17,880 --> 00:10:19,590
@@ -188,26 +186,29 @@ Entschuldigung angenommen.
 - Und Kili.
 
 1
-00:10:20,050 --> 00:10:22,260
+00:10:20,050 --> 00:10:22,192
 Zu Euren Diensten.
 
 1
-00:10:22,260 --> 00:10:24,520
-- Ihr müsst Herr Beuteler sein.
-- Nein! Ihr könnt nicht reinkommen.
+00:10:22,194 --> 00:10:23,670
+Ihr müsst Herr Beuteler sein.
 
 1
-00:10:24,600 --> 00:10:27,140
-- Das ist das falsche Haus.
-- Was?
+00:10:23,672 --> 00:10:26,211
+Nein! Ihr könnt nicht reinkommen.
+Das ist das falsche Haus.
 
 1
-00:10:27,230 --> 00:10:29,310
+00:10:26,213 --> 00:10:27,228
+Was?
+
+1
+00:10:27,230 --> 00:10:29,868
 - Ist es abgesagt worden?
 - Davon wissen wir ja gar nichts.
 
 1
-00:10:29,310 --> 00:10:33,520
+00:10:29,870 --> 00:10:33,520
 - Es wurde gar nichts abgesagt.
 - Da bin ich ja erleichtert.
 
@@ -218,12 +219,13 @@ Ich hab sie gerade geschliffen.
 
 1
 00:10:40,360 --> 00:10:43,530
-- Schönes Haus. Sehr hübsch hier.
+Schönes Haus. Sehr hübsch hier.
 Habt Ihr es selbst gebaut?
 
 1
 00:10:43,530 --> 00:10:45,950
-Was? Nein, ist schon lange in Familienbesitz.
+Was? Nein,
+ist schon lange in Familienbesitz.
 
 1
 00:10:45,950 --> 00:10:48,910
@@ -293,7 +295,7 @@ Gandalf.
 Verzeihung, das ist mein Hühnchen. Ähm...
 
 1
-00:11:37,840 --> 00:11:40,590
+00:11:37,840 --> 00:11:41,132
 Und wenn Ihr bitte nicht... Und das ist
 mein Wein. Ich muss doch sehr bitten!
 
@@ -302,12 +304,13 @@ mein Wein. Ich muss doch sehr bitten!
 Er sagt, er fühlt sich leicht unwohl.
 
 1
-00:11:47,720 --> 00:11:49,270
+00:11:47,720 --> 00:11:49,348
 Weil ein Beil in seinem Kopf steckt?
 
 1
 00:11:49,350 --> 00:11:51,980
-Verreckt? Nein, ihm brummt nur der Schädel.
+Verreckt? Nein, ihm brummt
+nur der Schädel.
 
 1
 00:11:52,230 --> 00:11:54,310

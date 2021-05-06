@@ -52,13 +52,12 @@ Welches Interesse
 habt ihr an dieser Karte?
 
 1
-00:59:20,740 --> 00:59:22,910
+00:59:20,740 --> 00:59:22,908
 Es sind hauptsächlich Gedankenspiele.
 
 1
 00:59:22,910 --> 00:59:27,710
-!! Wie Ihr wisst,
-enthalten solche Stücke
+Wie Ihr wisst, enthalten solche Stücke
 bisweilen verborgene Texte.
 
 1
@@ -142,17 +141,17 @@ Der erste Tag des neuen Jahres der Zwerge,
 wenn der letzte Herbstmond
 
 1
-01:01:01,800 --> 01:01:04,760
+01:01:01,791 --> 01:01:04,751
 und die erste Wintersonne
 gemeinsam am Himmel stehen.
 
 1
-01:01:04,760 --> 01:01:06,970
+01:01:04,760 --> 01:01:06,814
 Eine schlechte Nachricht.
 
 1
-01:01:06,970 --> 01:01:09,430
-!! Der Sommer geht zur Neige.
+01:01:06,816 --> 01:01:09,430
+Der Sommer geht zur Neige.
 Der Durinstag wird bald da sein.
 
 1

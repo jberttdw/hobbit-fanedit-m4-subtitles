@@ -67,8 +67,8 @@ Dies ist ein Mann aus edlem Hause.
 - Nennt mich nicht so.
 
 1
-03:01:14,420 --> 03:01:16,300
-!! Ich bin nicht der Bürgermeister
+03:01:14,378 --> 03:01:16,467
+Ich bin nicht der Bürgermeister
 dieser Stadt.
 
 1

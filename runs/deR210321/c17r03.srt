@@ -3,11 +3,8 @@
 Eisenfuß.
 
 1
-03:29:04,090 --> 03:29:05,170
+03:29:04,090 --> 03:29:07,260
 Wer ist das?
-
-1
-03:29:06,010 --> 03:29:07,260
 Glücklich sieht er nicht aus.
 
 1
@@ -36,22 +33,22 @@ Guten Morgen.
 Wie geht's uns allerseits?
 
 1
-03:29:34,750 --> 03:29:36,460
-!! Ich hätte einen kleinen Vorschlag zu machen,
+03:29:34,750 --> 03:29:36,750
+Ich hätte
+einen kleinen Vorschlag zu machen,
 
 1
-03:29:36,460 --> 03:29:40,790
+03:29:36,794 --> 03:29:40,790
 wenn ihr mir einen Augenblick
 eurer Zeit schenken würdet.
 
 1
 03:29:41,380 --> 03:29:43,670
-Wärt ihr so freundlich
-und verschwindet von hier!
+Wärt ihr so freundlich,
 
 1
 03:29:44,670 --> 03:29:46,670
-!!
+und verschwindet von hier!
 
 1
 03:29:48,010 --> 03:29:49,010
@@ -96,7 +93,7 @@ marschiert auf den Berg zu.
 1
 03:30:15,160 --> 03:30:19,410
 - Haltet Eure Streitmacht zurück.
-- Vor Elben halte ich überhaupt nichts zurück.
+- Vor Elben halte ich nichts zurück.
 
 1
 03:30:20,080 --> 03:30:23,130
@@ -115,10 +112,11 @@ mich und meine Sippe stellen,
 
 1
 03:30:32,720 --> 03:30:35,350
-dann spalte ich ihm seinen hübschen Schädel!
+dann spalte ich
+ihm seinen hübschen Schädel!
 
 1
-03:30:35,350 --> 03:30:37,430
+03:30:35,350 --> 03:30:38,264
 Mal sehen,
 ob er dann immer noch so fein lächelt.
 

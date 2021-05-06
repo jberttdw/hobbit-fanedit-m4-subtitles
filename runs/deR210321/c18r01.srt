@@ -15,17 +15,13 @@ Nicht bewegen. Nicht bewegen. Lieg still.
 Oh. Mm. Mm.
 
 1
-03:51:39,900 --> 03:51:40,900
+03:51:39,900 --> 03:51:41,892
 Ich bin froh, dass du hier bist.
 
 1
-03:51:40,990 --> 03:51:42,950
-- Psst, psst.
-- Ah.
-
-1
 03:51:43,990 --> 03:51:45,870
-Ich möchte in Freundschaft von dir scheiden.
+Ich möchte
+in Freundschaft von dir scheiden.
 
 1
 03:51:45,950 --> 03:51:46,830
@@ -62,12 +58,13 @@ Es tut mir so leid,
 
 1
 03:52:10,270 --> 03:52:12,850
-dass ich dich in solche Gefahr gebracht habe.
+dass ich dich
+in solche Gefahr gebracht habe.
 
 1
 03:52:13,770 --> 03:52:16,980
-Nein, ich bin froh, dass ich mit dir
-durch die Gefahren gehen durfte, Thorin.
+Ich bin froh, dass ich mit dir
+durch die Gefahren gehen durfte.
 
 1
 03:52:16,980 --> 03:52:19,110
@@ -116,7 +113,8 @@ als Gold.
 
 1
 03:52:58,310 --> 03:53:02,610
-Diese Welt wäre ein viel glücklicherer Ort.
+Diese Welt wäre
+ein viel glücklicherer Ort.
 
 1
 03:53:05,450 --> 03:53:07,950

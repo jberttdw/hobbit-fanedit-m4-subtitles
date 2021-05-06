@@ -27,11 +27,11 @@ Ein übergroßes Eichhörnchen?
 
 1
 00:41:46,150 --> 00:41:48,020
-!! Ich bin ein Meister... Äh, Hobbit.
+Ich bin ein Meister... Äh, Hobbit.
 
 1
 00:41:48,020 --> 00:41:50,400
-!! Ein Meisterhobbit?
+Ein Meisterhobbit?
 
 1
 00:41:50,440 --> 00:41:52,190
@@ -52,7 +52,7 @@ ohne Haut und Knochen.
 
 1
 00:42:02,830 --> 00:42:06,000
-!! Vielleicht sind noch mehr
+Vielleicht sind noch mehr
 Meisterhobbits in der Nähe.
 
 1

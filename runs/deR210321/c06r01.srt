@@ -78,17 +78,17 @@ Jetzt ist er weg.
 Ich hab gedacht, er wäre bei Dori!
 
 1
-01:34:48,620 --> 01:34:51,450
-!! - Schieb es jetzt nicht auf mich!
+01:34:48,620 --> 01:34:51,788
+- Schieb es jetzt nicht auf mich!
 - Wo habt ihr ihn denn zuletzt gesehen?
 
 1
-01:34:51,790 --> 01:34:54,620
-!! Ich glaube, als sie uns gefangen haben,
+01:34:51,790 --> 01:34:54,743
+Ich glaube, als sie uns gefangen haben,
 konnte er sich davonstehlen.
 
 1
-01:34:54,620 --> 01:34:56,210
+01:34:54,745 --> 01:34:56,210
 Was ist genau passiert?
 
 1
@@ -102,14 +102,13 @@ Meister Beutlin hat die Gelegenheit
 erkannt und sie ergriffen.
 
 1
-01:35:02,500 --> 01:35:05,050
-!! Seit er aus seiner Tür getreten ist,
-hat er nur an sein weiches Bett
-und seinen warmen Ofen gedacht.
+01:35:02,417 --> 01:35:05,382
+Er hat nur an sein weiches Bett
+und seinen warmen Ofen gedacht
 
 1
-01:35:05,050 --> 01:35:07,180
-!! <cont>
+01:35:05,384 --> 01:35:07,180
+seit er aus seiner Tür getreten ist.
 
 1
 01:35:08,090 --> 01:35:10,350
@@ -129,8 +128,8 @@ Nein. Ist er nicht.
 Bilbo Beutlin.
 
 1
-01:35:33,910 --> 01:35:36,580
-!! In meinem ganzen Leben war ich
+01:35:33,910 --> 01:35:37,164
+In meinem ganzen Leben war ich
 noch nie so froh, jemanden zu sehen.
 
 1

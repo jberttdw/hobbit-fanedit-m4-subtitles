@@ -12,12 +12,12 @@ Ist Gold Euch tatsächlich so wichtig?
 Erkauft Ihr es mit dem Blut von Zwergen?
 
 1
-03:20:19,320 --> 03:20:20,980
+03:20:19,320 --> 03:20:20,936
 Dazu wird es nicht kommen.
 
 1
-03:20:20,980 --> 03:20:23,990
-!!- Diesen Kampf können sie nicht gewinnen.
+03:20:20,938 --> 03:20:23,990
+- Diesen Kampf können sie nicht gewinnen.
 - Das wird sie nicht aufhalten.
 
 1
@@ -80,18 +80,16 @@ Wie kommt Ihr in seinen Besitz?
 
 1
 03:21:09,030 --> 03:21:12,200
-Das ist mein Vierzehntel Anteil an dem Schatz.
+Das ist mein Vierzehntel Anteil
+an dem Schatz.
 
 1
-03:21:12,910 --> 03:21:14,040
+03:21:12,910 --> 03:21:15,540
 Warum tut Ihr das?
-
-1
-03:21:14,450 --> 03:21:15,540
 Ihr schuldet uns keine Treue.
 
 1
-03:21:15,540 --> 03:21:17,500
+03:21:15,832 --> 03:21:17,554
 Ich tue das nicht für Euch.
 
 1
@@ -126,15 +124,14 @@ Ich habe sie ins Herz geschlossen und
 möchte sie retten, wenn ich kann.
 
 1
-03:21:41,520 --> 03:21:45,110
+03:21:41,520 --> 03:21:45,108
 Thorin ist dieser Stein mehr wert,
 als alles andere.
 
 1
 03:21:45,110 --> 03:21:49,280
-!!Um ihn zurückzubekommen,
-wird er Euch sicherlich geben,
-was er Euch schuldet.
+Um ihn zurückzubekommen wird er Euch
+sicherlich geben was er Euch schuldet.
 
 1
 03:21:49,280 --> 03:21:52,240
@@ -156,8 +153,8 @@ Ruhe dich heute Nacht aus.
 
 1
 03:22:04,250 --> 03:22:07,300
-Du hast mich zum vierzehnten Mann gemacht.
-Ich verlasse die Unternehmung jetzt nicht.
+Ich lasse die Unternehmung
+jetzt nicht im Stich.
 
 1
 03:22:07,300 --> 03:22:09,380
@@ -181,12 +178,17 @@ Solltest du aber.
 Unterschätze niemals das Böse im Gold.
 
 1
-03:22:19,600 --> 03:22:22,730
-Gold, auf dem eine Feuer-Schlange gelegen hat.
+03:22:19,600 --> 03:22:22,728
+Gold auf dem
+eine Feuer-Schlange gelegen hat.
 
 1
-03:22:22,730 --> 03:22:27,440
-Die Drachenkrankheit dringt in die Herzen aller,
+03:22:22,730 --> 03:22:25,112
+Die Drachenkrankheit
+dringt in die Herzen aller,
+
+1
+03:22:25,121 --> 03:22:27,440
 die dem Berg zu nahe kommen.
 
 1

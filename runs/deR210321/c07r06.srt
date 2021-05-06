@@ -153,10 +153,13 @@ Nun, nichts mehr, als Euch
 für Eure Gastfreundschaft danken.
 
 1
-01:50:26,970 --> 01:50:31,600
-!! Ihr habt vielleicht bemerkt, dass wir
-heute Nacht
-Schutz in Eurer Unterkunft gesucht haben.
+01:50:26,970 --> 01:50:28,610
+Ihr habt vielleicht bemerkt, dass wir
+
+1
+01:50:28,612 --> 01:50:31,600
+heute Nacht Schutz in Eurer
+Unterkunft gesucht haben.
 
 1
 01:50:32,480 --> 01:50:34,390

@@ -73,7 +73,8 @@ Eine dreckige Lüge.
 
 1
 03:24:52,090 --> 03:24:55,170
-Der Arkenstein liegt in diesem Berg versteckt!
+Der Arkenstein liegt
+in diesem Berg versteckt!
 
 1
 03:24:55,260 --> 03:24:56,380
@@ -172,6 +173,7 @@ Hört ihr mich nicht?
 1
 03:26:24,260 --> 03:26:27,600
 Dann mach ich es selbst.
+Ich verfluche dich.
 
 1
 03:26:27,600 --> 03:26:28,430
@@ -179,7 +181,7 @@ Nein!
 
 1
 03:26:28,430 --> 03:26:30,900
-!! Verflucht sollst du sein, und der Zauberer,
+Verflucht sollst der Zauberer zein,
 der dich uns aufgezwungen hat!
 
 1
@@ -193,13 +195,13 @@ Gib ihn mir zurück.
 
 1
 03:26:41,490 --> 03:26:46,580
-Bis jetzt machst du als König unter dem Berge
-keine sehr gute Figur,
+Bis jetzt machst du als König
+unter dem Berge keine sehr gute Figur,
 
 1
 03:26:46,580 --> 03:26:50,660
-nicht wahr? Thorin,
-Sohn von Thrain.
+nicht wahr?
+Thorin, Sohn von Thrain.
 
 1
 03:26:57,340 --> 03:27:00,590

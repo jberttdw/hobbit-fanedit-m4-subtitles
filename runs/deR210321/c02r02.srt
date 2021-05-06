@@ -10,31 +10,35 @@ Es regnet, Meister Zwerg,
 1
 00:35:06,080 --> 00:35:09,790
 und es wird weiterregnen,
-bis es aufgehört hat, zu regnen.
+bis es aufgehört hat zu regnen.
 
 1
-00:35:10,580 --> 00:35:15,880
-!! Wollt Ihr das Wetter auf der Welt ändern,
-müsst ihr Euch
-einen anderen Zauberer suchen.
+00:35:10,580 --> 00:35:12,857
+Wollt Ihr das Wetter
+auf der Welt ändern,
 
 1
-00:35:15,880 --> 00:35:17,380
+00:35:12,859 --> 00:35:15,878
+müsst ihr Euch einen
+anderen Zauberer suchen.
+
+1
+00:35:15,880 --> 00:35:17,378
 - Gibt es welche?
 - Was?
 
 1
-00:35:17,380 --> 00:35:20,300
+00:35:17,380 --> 00:35:20,378
 - Andere Zauberer?
 - Es gibt 5 von uns.
 
 1
-00:35:20,380 --> 00:35:24,890
+00:35:20,380 --> 00:35:24,899
 Der höchste unseres Ordens
 ist Saruman, der Weiße.
 
 1
-00:35:24,890 --> 00:35:26,930
+00:35:24,901 --> 00:35:26,928
 Und dann gibt es noch
 2 Blaue Zauberer,
 
@@ -44,7 +48,7 @@ deren Namen
 ich allerdings vergessen habe.
 
 1
-00:35:30,650 --> 00:35:31,900
+00:35:30,533 --> 00:35:31,900
 Und wer ist der Fünfte?
 
 1

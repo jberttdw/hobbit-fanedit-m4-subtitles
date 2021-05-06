@@ -73,8 +73,9 @@ Wir sehen uns morgen früh.
 Auf Wiedersehen, Bilbo.
 
 1
-03:19:56,250 --> 03:19:59,710
-Seit wann wird mein Rat so geringgeschätzt?
+03:19:56,250 --> 03:19:59,708
+Seit wann wird mein Rat
+so geringgeschätzt?
 
 1
 03:19:59,710 --> 03:20:01,300
@@ -82,8 +83,8 @@ Was denkt Ihr, bezwecke ich damit?
 
 1
 03:20:01,300 --> 03:20:03,970
-!! Ich glaube, Ihr wollt Eure Zwergenfreunde
-retten.
+Ich glaube, Ihr wollt
+Eure Zwergenfreunde retten.
 
 1
 03:20:03,970 --> 03:20:06,550

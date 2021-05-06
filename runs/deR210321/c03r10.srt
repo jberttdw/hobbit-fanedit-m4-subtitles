@@ -19,6 +19,11 @@ Sie sind entschlossen,
 ihre Heimat zurückzufordern.
 
 1
-01:03:02,000 --> 01:03:07,380
-!! Ich glaube nicht, dass Thorin Eichenschild
-der Meinung ist, Rechenschaft schuldig zu sein.
+01:03:02,000 --> 01:03:04,700
+Ich glaube nicht,
+dass Thorin Eichenschild
+
+1
+01:03:04,702 --> 01:03:07,380
+der Meinung ist,
+Rechenschaft schuldig zu sein.

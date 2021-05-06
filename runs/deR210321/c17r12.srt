@@ -12,8 +12,9 @@ Haltet sie auf, solange ihr könnt.
 Schützen! Hier entlang!
 
 1
-03:34:43,140 --> 03:34:45,430
-Die Orks haben die Steinstraße eingenommen!
+03:34:43,182 --> 03:34:45,430
+Die Orks haben
+die Steinstraße eingenommen!
 
 1
 03:34:45,510 --> 03:34:47,390

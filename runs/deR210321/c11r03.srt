@@ -19,11 +19,8 @@ diesen Tag bereuen!
 Also dann. Wir haben einen Schlüssel.
 
 1
-02:36:56,010 --> 02:36:58,510
-Das bedeutet, irgendwo
-
-1
-02:36:58,590 --> 02:36:59,720
+02:36:56,010 --> 02:36:59,720
+Das bedeutet irgendwo
 gibt es auch ein Schlüsselloch.
 
 1

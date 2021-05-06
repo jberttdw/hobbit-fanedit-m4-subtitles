@@ -27,33 +27,36 @@ Ich glaube, es wäre klüger,
 weiterzuziehen.
 
 1
-00:36:16,440 --> 00:36:19,650
+00:36:16,440 --> 00:36:19,648
 Wir könnten
 zum Verborgenen Tal reiten.
 
 1
-00:36:19,650 --> 00:36:23,860
-!! Ich habe es dir schon gesagt.
+00:36:19,650 --> 00:36:21,648
+Ich habe es dir schon gesagt.
+
+1
+00:36:21,650 --> 00:36:23,858
 Wir gehen nicht
 in die Nähe von diesem Ort.
 
 1
-00:36:23,860 --> 00:36:26,330
+00:36:23,860 --> 00:36:26,408
 Wieso nicht?
 Die Elben sind hilfsbereit.
 
 1
-00:36:26,410 --> 00:36:28,620
+00:36:26,410 --> 00:36:28,658
 Dort könnten wir essen,
 schlafen, uns Rat holen.
 
 1
-00:36:28,660 --> 00:36:30,790
-Ich brauche keinen Rat von denen.
+00:36:28,660 --> 00:36:31,634
+- Ich brauche keinen Rat von denen.
+- Wir haben eine Karte,
 
 1
-00:36:30,790 --> 00:36:34,880
-!! Wir haben eine Karte,
+00:36:31,636 --> 00:36:34,880
 die wir nicht lesen können.
 Herr Elrond könnte uns helfen.
 
@@ -81,20 +84,17 @@ tatenlos zugesehen.
 
 1
 00:36:51,430 --> 00:36:55,900
-Und du verlangst, dass ich eben jene aufsuche,
-die meinen Großvater verrieten?
+Und du verlangst, dass ich eben jene
+aufsuche die meinen Großvater verrieten?
 
 1
-00:36:55,900 --> 00:36:57,110
-Die meinen Vater verrieten.
-
-1
-00:36:57,110 --> 00:36:59,020
-Du bist keiner von beiden.
+00:36:55,900 --> 00:36:59,020
+- Die meinen Vater verrieten.
+- Du bist keiner von beiden.
 
 1
 00:37:00,030 --> 00:37:03,450
-!! Ich gab dir Karte und Schlüssel nicht,
+Ich gab dir Karte und Schlüssel nicht,
 damit du an der Vergangenheit festhältst.
 
 1
@@ -268,9 +268,12 @@ Dir passiert nichts.
 Wir sind direkt hinter dir.
 
 1
-00:39:42,650 --> 00:39:46,280
-!! Wenn's Ärger gibt, mach 2-mal
+00:39:42,650 --> 00:39:44,872
+Wenn's Ärger gibt, mach 2-mal
 Schuhu wie eine Schleiereule,
+
+1
+00:39:44,874 --> 00:39:46,280
 und einmal wie eine Schnee-Eule.
 
 1
@@ -312,7 +315,7 @@ alter Bauer.
 
 1
 00:40:14,430 --> 00:40:18,850
-!! Der war ja bloß Haut und Knochen.
+Der war ja bloß Haut und Knochen.
 Hab ich immer noch zwischen den Zähnen.
 
 1

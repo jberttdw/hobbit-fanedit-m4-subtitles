@@ -26,14 +26,18 @@ Thorin sagt, ich hätte nie
 mitkommen sollen, und er hat recht.
 
 1
-01:08:35,130 --> 01:08:38,090
-!! Ich bin kein Tuk. Ich bin ein Beutlin.
+01:08:35,130 --> 01:08:38,424
+Ich bin kein Tuk. Ich bin ein Beutlin.
 Was hab ich mir dabei nur gedacht?
 
 1
-01:08:40,130 --> 01:08:44,300
-- Ich hätte nie von zu Hause weggehen sollen.
-- Du hast Heimweh. Das verstehe ich.
+01:08:39,914 --> 01:08:41,881
+Ich hätte nie von zu Hause
+weggehen sollen.
+
+1
+01:08:41,883 --> 01:08:44,298
+Du hast Heimweh. Das verstehe ich.
 
 1
 01:08:44,300 --> 01:08:47,010
@@ -41,13 +45,16 @@ Nein. Das verstehst du eben nicht.
 Das versteht keiner von euch.
 
 1
-01:08:47,100 --> 01:08:50,350
+01:08:47,100 --> 01:08:50,221
 Ihr seid Zwerge.
 Ihr seid das hier gewohnt.
 
 1
-01:08:50,430 --> 01:08:55,020
-!! Ein Leben auf der Straße,
+01:08:50,263 --> 01:08:51,572
+Ein Leben auf der Straße,
+
+1
+01:08:51,574 --> 01:08:55,020
 nirgendwo sesshaft zu sein,
 nirgendwo hinzugehören!
 
@@ -73,7 +80,7 @@ alles Glück auf der Welt.
 Ganz ehrlich.
 
 1
-01:09:31,770 --> 01:09:32,560
+01:09:31,687 --> 01:09:32,560
 Was ist das?
 
 1

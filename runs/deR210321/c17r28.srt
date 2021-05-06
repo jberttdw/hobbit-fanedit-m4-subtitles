@@ -11,5 +11,6 @@ Nimm deinen Bruder mit.
 Sucht die Türme ab.
 
 1
-03:44:03,700 --> 03:44:05,530
-!! Lasst euch nicht sehen und bleibt in Deckung.
+03:44:03,700 --> 03:44:06,156
+Lasst euch nicht sehen
+und bleibt in Deckung.

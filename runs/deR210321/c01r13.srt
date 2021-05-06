@@ -32,17 +32,17 @@ Entschuldigung, was hat er gesagt?
 Wir mögen nicht sehr viele sein,
 
 1
-00:18:05,180 --> 00:18:09,060
+00:18:05,180 --> 00:18:09,106
 aber wir sind Kämpfer. Jeder von uns.
 Bis zum letzten Zwerg.
 
 1
-00:18:09,150 --> 00:18:11,480
+00:18:09,108 --> 00:18:11,700
 Und vergesst nicht, wir haben
 einen Zauberer in unseren Reihen.
 
 1
-00:18:11,570 --> 00:18:14,320
+00:18:11,702 --> 00:18:14,320
 Gandalf hat sicher
 schon hunderte Drachen getötet.
 
@@ -92,9 +92,9 @@ zu dem Berg. Abschätzend,
 überlegend, das Risiko abwägend.
 
 1
-00:18:54,860 --> 00:18:57,940
-Der unermessliche Reichtum
-unseres Volkes liegt vielleicht schutzlos da.
+00:18:54,860 --> 00:18:58,028
+Der unermessliche Reichtum unseres Volkes
+liegt vielleicht schutzlos da.
 
 1
 00:18:58,030 --> 00:19:01,490
@@ -108,10 +108,11 @@ und holen uns den Erebor zurück?
 
 1
 00:19:07,330 --> 00:19:10,120
-Ihr vergesst, das Haupttor ist verschlossen.
+Ihr vergesst,
+das Haupttor ist verschlossen.
 
 1
-00:19:10,870 --> 00:19:13,290
+00:19:10,870 --> 00:19:13,378
 Es gibt keinen Weg in den Berg hinein.
 
 1
@@ -163,12 +164,12 @@ Die Lösung ist irgendwo
 in dieser Karte verborgen,
 
 1
-00:20:00,510 --> 00:20:02,720
+00:20:00,510 --> 00:20:02,840
 nur besitze ich nicht
 die Fähigkeit, sie zu finden,
 
 1
-00:20:02,800 --> 00:20:06,010
+00:20:02,842 --> 00:20:06,010
 aber es gibt andere in Mittelerde,
 die das können.
 
@@ -210,9 +211,14 @@ Er hat gesagt,
 er ist der Beste. Hey.
 
 1
-00:20:34,880 --> 00:20:39,670
-Was, ich? Nein. Ich bin kein Dieb. Ich habe
-in meinem Leben noch nie etwas gestohlen.
+00:20:34,880 --> 00:20:37,547
+Was, ich? Nein.
+Ich bin kein Dieb.
+
+1
+00:20:37,548 --> 00:20:39,670
+ Ich habe in meinem Leben noch
+nie etwas gestohlen.
 
 1
 00:20:39,670 --> 00:20:42,170
@@ -256,8 +262,8 @@ Hobbits sind bemerkenswert leichtfüßig.
 
 1
 00:21:08,370 --> 00:21:11,948
-Im Grunde kommen sie an
-fast jedem ungesehen vorbei, wenn sie wollen.
+Im Grunde kommen sie an fast jedem
+ungesehen vorbei, wenn sie wollen.
 
 1
 00:21:11,950 --> 00:21:15,788
@@ -267,11 +273,12 @@ Zwerge ohne Weiteres wittern kann,
 1
 00:21:15,790 --> 00:21:18,750
 ist der Geruch eines Hobbits
-so gut wie unbekannt für ihn,
+so gut wie unbekannt für ihn.
 
 1
 00:21:18,750 --> 00:21:22,010
-was uns einen entscheidenden Vorteil bringt.
+Das bringt uns einen
+entscheidenden Vorteil.
 
 1
 00:21:22,010 --> 00:21:24,935
@@ -401,11 +408,11 @@ Nur etwas schwummrig.
 Stell dir einen geflügelten Schmelzofen vor.
 
 1
-00:22:59,560 --> 00:23:01,150
+00:22:59,560 --> 00:23:01,228
 Ja, ich muss an die Luft.
 
 1
-00:23:01,230 --> 00:23:04,190
+00:23:01,230 --> 00:23:04,228
 Ein grelles Licht, ein glühender Schmerz,
 und puff,
 
@@ -446,10 +453,11 @@ für dich so wichtig geworden?
 
 1
 00:23:29,843 --> 00:23:32,153
-Ich erinnere mich an einen Hobbit, der immer
+Ich erinnere mich an einen
+Hobbit, der immer
 
 1
-00:23:32,154 --> 00:23:34,760
+00:23:32,154 --> 00:23:34,848
 auf der Suche nach Elben
 durch die Wälder rannte.
 
@@ -475,8 +483,7 @@ den Grenzen des Auenlands liegt.
 
 1
 00:23:48,780 --> 00:23:52,490
-Die Welt
-liegt nicht
+Die Welt liegt nicht
 in deinen Büchern und Landkarten.
 
 1
@@ -517,7 +524,7 @@ In der Schlacht bei Grünfeld drang er
 in die Reihen der Orks ein.
 
 1
-00:24:18,810 --> 00:24:22,850
+00:24:18,810 --> 00:24:22,938
 Er schwang seine Keule mit solcher Wucht,
 dass er dem Orkkönig glatt den Kopf abschlug,
 
@@ -535,7 +542,7 @@ So wurde die Schlacht gewonnen.
 Und gleichzeitig das Golfspiel erfunden.
 
 1
-00:24:35,740 --> 00:24:38,280
+00:24:35,740 --> 00:24:38,368
 Das hast du dir doch bloß ausgedacht.
 
 1
@@ -549,7 +556,7 @@ Du selbst wirst einige zu erzählen haben,
 wenn du zurückkehrst.
 
 1
-00:24:51,300 --> 00:24:53,550
+00:24:51,300 --> 00:24:54,085
 Kannst du mir versprechen,
 dass ich zurückkehre?
 
@@ -579,12 +586,12 @@ ich unterzeichne nicht.
 Du hast den falschen Hobbit.
 
 1
-00:25:20,240 --> 00:25:23,410
+00:25:20,240 --> 00:25:23,619
 Offensichtlich haben wir
 unseren Meisterdieb verloren.
 
 1
-00:25:24,620 --> 00:25:27,000
+00:25:24,620 --> 00:25:27,078
 Ist wahrscheinlich besser so.
 
 1
@@ -628,7 +635,8 @@ aus den Eisenbergen vorziehen.
 
 1
 00:25:52,530 --> 00:25:56,400
-Denn als ich sie rief, waren sie zur Stelle.
+Denn als ich sie rief,
+waren sie zur Stelle.
 
 1
 00:25:56,400 --> 00:25:59,370
@@ -676,9 +684,12 @@ Von meinem Großvater über meinen Vater
 ist das hier zu mir gekommen.
 
 1
-00:26:34,190 --> 00:26:38,070
-Sie träumten von dem Tag,
+00:26:34,143 --> 00:26:36,542
+Sie träumten von dem Tag
 an dem die Zwerge Erebors
+
+1
+00:26:36,543 --> 00:26:38,070
 ihre Heimat zurückerobern.
 
 1
@@ -702,7 +713,7 @@ Wir werden es schaffen.
 <i>Über</i>
 
 1
-00:27:19,042 --> 00:27:24,557
+00:27:18,784 --> 00:27:24,557
 <i>Die Nebelberge weit</i>
 
 1
@@ -738,11 +749,11 @@ Wir werden es schaffen.
 <i>Im Gehölz erwacht</i>
 
 1
-00:28:01,247 --> 00:28:05,637
+00:28:01,247 --> 00:28:05,111
 <i>Ein Brand von Winden</i>
 
 1
-00:28:05,737 --> 00:28:08,877
+00:28:05,528 --> 00:28:08,877
 <i>Angefacht</i>
 
 1
@@ -771,8 +782,7 @@ Ja.
 
 1
 00:30:35,060 --> 00:30:37,560
-Herr Bilbo,
-wozu denn die Eile?
+Herr Bilbo, wozu denn die Eile?
 
 1
 00:30:37,560 --> 00:30:40,770
@@ -835,7 +845,7 @@ in der Gemeinschaft
 von Thorin Eichenschild.
 
 1
-00:31:41,960 --> 00:31:43,080
+00:31:41,960 --> 00:31:43,628
 Gebt ihm ein Pony.
 
 1
@@ -863,8 +873,7 @@ Komm schon, Nori. Zahlen.
 
 1
 00:32:10,070 --> 00:32:12,490
-Bitte sehr.
-Danke, mein Junge.
+Bitte sehr. Danke, mein Junge.
 
 1
 00:32:12,490 --> 00:32:14,450
@@ -911,7 +920,7 @@ Stopp! Wir müssen umkehren.
 Was ist denn jetzt wieder los?
 
 1
-00:32:51,280 --> 00:32:53,570
+00:32:51,280 --> 00:32:53,987
 - Ich hab mein Taschentuch vergessen.
 - Hier.
 
@@ -925,27 +934,27 @@ Und weiter.
 
 1
 00:33:09,420 --> 00:33:12,380
-<i>Du wirst ohne Taschentücher und jede Menge</i>
+Du wirst ohne Taschentücher und jede Menge
 
 1
 00:33:12,470 --> 00:33:15,180
-<i>anderer Dinge auskommen müssen,
-Bilbo Beutlin,</i>
+anderer Dinge auskommen müssen,
+Bilbo Beutlin,
 
 1
 00:33:15,180 --> 00:33:17,720
-<i>bis wir am Ende
-unserer Reise angelangt sind.</i>
+bis wir am Ende
+unserer Reise angelangt sind.
 
 1
 00:33:18,970 --> 00:33:24,440
-<i>Deine Heimat sind die sanften Hügel
-und kleinen Flüsse des Auenlandes.</i>
+Deine Heimat sind die sanften Hügel
+und kleinen Flüsse des Auenlandes.
 
 1
 00:33:25,390 --> 00:33:28,360
-<i>Aber daheim verblasst.</i>
+Aber daheim verblasst.
 
 1
 00:33:28,440 --> 00:33:31,860
-<i>Und die Welt rückt nah.</i>
+Und die Welt rückt nah.

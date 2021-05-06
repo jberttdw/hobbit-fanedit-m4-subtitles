@@ -58,13 +58,14 @@ Haben wir nicht.
 Wir gehen weiter nach Osten.
 
 1
-02:03:07,400 --> 02:03:10,480
+02:03:07,407 --> 02:03:10,487
 Und wo ist Osten?
 Wir haben die Sonne verloren.
 
 1
-02:03:10,610 --> 02:03:12,110
-Ich dachte, du bist Meister auf dem Gebiet.
+02:03:10,610 --> 02:03:12,652
+Ich dachte,
+du bist Meister auf dem Gebiet.
 
 1
 02:03:13,360 --> 02:03:15,150
@@ -120,7 +121,8 @@ Hört ihr mich?
 
 1
 02:04:41,280 --> 02:04:43,240
-Ich weiß, in welche Richtung wir gehen müssen.
+Ich weiß, in welche Richtung
+wir gehen müssen.
 
 1
 02:04:46,790 --> 02:04:48,290
@@ -240,5 +242,4 @@ Alles in Ordnung, Bofur?
 
 1
 02:08:34,600 --> 02:08:35,970
-- Mir fehlt nichts!
-- Weg, zieht es weg!
+Mir fehlt nichts!

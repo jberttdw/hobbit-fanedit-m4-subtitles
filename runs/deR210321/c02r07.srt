@@ -1,6 +1,6 @@
 ﻿1
 00:40:57,260 --> 00:40:58,760
-!! Das schmeckt nach Fisch!
+Aber was schmeckt nach Fisch?
 
 1
 00:40:58,760 --> 00:41:03,020

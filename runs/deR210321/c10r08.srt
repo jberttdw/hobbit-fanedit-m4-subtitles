@@ -12,8 +12,8 @@ Schwerter und Äxte!
 Das ist ein Scherz!
 
 1
-02:26:42,690 --> 02:26:45,310
-!! Man findet nichts Besseres
+02:26:42,565 --> 02:26:45,310
+Man findet nichts Besseres
 außerhalb der Waffenkammer der Stadt.
 
 1
@@ -26,13 +26,10 @@ unter Verschluss.
 Thorin,
 
 1
-02:26:50,400 --> 02:26:52,150
+02:26:50,400 --> 02:26:52,148
 nehmen wir doch was da ist und gehen.
 
 1
-02:26:52,150 --> 02:26:53,650
-!! Ich bin schon mit weniger ausgekommen,
-
-1
-02:26:53,650 --> 02:26:54,660
+02:26:52,150 --> 02:26:54,660
+Ich bin schon mit weniger ausgekommen,
 und du auch.

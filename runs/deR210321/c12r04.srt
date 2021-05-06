@@ -38,14 +38,17 @@ Und glaubst du es jetzt?!
 Wahrlich,
 
 1
-02:49:40,690 --> 02:49:43,690
+02:49:40,690 --> 02:49:43,648
 alle Lieder und Sagen
 
 1
-02:49:43,690 --> 02:49:49,740
-bleiben weit zurück
-hinter deiner Ungeheuerlichkeit.
-!! Oh, Smaug du Unermesslicher.
+02:49:43,690 --> 02:49:46,796
+bleiben weit zurück hinter
+deiner Ungeheuerlichkeit.
+
+1
+02:49:46,839 --> 02:49:49,738
+Oh Smaug du Unermesslicher.
 
 1
 02:49:49,740 --> 02:49:52,820
@@ -162,25 +165,25 @@ Nein. Nein, Zwerge sind hier nicht.
 Das hast du missverstanden.
 
 1
-02:51:17,410 --> 02:51:21,870
+02:51:17,410 --> 02:51:21,868
 Oh, das glaube ich nicht, Fassreiter!
 
 1
 02:51:21,870 --> 02:51:25,250
-Sie haben dich geschickt,
-um die gefährliche Arbeit dir zu überlassen,
+Sie haben dich geschickt um
+die schmutzige Arbeit dir zu überlassen,
 
 1
 02:51:25,250 --> 02:51:28,590
 während sie draußen umherschleichen.
 
 1
-02:51:28,630 --> 02:51:30,760
-Wahrlich,
+02:51:28,630 --> 02:51:31,851
+Wahrlich, du irrst dich,
 
 1
-02:51:30,760 --> 02:51:35,300
-!!du irrst dich, Oh, Smaug, du ehrwürdigste
+02:51:31,852 --> 02:51:35,300
+Oh Smaug, du ehrwürdigste
 und entsetzlichste aller Katastrophen.
 
 1
@@ -188,8 +191,12 @@ und entsetzlichste aller Katastrophen.
 Du hast gute Manieren
 
 1
-02:51:38,850 --> 02:51:42,020
-für einen Dieb und einen Lügner!
+02:51:38,850 --> 02:51:40,939
+für einen Dieb und
+
+1
+02:51:40,941 --> 02:51:42,020
+einen Lügner!
 
 1
 02:51:43,270 --> 02:51:46,810

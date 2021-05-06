@@ -42,25 +42,26 @@ Jetzt ist es eine Ruine.
 Es ist nur noch Smaugs Einöde.
 
 1
-02:35:11,820 --> 02:35:13,990
+02:35:11,820 --> 02:35:13,863
 Die Sonne erreicht bald ihren Zenit.
 
 1
-02:35:13,990 --> 02:35:16,530
-Wir müssen die geheime Tür in den Berg finden,
-ehe sie untergeht.
+02:35:13,907 --> 02:35:16,530
+Wir müssen die geheime Tür
+in den Berg finden, ehe sie untergeht.
 
 1
-02:35:16,530 --> 02:35:17,370
+02:35:16,572 --> 02:35:17,370
 Hier entlang.
 
 1
-02:35:17,410 --> 02:35:19,490
+02:35:17,410 --> 02:35:19,488
 Warte! Ist das hier der Aussichtsposten?
 
 1
 02:35:19,490 --> 02:35:21,200
-Gandalf sagte, wir sollen uns hier treffen.
+Gandalf sagte,
+wir sollen uns hier treffen.
 
 1
 02:35:21,200 --> 02:35:23,790

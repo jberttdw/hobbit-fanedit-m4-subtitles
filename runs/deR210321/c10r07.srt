@@ -3,9 +3,6 @@
 Was soll das sein?
 
 1
-02:26:30,620 --> 02:26:32,130
+02:26:30,620 --> 02:26:33,630
 Ein Spießhaken.
-
-1
-02:26:32,240 --> 02:26:33,630
 Aus einer alten Harpune gemacht.

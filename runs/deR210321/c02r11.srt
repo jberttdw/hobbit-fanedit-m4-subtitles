@@ -111,7 +111,7 @@ Halt die Schnauze.
 
 1
 00:45:08,680 --> 00:45:12,680
-!! Lass den
+Lass den
 Kleisterdings-Meisterhobbit ausreden.
 
 1
@@ -166,10 +166,12 @@ Ich sage, wir verdrücken
 sie so, wie sie sind.
 
 1
-00:45:43,800 --> 00:45:48,850
-!! Er hat recht.
-Ein Happen roher Zwerg
-kann nie schaden.
+00:45:43,800 --> 00:45:46,096
+Er hat recht.
+
+1
+00:45:46,098 --> 00:45:48,850
+Ein Happen roher Zwerg kann nie schaden.
 
 1
 00:45:51,390 --> 00:45:53,810

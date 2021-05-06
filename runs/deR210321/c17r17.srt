@@ -13,7 +13,8 @@ Sie sterben dort draußen.
 
 1
 03:37:28,090 --> 03:37:31,720
-Es gibt Hallen um Hallen unter diesem Berg.
+Es gibt Hallen um Hallen
+unter diesem Berg.
 
 1
 03:37:33,560 --> 03:37:35,680
@@ -61,6 +62,10 @@ Viele sterben im Krieg.
 Ein Leben ist wertlos.
 
 1
-03:38:02,980 --> 03:38:08,010
-Aber ein Schatz wie dieser lässt sich nicht
+03:38:02,980 --> 03:38:04,694
+Aber ein Schatz wie dieser
+
+1
+03:38:05,619 --> 03:38:08,010
+lässt sich nicht
 in verlorenen Leben aufwiegen.

@@ -36,13 +36,13 @@ dann ist Ruhe.
 Ah, ich habe ihn gefragt.
 
 1
-02:21:16,730 --> 02:21:19,860
+02:21:16,730 --> 02:21:19,688
 Ist mir egal, wie er heißt.
 Ich kann ihn nicht leiden.
 
 1
-02:21:19,860 --> 02:21:21,360
-!! Wir müssen ihn nicht leiden können.
+02:21:19,690 --> 02:21:21,360
+Wir müssen ihn nicht leiden können.
 
 1
 02:21:21,360 --> 02:21:23,620
@@ -54,12 +54,12 @@ Na los, Jungs.
 Krempelt eure Taschen um.
 
 1
-02:21:27,540 --> 02:21:29,290
+02:21:27,540 --> 02:21:29,622
 Woher wissen wir,
 dass er uns nicht hintergeht?
 
 1
-02:21:29,290 --> 02:21:30,710
+02:21:29,624 --> 02:21:30,710
 Gar nicht.
 
 1

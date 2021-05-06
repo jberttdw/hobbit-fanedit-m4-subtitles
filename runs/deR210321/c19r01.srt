@@ -1,6 +1,7 @@
 ﻿1
 04:00:17,960 --> 04:00:21,010
-Du bist ein sehr feiner Kerl, Bilbo Beutlin.
+Du bist ein sehr feiner Kerl,
+Bilbo Beutlin.
 
 1
 04:00:22,580 --> 04:00:24,260

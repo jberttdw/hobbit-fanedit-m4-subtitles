@@ -30,7 +30,8 @@ dass ich euch helfen würde?
 
 1
 02:18:53,680 --> 02:18:56,050
-Eure Stiefel haben schon bessere Tage gesehen.
+Eure Stiefel haben schon
+bessere Tage gesehen.
 
 1
 02:18:56,140 --> 02:18:58,470

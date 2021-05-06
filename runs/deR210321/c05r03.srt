@@ -4,9 +4,13 @@ Dieses Schwert!
 Das ist der furchtbare Orkspalter!
 
 1
-01:28:20,310 --> 01:28:25,110
-!! Der Beißer!
-Die Klinge, die 1.000 Hälse durchschnitten hat!
+01:28:20,227 --> 01:28:21,358
+Der Beißer!
+
+1
+01:28:21,450 --> 01:28:25,110
+Die Klinge, die 1.000 Hälse
+durchschnitten hat!
 
 1
 01:28:25,110 --> 01:28:29,240

@@ -5,8 +5,8 @@ wir haben nichts mehr zu trinken.
 
 1
 02:13:45,240 --> 02:13:48,290
-Die leeren Fässer hätten schon vor Stunden
-zurück nach Esgaroth geschickt werden sollen.
+Die leeren Fässer hätten schon zurück
+nach Esgaroth geschickt werden sollen.
 
 1
 02:13:48,290 --> 02:13:50,790
@@ -40,11 +40,13 @@ Der Tag bricht sicher gleich an.
 
 1
 02:14:11,560 --> 02:14:15,020
-Wir werden den Berg niemals erreichen, oder?
+Wir werden den Berg
+niemals erreichen, oder?
 
 1
 02:14:17,150 --> 02:14:19,190
-Solange ihr hier drin sitzt, sicher nicht.
+Solange ihr hier drin sitzt,
+sicher nicht.
 
 1
 02:14:25,370 --> 02:14:26,830
@@ -93,16 +95,16 @@ Hier rüber.
 Kommt.
 
 1
-02:15:19,170 --> 02:15:21,380
+02:15:19,170 --> 02:15:21,171
 Das gibt's doch nicht! Wir sind im Keller!
 
 1
-02:15:21,380 --> 02:15:23,470
-!! Du solltest uns hier rausführen
+02:15:21,255 --> 02:15:23,550
+Du solltest uns hier rausführen
 und nicht noch tiefer rein!
 
 1
-02:15:23,550 --> 02:15:25,090
+02:15:23,633 --> 02:15:25,090
 - Ich weiß, was ich tue.
 - Pscht!
 
@@ -120,13 +122,13 @@ Bist du verrückt?
 Dann finden sie uns.
 
 1
-02:15:36,980 --> 02:15:38,650
-!! Nein, nein.
-Werden sie nicht, ich verspreche es.
+02:15:36,980 --> 02:15:38,033
+Nein, werden sie nicht.
 
 1
-02:15:38,730 --> 02:15:42,530
-Bitte, bitte, ihr müsst mir vertrauen.
+02:15:38,116 --> 02:15:42,530
+Ich verspreche es. Bitte,
+bitte, ihr müsst mir vertrauen.
 
 1
 02:15:46,610 --> 02:15:48,070
@@ -134,7 +136,7 @@ Tut, was er sagt.
 
 1
 02:15:48,660 --> 02:15:50,120
-Steck deinen dicken Karottenkopf da rein.
+Steck deinen Karottenkopf da rein.
 
 1
 02:15:51,910 --> 02:15:54,620
