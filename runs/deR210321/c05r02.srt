@@ -207,8 +207,7 @@ Also, wieso machen wir nicht
 
 1
 01:20:05,440 --> 01:20:07,490
-ein kleines Rätselspielchen?
-Ja?
+ein kleines Rätselspielchen? Ja?
 
 1
 01:20:07,570 --> 01:20:09,490
@@ -237,8 +236,7 @@ Ja. Ja.
 
 1
 01:20:24,710 --> 01:20:27,760
-Und wenn es verliert?
-Was dann?
+Und wenn es verliert? Was dann?
 
 1
 01:20:27,760 --> 01:20:31,260
@@ -544,8 +542,7 @@ Hände!
 
 1
 01:25:30,390 --> 01:25:32,390
-Falsch.
-Nächster Versuch.
+Falsch. Nächster Versuch.
 
 1
 01:25:33,650 --> 01:25:37,320
@@ -558,8 +555,7 @@ Messer! Oh, schweig still!
 
 1
 01:25:42,280 --> 01:25:44,200
-Wieder falsch.
-Letzter Versuch.
+Wieder falsch. Letzter Versuch.
 
 1
 01:25:44,200 --> 01:25:47,530

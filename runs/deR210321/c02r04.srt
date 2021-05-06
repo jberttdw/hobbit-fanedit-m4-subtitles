@@ -109,8 +109,8 @@ Gandalf, wo willst du hin?
 
 1
 00:37:14,620 --> 00:37:18,210
-Ich suche die Gesellschaft des
-Einzigen, der hier noch bei klarem Verstand ist.
+Ich suche die Gesellschaft des Einzigen,
+der hier noch bei klarem Verstand ist.
 
 1
 00:37:18,210 --> 00:37:21,010
@@ -151,8 +151,7 @@ und bring das den Jungs.
 
 1
 00:37:43,990 --> 00:37:45,490
-Schluss jetzt.
-Du hattest genug.
+Schluss jetzt. Du hattest genug.
 
 1
 00:37:45,490 --> 00:37:49,490

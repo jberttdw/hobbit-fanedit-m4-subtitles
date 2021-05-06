@@ -39,8 +39,8 @@ das mir gehört.
 
 1
 03:08:44,080 --> 03:08:48,460
-<i>In diesem Berg gibt es Edelsteine,</i>
-<i>die auch ich begehre.</i>
+<i>In diesem Berg gibt es Edelsteine,
+die auch ich begehre.</i>
 
 1
 03:08:48,460 --> 03:08:51,750

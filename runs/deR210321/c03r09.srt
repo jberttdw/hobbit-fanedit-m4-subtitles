@@ -49,7 +49,8 @@ Habt Ihr es vergessen?
 
 1
 01:02:33,270 --> 01:02:37,060
-Ein Hang zum Wahnsinn liegt in dieser Familie.
+Ein Hang zum Wahnsinn liegt
+in dieser Familie.
 
 1
 01:02:37,060 --> 01:02:38,560

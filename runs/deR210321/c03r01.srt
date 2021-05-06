@@ -124,8 +124,7 @@ Mein Herr Elrond ist nicht hier.
 
 1
 00:55:05,490 --> 00:55:09,240
-Nicht hier?
-Wo ist er?
+Nicht hier? Wo ist er?
 
 1
 00:55:23,500 --> 00:55:25,130
