@@ -1,6 +1,6 @@
 ﻿1
 03:17:27,180 --> 03:17:29,686
-!! The Mountain stands unclaimed!
+Der Berg ist nicht mehr beansprucht!
 
 1
 03:17:29,730 --> 03:17:32,120

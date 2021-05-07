@@ -158,4 +158,4 @@ Und dem Inferno, das uns vernichtet hat.
 
 1
 02:13:06,600 --> 02:13:08,370
-!! Die a death of flames!
+Stirb im Drachenfeuer!

@@ -4,4 +4,4 @@ Zuerst stirbt der hier.
 
 1
 03:44:53,080 --> 03:44:55,460
-!! Dann der Bruder.
+Dann der andere.

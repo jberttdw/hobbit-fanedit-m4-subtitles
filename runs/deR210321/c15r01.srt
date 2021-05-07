@@ -23,7 +23,7 @@ Der Arkenstein liegt in diesen Hallen.
 
 1
 03:02:22,990 --> 03:02:26,200
-!! - Keep looking.
+- Sperrt die Augen auf!
 - Ihr alle!
 
 1
