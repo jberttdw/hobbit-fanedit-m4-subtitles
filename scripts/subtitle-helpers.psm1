@@ -45,6 +45,15 @@ public struct RunInfo {
     public DateTime End { get { return _end; } }
     public TimeSpan Offset { get { return _offset; } }
     public string SourceFile { get { return _sourceFile; } }
+    public TimeSpan Length { get { return _end - _start; } }
+
+    public string TimeInfo {
+        get {
+            return "S: " + _start.ToString("HH\\:mm\\:ss\\,fff", CultureInfo.InvariantCulture)
+             + ", E: " + _end.ToString("HH\\:mm\\:ss\\,fff", CultureInfo.InvariantCulture)
+             + ", L: " + Length.ToString("hh\\:mm\\:ss\\,fff", CultureInfo.InvariantCulture);
+        }
+    }
 
     public void PickSourceFile(string srtFilm1Normal, string srtFilm1Extended, string srtFilm2Normal,
                                 string srtFilm2Extended, string srtFilm3Normal, string srtFilm3Extended)
@@ -160,4 +169,4 @@ function Write-Subtitles ($subtitles, $fileName) {
     }
 }
 
-Export-ModuleMember -Function Read-Index, Get-NextSubtitle, Write-Subtitles
+Export-ModuleMember -Function Read-Index, Read-TimeOffsets, Get-NextSubtitle, Write-Subtitles
