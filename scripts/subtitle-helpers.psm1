@@ -98,6 +98,35 @@ function Read-Index {
     $indexItems
 }
 
+# Calculate intervals in fan-edit timebase. The index stores it in source film timebase and the edit might put things closer together,
+# so we need to avoid overlapping intervals. It's preferable to make an overly long interval shorter at the end while we keep the start times
+function Convert-IndexToFaneditTime {
+    param(
+        $index
+    )
+
+    $result = [System.Collections.ArrayList] $index
+
+    $lastRunStart = [datetime]::Parse("10:00:00")
+
+    # Go backwards so that we only need to remember last interval's start time rather than looking ahead all the time.
+    for ($i = $index.Count - 1; $i -ge 0; $i--) {
+        $indexItem = $index[$i]
+        #Write-Host "Got index item $($indexItem) $i"
+        # Calculate offsets in actual film edit. The index contains offsets for the original films + the difference with the edit
+        $startInEdit = $indexItem.Start.Add($indexItem.Offset)
+        $endInEdit = $indexItem.End.Add($indexItem.Offset)
+        # If intervals overlap then we simply fix the current one
+        if ($endInEdit -ge $lastRunStart) {
+            $endInEdit = $lastRunStart
+        }
+        $result[$i] = $indexItem.ChangeInterval($startInEdit, $endInEdit)
+
+        $lastRunStart = $startInEdit
+    }
+    $result
+}
+
 # Reads the time offsets in an srt file and stores them in a subtitle PSObject
 function Read-TimeOffsets {
     param(
@@ -169,4 +198,4 @@ function Write-Subtitles ($subtitles, $fileName) {
     }
 }
 
-Export-ModuleMember -Function Read-Index, Read-TimeOffsets, Get-NextSubtitle, Write-Subtitles
+Export-ModuleMember -Function Read-Index, Read-TimeOffsets, Get-NextSubtitle, Write-Subtitles, Convert-IndexToFaneditTime
