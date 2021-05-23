@@ -25,11 +25,13 @@ Hier stinkt es immer noch nach Drache.
 
 1
 03:18:18,650 --> 03:18:22,240
-Die Elben bringen ihre Bogenschützen in Stellung.
+Die Elben bringen ihre
+Bogenschützen in Stellung.
 
 1
 03:18:24,490 --> 03:18:27,040
-Morgen Abend wird die Schlacht vorüber sein.
+Morgen Abend wird
+die Schlacht vorüber sein.
 
 1
 03:18:27,910 --> 03:18:30,710

@@ -36,7 +36,8 @@ Nicht mehr sehr lange.
 
 1
 03:13:26,900 --> 03:13:30,280
-dass man Zwerge niemals unterschätzen sollte.
+dass man Zwerge niemals
+unterschätzen sollte.
 
 1
 03:13:32,990 --> 03:13:34,830

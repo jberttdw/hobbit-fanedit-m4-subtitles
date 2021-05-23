@@ -133,8 +133,8 @@ Gut ausgegangen ist es nicht.
 
 1
 02:19:59,370 --> 02:20:02,700
-Ihr braucht die Erlaubnis des Bürgermeisters,
-um in die Seestadt zu kommen.
+Niemand kommt in Seestadt rein
+ohne die Erlaubnis des Bürgermeisters.
 
 1
 02:20:02,700 --> 02:20:05,620

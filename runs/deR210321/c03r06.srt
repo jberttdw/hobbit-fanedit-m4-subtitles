@@ -131,9 +131,13 @@ und die untergehende Sonne ihren
 letzten Strahl am Durinstag
 
 1
-01:00:53,620 --> 01:00:58,000
-- hinabfallen lässt auf das Schlüsselloch."
-- Durinstag?
+01:00:53,620 --> 01:00:56,931
+hinabfallen lässt
+auf das Schlüsselloch."
+
+1
+01:00:57,014 --> 01:00:58,000
+Durinstag?
 
 1
 01:00:58,130 --> 01:01:01,670
@@ -141,7 +145,7 @@ Der erste Tag des neuen Jahres der Zwerge,
 wenn der letzte Herbstmond
 
 1
-01:01:01,791 --> 01:01:04,751
+01:01:01,791 --> 01:01:04,677
 und die erste Wintersonne
 gemeinsam am Himmel stehen.
 

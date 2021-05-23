@@ -142,17 +142,22 @@ Ich wollte ihn dir schon geben.
 - Aber was, du Dieb?
 
 1
-03:25:50,810 --> 03:25:53,690
+03:25:50,810 --> 03:25:53,607
 Du hast dich verändert, Thorin.
 
 1
-03:25:53,690 --> 03:25:58,570
-Der Zwerg, den ich in Beutelsend kennenlernte,
+03:25:53,690 --> 03:25:54,564
+Der Zwerg,
+
+1
+03:25:54,566 --> 03:25:58,570
+den ich in Beutelsend kennenlernte,
 hätte sein Wort niemals gebrochen.
 
 1
 03:25:58,650 --> 03:26:01,030
-Hätte nie an der Treue der Seinen gezweifelt!
+Hätte nie 
+an der Treue der Seinen gezweifelt!
 
 1
 03:26:01,820 --> 03:26:04,580

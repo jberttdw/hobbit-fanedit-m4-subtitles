@@ -53,7 +53,7 @@ Die Weißen Steine aus Lasgalen.
 1
 03:08:56,680 --> 03:08:59,680
 Ich kenne einen Elbenfürsten,
-der einen stolzen Preis dafür bezahlen würde.
+der einen hochen Preis dafür bezahlen würde.
 
 1
 03:09:05,600 --> 03:09:08,060
@@ -174,7 +174,7 @@ vor meinem Tor steht.
 
 1
 03:11:23,660 --> 03:11:28,080
-Dieses Heer in Waffen wird den Berg angreifen,
+Dieses Heer wird den Berg angreifen,
 wenn wir uns nicht einig werden.
 
 1
@@ -202,7 +202,7 @@ nichts weiter als Verderben und Tod.
 1
 03:11:47,890 --> 03:11:51,310
 Wann haben die Menschen aus der Seestadt je
-geholfen, ohne reich belohnt werden zu wollen?
+geholfen, ohne eine belohnung zu wunschen?
 
 1
 03:11:51,310 --> 03:11:52,850

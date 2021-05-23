@@ -25,8 +25,9 @@ Du musst schon noch
 ein bisschen lauter sprechen.
 
 1
-01:14:21,060 --> 01:14:23,350
-Deine Brut hat meinen Trichter zertrampelt.
+01:14:20,977 --> 01:14:23,350
+Deine Brut hat
+meinen Trichter zertrampelt.
 
 1
 01:14:23,350 --> 01:14:27,270

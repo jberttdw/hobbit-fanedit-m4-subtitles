@@ -112,7 +112,8 @@ Sei auf der Hut.
 
 1
 00:54:58,520 --> 00:55:00,440
-Wir hörten, dass ihr ins Tal gekommen seid.
+Wir hörten,
+dass ihr ins Tal gekommen seid.
 
 1
 00:55:01,110 --> 00:55:02,900

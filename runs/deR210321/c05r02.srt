@@ -644,12 +644,13 @@ Fluch und Spucke!
 Mein Schatz ist weg.
 
 1
-01:27:00,770 --> 01:27:05,110
+01:27:00,687 --> 01:27:03,341
 - Was fehlt dir denn?
-- Soll uns nicht fragen! Geht es nichts an!
+- Soll uns nicht fragen!
 
 1
-01:27:05,110 --> 01:27:07,200
+01:27:03,383 --> 01:27:07,200
+Geht es nichts an!
 Nein!
 
 1

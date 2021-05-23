@@ -173,7 +173,7 @@ Was ist los?
 1
 00:38:05,970 --> 00:38:10,550
 - Wir sollten uns um die Ponys kümmern.
-- Nur sind wir auf ein kleines Problem gestoßen.
+- Nur haben wir ein kleines Problem.
 
 1
 00:38:10,550 --> 00:38:12,720
@@ -210,9 +210,13 @@ könntest du der Sache doch nachgehen.
 Also, äh...
 
 1
-00:38:34,540 --> 00:38:38,830
-- Etwas Großes hat diese Bäume herausgerissen.
-- Haben wir uns auch gedacht.
+00:38:34,540 --> 00:38:38,058
+Schaut, etwas Großes hat
+diese Bäume herausgerissen.
+
+1
+00:38:38,143 --> 00:38:38,830
+Genau.
 
 1
 00:38:38,920 --> 00:38:42,960

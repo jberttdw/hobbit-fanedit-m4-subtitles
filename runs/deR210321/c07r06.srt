@@ -31,13 +31,17 @@ Ah, Bilbo. Da bist du ja. Also.
 Dies erfordert ein gewisses Geschick.
 
 1
-01:48:35,900 --> 01:48:37,900
+01:48:35,900 --> 01:48:37,898
 Wir müssen sehr behutsam vorgehen.
 
 1
-01:48:37,900 --> 01:48:42,370
-Die letzte Person, die ihn
-aufgeschreckt hat, wurde in Stücke gerissen.
+01:48:37,900 --> 01:48:40,550
+Die letzte Person,
+die ihn aufgeschreckt hat,
+
+1
+01:48:40,592 --> 01:48:42,337
+wurde in Stücke gerissen.
 
 1
 01:48:44,030 --> 01:48:46,790

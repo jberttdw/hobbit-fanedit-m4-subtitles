@@ -7,9 +7,13 @@ Ja, und was sollen wir jetzt machen?
 Alle wieder laufen lassen?
 
 1
-00:46:15,960 --> 00:46:19,670
-- Na ja...
-- Denkst du, ich weiß nicht, was du vorhast?
+00:46:15,960 --> 00:46:17,240
+Na ja...
+
+1
+00:46:17,323 --> 00:46:19,670
+Denkst du, ich weiß nicht,
+was du vorhast?
 
 1
 00:46:20,170 --> 00:46:24,670
@@ -175,7 +179,8 @@ So, das zahlen wir uns dann später aus.
 
 1
 00:49:53,800 --> 00:49:55,760
-Nichts wie raus aus diesem widerwärtigen Loch.
+Nichts wie raus aus
+diesem widerwärtigen Loch.
 
 1
 00:49:55,800 --> 00:49:57,470
@@ -208,8 +213,8 @@ Elben haben diese Klinge geschmiedet,
 
 1
 00:50:35,380 --> 00:50:40,510
-was bedeutet, sie leuchtet blau, sobald sich
-Orks oder Bilwisse in der Nähe befinden.
+was bedeutet, sie leuchtet blau,
+sobald sich Orks in der Nähe befinden.
 
 1
 00:50:41,760 --> 00:50:44,020
