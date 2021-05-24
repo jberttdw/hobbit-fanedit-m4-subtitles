@@ -4,7 +4,7 @@ Herr Gandalf, könntet Ihr etwas
 gegen diese Überschwemmung tun?
 
 1
-00:35:03,450 --> 00:35:06,080
+00:35:03,450 --> 00:35:06,038
 Es regnet, Meister Zwerg,
 
 1
@@ -13,7 +13,7 @@ und es wird weiterregnen,
 bis es aufgehört hat zu regnen.
 
 1
-00:35:10,580 --> 00:35:12,857
+00:35:10,580 --> 00:35:12,817
 Wollt Ihr das Wetter
 auf der Welt ändern,
 
@@ -28,7 +28,7 @@ anderen Zauberer suchen.
 - Was?
 
 1
-00:35:17,380 --> 00:35:20,378
+00:35:17,380 --> 00:35:20,338
 - Andere Zauberer?
 - Es gibt 5 von uns.
 

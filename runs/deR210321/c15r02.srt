@@ -15,12 +15,12 @@ Wir haben alles abgesucht.
 Nicht gründlich genug.
 
 1
-03:03:01,320 --> 03:03:04,200
+03:03:01,403 --> 03:03:04,200
 Thorin, wir alle
 wünschen uns den Stein zurück.
 
 1
-03:03:04,200 --> 03:03:07,410
+03:03:04,283 --> 03:03:07,410
 Und doch ist er noch nicht gefunden!
 
 1

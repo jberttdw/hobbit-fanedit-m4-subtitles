@@ -103,7 +103,7 @@ Wir entzünden
 die großen Schmieden der Zwerge neu,
 
 1
-02:31:09,240 --> 02:31:11,750
+02:31:09,240 --> 02:31:11,667
 auf dass sich Wohlstand und Reichtum
 
 1

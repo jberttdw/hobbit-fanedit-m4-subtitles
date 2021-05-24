@@ -84,7 +84,7 @@ so geringgeschätzt?
 Was denkt Ihr, bezwecke ich damit?
 
 1
-03:20:01,300 --> 03:20:03,970
+03:20:01,342 --> 03:20:03,970
 Ich glaube, Ihr wollt
 Eure Zwergenfreunde retten.
 

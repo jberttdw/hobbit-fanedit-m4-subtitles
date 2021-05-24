@@ -135,11 +135,11 @@ Ich bin Gandalf, Gandalf, der Graue.
 Noch nie von ihm gehört.
 
 1
-01:50:13,160 --> 01:50:14,580
+01:50:13,160 --> 01:50:14,495
 Ich bin Zauberer.
 
 1
-01:50:14,580 --> 01:50:17,460
+01:50:14,497 --> 01:50:17,460
 Ihr habt vielleicht von meinem
 Mitstreiter Radagast, dem Braunen, gehört.
 

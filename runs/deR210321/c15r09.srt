@@ -130,7 +130,7 @@ Ich sehe lächerlich aus.
 Ich bin kein Krieger, ich bin ein Hobbit.
 
 1
-03:16:12,860 --> 03:16:14,860
+03:16:12,943 --> 03:16:14,860
 Es ist ein Geschenk.
 
 1

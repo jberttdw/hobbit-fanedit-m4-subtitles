@@ -1,5 +1,5 @@
 ﻿1
-00:43:46,310 --> 00:43:48,600
+00:43:46,310 --> 00:43:48,558
 Schnell, steh auf!
 
 1
@@ -24,12 +24,12 @@ Oh, schon wieder! Heiß, heiß, heiß. Heiß!
 Wir brauchen sie doch nicht zu kochen.
 
 1
-00:44:14,670 --> 00:44:18,840
+00:44:14,712 --> 00:44:18,840
 Wir setzen uns auf sie drauf,
 und zerdrücken sie zu Sülze.
 
 1
-00:44:18,880 --> 00:44:23,470
+00:44:18,880 --> 00:44:23,428
 Man sollte sie weichklopfen und grillen,
 und eine Prise Salbei drüber streuen.
 
@@ -55,11 +55,11 @@ Vergiss die Gewürze.
 Wir haben nicht ewig Zeit.
 
 1
-00:44:34,310 --> 00:44:37,730
+00:44:34,352 --> 00:44:37,730
 Es wird bald Tag. Beeilen wir uns.
 
 1
-00:44:37,730 --> 00:44:41,610
+00:44:37,772 --> 00:44:41,610
 Ich hab nämlich keine Lust,
 zu Stein zu werden.
 
@@ -120,12 +120,12 @@ Das Geheimnis beim Zwerge Kochen
 liegt darin, dass...
 
 1
-00:45:16,650 --> 00:45:19,900
+00:45:16,692 --> 00:45:19,900
 - Ja? Verrate uns das Geheimnis.
 - Also, äh...
 
 1
-00:45:19,900 --> 00:45:23,070
+00:45:19,942 --> 00:45:23,070
 Ja, mach ich doch. Das Geheimnis ist,
 
 1

@@ -12,7 +12,7 @@ Das ist alles? Es gibt doch
 bestimmt jede Menge da unten.
 
 1
-02:41:51,590 --> 02:41:54,600
+02:41:51,632 --> 02:41:54,600
 Es gibt nur einen Arkenstein.
 
 1
@@ -24,7 +24,7 @@ Und du erkennst ihn, wenn du ihn siehst.
 Genau.
 
 1
-02:42:03,560 --> 02:42:05,980
+02:42:03,560 --> 02:42:05,897
 Die Wahrheit ist, Junge,
 
 1

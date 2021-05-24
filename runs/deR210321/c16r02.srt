@@ -152,7 +152,7 @@ Ruhe dich heute Nacht aus.
 - Ich werde nicht gehen.
 
 1
-03:22:04,250 --> 03:22:07,300
+03:22:04,250 --> 03:22:07,217
 Ich lasse die Unternehmung
 jetzt nicht im Stich.
 

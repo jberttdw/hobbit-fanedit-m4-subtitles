@@ -44,16 +44,16 @@ Zwerge aus den Blauen Bergen sogar.
 Der sieht genauso aus wie meiner.
 
 1
-02:03:00,640 --> 02:03:03,680
+02:03:00,640 --> 02:03:03,638
 Es ist ja auch deiner. Verstehst du?
 
 1
-02:03:03,680 --> 02:03:05,600
+02:03:03,680 --> 02:03:05,558
 Wir laufen im Kreis herum.
 Wir haben uns verirrt.
 
 1
-02:03:05,600 --> 02:03:07,310
+02:03:05,600 --> 02:03:07,352
 Haben wir nicht.
 Wir gehen weiter nach Osten.
 
@@ -141,7 +141,7 @@ Oh nein.
 Oh, nicht doch.
 
 1
-02:06:51,500 --> 02:06:54,330
+02:06:51,500 --> 02:06:54,288
 Tötet sie! Tötet sie.
 
 1

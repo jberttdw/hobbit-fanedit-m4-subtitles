@@ -16,7 +16,7 @@ Das ist Dain, der Herr der Eisenberge.
 Thorins Vetter.
 
 1
-03:29:12,350 --> 03:29:14,270
+03:29:12,350 --> 03:29:14,187
 Sind sie sich ähnlich?
 
 1
@@ -51,11 +51,8 @@ Wärt ihr so freundlich,
 und verschwindet von hier!
 
 1
-03:29:48,010 --> 03:29:49,010
+03:29:48,010 --> 03:29:50,260
 Ihr alle!
-
-1
-03:29:49,010 --> 03:29:50,260
 Und zwar sofort!
 
 1
@@ -81,7 +78,7 @@ sonst tränke ich den Boden
 mit ihrem Blut!
 
 1
-03:30:07,820 --> 03:30:12,320
+03:30:07,820 --> 03:30:12,237
 Ein Krieg zwischen Zwergen,
 Menschen und Elben ist unnötig.
 

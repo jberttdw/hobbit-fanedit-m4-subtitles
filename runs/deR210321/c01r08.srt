@@ -218,17 +218,17 @@ Vorsichtig damit.
 Ich hab sie gerade geschliffen.
 
 1
-00:10:40,360 --> 00:10:43,530
+00:10:40,360 --> 00:10:43,488
 Schönes Haus. Sehr hübsch hier.
 Habt Ihr es selbst gebaut?
 
 1
-00:10:43,530 --> 00:10:45,950
+00:10:43,530 --> 00:10:45,908
 Was? Nein,
 ist schon lange in Familienbesitz.
 
 1
-00:10:45,950 --> 00:10:48,910
+00:10:45,950 --> 00:10:48,868
 Das ist die Aussteuertruhe meiner Mutter.
 Würdet Ihr das bitte lassen?
 
@@ -242,7 +242,7 @@ Packt mal mit an.
 Herr Dwalin. Ha, ha.
 
 1
-00:10:55,170 --> 00:10:58,090
+00:10:55,170 --> 00:10:58,048
 Schiebt das in den Flur,
 sonst kriegen wir hier niemals alle rein.
 
@@ -263,7 +263,7 @@ Oh, nein.
 Nein. Nein. Es ist niemand zu Hause!
 
 1
-00:11:05,970 --> 00:11:08,930
+00:11:05,970 --> 00:11:08,847
 Geht einfach wieder,
 und belästigt jemand anderes.
 
@@ -291,7 +291,7 @@ Geh runter von mir, du Klotz!
 Gandalf.
 
 1
-00:11:35,670 --> 00:11:37,840
+00:11:35,670 --> 00:11:37,757
 Verzeihung, das ist mein Hühnchen. Ähm...
 
 1

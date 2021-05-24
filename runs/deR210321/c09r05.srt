@@ -97,12 +97,9 @@ Ich werde Euch gehen lassen,
 wenn Ihr mir zurückgebt, was mein ist.
 
 1
-02:12:24,080 --> 02:12:25,620
-Ein Gefallen für einen Gefallen.
-
-1
-02:12:25,700 --> 02:12:27,910
-Ich gebe Euch mein Wort.
+02:12:24,080 --> 02:12:27,910
+- Ein Gefallen für einen Gefallen.
+- Ich gebe Euch mein Wort.
 
 1
 02:12:28,000 --> 02:12:30,500
@@ -135,7 +132,7 @@ Ich habe gesehen,
 wie Ihr Eure Freunde behandelt.
 
 1
-02:12:51,730 --> 02:12:55,650
+02:12:51,730 --> 02:12:55,567
 Einst kamen wir zu Euch,
 hungernd, heimatlos,
 
@@ -148,7 +145,7 @@ und baten um Eure Hilfe.
 Aber ihr habt Euch abgewandt.
 
 1
-02:13:00,280 --> 02:13:04,120
+02:13:00,280 --> 02:13:04,037
 Ihr habt keinerlei Anteil genommen
 am Leid meines Volkes.
 

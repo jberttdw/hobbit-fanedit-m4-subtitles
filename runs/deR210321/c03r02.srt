@@ -11,7 +11,7 @@ Ich glaube nicht, dass wir uns kennen.
 Du hast deines Großvaters Erscheinung.
 
 1
-00:56:22,190 --> 00:56:24,900
+00:56:22,190 --> 00:56:24,858
 Ich kannte Thror, als er
 König unter dem Berge war.
 
@@ -58,7 +58,7 @@ Wo ist das Fleisch?
 Oder gebratene Kartoffeln?
 
 1
-00:57:11,900 --> 00:57:14,075
+00:57:11,900 --> 00:57:14,035
 Ich danke Euch
 für die Einladung.
 
@@ -68,5 +68,5 @@ Wenn ich auch nicht
 fürs Essen gekleidet bin.
 
 1
-00:57:16,168 --> 00:57:17,990
+00:57:16,210 --> 00:57:17,990
 Das seid Ihr doch nie.

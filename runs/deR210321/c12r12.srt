@@ -1,9 +1,6 @@
 ﻿1
-02:54:28,180 --> 02:54:30,100
+02:54:28,180 --> 02:54:32,230
 Vielleicht wird es Zeit,
-
-1
-02:54:30,100 --> 02:54:32,230
 dass ich ihnen einen Besuch abstatte.
 
 1
@@ -11,11 +8,8 @@ dass ich ihnen einen Besuch abstatte.
 Oh nein.
 
 1
-02:54:35,900 --> 02:54:37,320
+02:54:35,900 --> 02:54:38,400
 Sie können nichts dafür!
-
-1
-02:54:37,320 --> 02:54:38,400
 Warte!
 
 1

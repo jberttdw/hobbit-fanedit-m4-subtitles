@@ -85,7 +85,7 @@ Zeig mir wie ich hier wieder rauskomme,
 und dann bin ich auch schon weg.
 
 1
-01:18:41,480 --> 01:18:43,780
+01:18:41,522 --> 01:18:43,738
 Wieso? Hat es sich verirrt?
 
 1
@@ -94,7 +94,7 @@ Ja. Ja, und ich möchte so schnell
 wie möglich nicht mehr verirrt sein.
 
 1
-01:18:47,280 --> 01:18:50,950
+01:18:47,280 --> 01:18:50,908
 Oh, wir wissen es!
 Wir wissen sichere Wege für Hobbitse.
 
@@ -235,7 +235,7 @@ den Weg hier raus, ja?
 Ja. Ja.
 
 1
-01:20:24,710 --> 01:20:27,760
+01:20:24,710 --> 01:20:27,718
 Und wenn es verliert? Was dann?
 
 1
@@ -414,7 +414,7 @@ Blume, Ast und Laub
 Aus hartem Steine mahlt es Staub
 
 1
-01:23:40,320 --> 01:23:42,240
+01:23:40,320 --> 01:23:42,198
 Antworte uns.
 
 1
@@ -423,7 +423,7 @@ Ja, gib mir einen Moment, bitte.
 Ich habe dir ja auch viel Zeit gelassen.
 
 1
-01:23:46,830 --> 01:23:50,880
+01:23:46,830 --> 01:23:50,838
 Tier, Vogel... Vogel?
 Ast und Laub?
 
@@ -514,11 +514,11 @@ Das ist gegen die Spielregeln!
 Frag uns was anderes.
 
 1
-01:25:13,420 --> 01:25:14,790
+01:25:13,420 --> 01:25:14,748
 Nein, nein, nein.
 
 1
-01:25:14,790 --> 01:25:18,920
+01:25:14,790 --> 01:25:18,878
 Du hast gesagt, ich soll dich was fragen.
 Und genau das ist meine Frage:
 
@@ -686,11 +686,11 @@ Gestohlen!
 <i>Knochen werden brechen</i>
 
 1
-01:28:00,630 --> 01:28:02,000
+01:28:00,630 --> 01:28:01,958
 <i>Hälse umgedreht</i>
 
 1
-01:28:02,000 --> 01:28:03,945
+01:28:02,000 --> 01:28:03,905
 <i>Es wird alles zertrümmert</i>
 
 1
@@ -698,7 +698,7 @@ Gestohlen!
 <i>Erschlagen und gequält</i>
 
 1
-01:28:05,670 --> 01:28:10,260
+01:28:05,670 --> 01:28:10,218
 <i>Hier, wo jeder euch
 Heut grausam Sterben sieht</i>
 

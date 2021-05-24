@@ -3,7 +3,7 @@
 Erebor.
 
 1
-01:42:35,710 --> 01:42:37,710
+01:42:35,710 --> 01:42:37,627
 Der Einsame Berg.
 
 1
@@ -32,7 +32,7 @@ Das, mein lieber Oin, ist eine Drossel.
 Aber wir sehen es als ein Zeichen an.
 
 1
-01:43:06,240 --> 01:43:09,910
+01:43:06,240 --> 01:43:09,827
 - Als gutes Omen.
 - Zu recht.
 

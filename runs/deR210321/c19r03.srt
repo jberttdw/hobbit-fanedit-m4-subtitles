@@ -4,7 +4,7 @@ Moment mal,
 das ist die Aussteuertruhe meiner Mutter.
 
 1
-04:01:23,070 --> 04:01:25,570
+04:01:23,153 --> 04:01:25,570
 Und das ist mein Stuhl.
 
 1
@@ -28,7 +28,7 @@ Sie dürften gar nicht hier sein.
 Wie meinen Sie das?
 
 1
-04:01:36,370 --> 04:01:39,420
+04:01:36,370 --> 04:01:39,337
 Na, weil Sie doch
 für tot erklärt worden sind und alles.
 
@@ -130,12 +130,12 @@ können Sie das beweisen?
 Was?
 
 1
-04:02:33,930 --> 04:02:37,390
+04:02:33,930 --> 04:02:37,348
 Nun, irgendein Schriftstück
 mit Ihrem Namen darauf würde reichen.
 
 1
-04:02:37,390 --> 04:02:39,060
+04:02:37,432 --> 04:02:39,060
 Na gut. Gut.
 
 1
@@ -198,11 +198,11 @@ Und was ist mit sehr alten Freunden?
 Gandalf?
 
 1
-04:05:26,270 --> 04:05:27,770
+04:05:26,270 --> 04:05:27,728
 Bilbo Beutlin.
 
 1
-04:05:27,770 --> 04:05:31,360
+04:05:27,812 --> 04:05:31,360
 - Mein lieber Gandalf! Ha, ha!
 - Schön, dich zu sehen.
 
@@ -217,7 +217,3 @@ Komm! Komm rein!
 1
 04:05:41,490 --> 04:05:44,160
 Willkommen. Willkommen.
-
-1
-04:05:45,394 --> 04:05:46,894
-Der Einsame Berg

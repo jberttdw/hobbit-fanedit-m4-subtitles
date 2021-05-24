@@ -1,5 +1,5 @@
 ﻿1
-01:16:16,340 --> 01:16:21,130
+01:16:16,340 --> 01:16:21,088
 Zu viele Knochen, mein Schatz.
 Nicht genug Fleisch!
 
@@ -18,7 +18,7 @@ Am Kopf zuerst.
 Es beißt die Hand</i>
 
 1
-01:16:36,820 --> 01:16:40,150
+01:16:36,862 --> 01:16:40,150
 <i>Es nagt am Fuß</i>
 
 1
@@ -27,7 +27,7 @@ Es beißt die Hand</i>
 Kein Fleisch nur Bein</i>
 
 1
-01:16:44,320 --> 01:16:47,160
+01:16:44,362 --> 01:16:47,160
 <i>So kalt am Schluss</i>
 
 1

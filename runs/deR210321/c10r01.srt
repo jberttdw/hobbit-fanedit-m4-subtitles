@@ -4,14 +4,11 @@
 - Bombur ist halb ertrunken.
 
 1
-02:18:03,120 --> 02:18:05,130
+02:18:03,120 --> 02:18:05,128
 - Alle zum Ufer!
 - Gut.
 
 1
-02:18:05,130 --> 02:18:06,000
-Kommt, macht schnell!
-
-1
-02:18:06,090 --> 02:18:08,420
-Gloin, hilf mir mal, Bruder.
+02:18:05,130 --> 02:18:08,420
+- Kommt, macht schnell!
+- Gloin, hilf mir mal, Bruder.

@@ -1,10 +1,10 @@
 ﻿1
-00:11:54,310 --> 00:11:55,650
+00:11:54,310 --> 00:11:55,608
 - Herr Gandalf?
 - Ja?
 
 1
-00:11:55,650 --> 00:11:58,440
+00:11:55,650 --> 00:11:58,398
 Dürfte ich Euch zu einem
 Tässchen Kamillentee verführen?
 
@@ -27,11 +27,11 @@ Ein Gläschen Rotwein würde ich vorziehen.
 Oin, Gloin.
 
 1
-00:12:15,960 --> 00:12:17,590
+00:12:15,960 --> 00:12:17,628
 Dwalin, Balin,
 
 1
-00:12:17,670 --> 00:12:19,210
+00:12:17,670 --> 00:12:19,168
 Bifur, Bofur, Bombur,
 
 1
@@ -44,11 +44,11 @@ Bifur, Bofur, Bombur,
 Ja, du hast vollkommen recht, Bifur.
 
 1
-00:12:29,310 --> 00:12:31,730
+00:12:29,310 --> 00:12:31,688
 Ein Zwerg fehlt uns offensichtlich noch.
 
 1
-00:12:31,730 --> 00:12:33,337
+00:12:31,730 --> 00:12:33,295
 Er verspätet sich nur.
 
 1
@@ -57,12 +57,12 @@ Er wanderte gen Norden zum Treffen
 unserer Sippe. Er wird kommen.
 
 1
-00:12:37,520 --> 00:12:41,240
+00:12:37,520 --> 00:12:41,198
 Herr Gandalf?
 Ein Gläschen Rotwein, wie gewünscht.
 
 1
-00:12:41,240 --> 00:12:43,400
+00:12:41,240 --> 00:12:43,448
 Er hat ein fruchtiges Bouquet.
 
 1

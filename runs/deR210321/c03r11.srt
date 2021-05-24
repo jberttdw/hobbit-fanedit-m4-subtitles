@@ -36,7 +36,7 @@ Und ich hörte, sie schätzten
 die Bequemlichkeit ihres Heims.
 
 1
-01:04:12,030 --> 01:04:14,950
+01:04:12,030 --> 01:04:14,908
 Ich habe gehört, es sei unklug,
 den Rat der Elben zu suchen,
 

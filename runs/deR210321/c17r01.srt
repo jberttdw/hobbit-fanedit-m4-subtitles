@@ -106,7 +106,7 @@ meinen vierzehnten Teil genommen.
 Du hast ihn mir gestohlen?
 
 1
-03:25:21,370 --> 03:25:23,080
+03:25:21,370 --> 03:25:22,997
 Dir gestohlen? Nein.
 
 1
@@ -133,7 +133,7 @@ Du hast keine Ansprüche an mich,
 du elender Wurm!
 
 1
-03:25:43,600 --> 03:25:46,310
+03:25:43,600 --> 03:25:46,227
 Ich wollte ihn dir schon geben.
 
 1

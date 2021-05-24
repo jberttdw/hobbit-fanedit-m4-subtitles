@@ -65,7 +65,7 @@ Das war sie.
 
 1
 02:19:16,530 --> 02:19:17,950
-Verzeiht. Es war nicht meine Absicht...
+Verzeiht. Es war nicht...
 
 1
 02:19:17,950 --> 02:19:20,950
@@ -132,12 +132,12 @@ was ihr mit den Elben zu schaffen hattet.
 Gut ausgegangen ist es nicht.
 
 1
-02:19:59,370 --> 02:20:02,700
+02:19:59,370 --> 02:20:02,656
 Niemand kommt in Seestadt rein
 ohne die Erlaubnis des Bürgermeisters.
 
 1
-02:20:02,700 --> 02:20:05,620
+02:20:02,658 --> 02:20:05,620
 Sein ganzer Reichtum stammt
 aus dem Handel mit dem Waldland-Reich.
 

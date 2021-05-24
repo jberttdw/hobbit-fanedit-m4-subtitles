@@ -52,7 +52,7 @@ Wo warst du übrigens abgeblieben?
 Einen Blick voraus werfen.
 
 1
-00:47:16,060 --> 00:47:20,150
+00:47:16,060 --> 00:47:20,108
 - Was hat dich zurückgebracht?
 - Der Blick nach hinten.
 
@@ -83,7 +83,7 @@ Sie müssen von den
 Ettenöden gekommen sein.
 
 1
-00:47:37,160 --> 00:47:40,080
+00:47:37,160 --> 00:47:40,038
 Seit wann wagen sich
 Bergtrolle so weit in den Süden?
 
@@ -129,7 +129,7 @@ hier rumliegen zu lassen.
 - Sehe ich auch so.
 
 1
-00:48:37,720 --> 00:48:39,520
+00:48:37,720 --> 00:48:39,478
 - Nori,
 - Ja?
 
@@ -161,7 +161,7 @@ Eine bessere Klinge
 kann man sich nicht wünschen.
 
 1
-00:49:37,490 --> 00:49:39,160
+00:49:37,490 --> 00:49:39,577
 - Schnell, das hier auch noch.
 - So ist es gut.
 
@@ -222,7 +222,7 @@ im Leben ein Schwert geführt.
 Und ich hoffe, du musst es nie.
 
 1
-00:50:47,140 --> 00:50:50,060
+00:50:47,140 --> 00:50:50,018
 Falls doch, denke daran:
 
 1

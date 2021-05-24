@@ -3,7 +3,7 @@
 Hier schlagen wir unser Nachtlager auf.
 
 1
-00:35:59,010 --> 00:36:03,590
+00:35:59,010 --> 00:36:03,548
 Fili, Kili, versorgt die Ponys.
 Und bleibt bei ihnen.
 
@@ -32,16 +32,16 @@ Wir könnten
 zum Verborgenen Tal reiten.
 
 1
-00:36:19,650 --> 00:36:21,648
+00:36:19,692 --> 00:36:21,648
 Ich habe es dir schon gesagt.
 
 1
-00:36:21,650 --> 00:36:23,858
+00:36:21,692 --> 00:36:23,858
 Wir gehen nicht
 in die Nähe von diesem Ort.
 
 1
-00:36:23,860 --> 00:36:26,408
+00:36:23,902 --> 00:36:26,368
 Wieso nicht?
 Die Elben sind hilfsbereit.
 
@@ -51,7 +51,7 @@ Dort könnten wir essen,
 schlafen, uns Rat holen.
 
 1
-00:36:28,660 --> 00:36:31,634
+00:36:28,702 --> 00:36:31,634
 - Ich brauche keinen Rat von denen.
 - Wir haben eine Karte,
 
@@ -88,7 +88,7 @@ Und du verlangst, dass ich eben jene
 aufsuche die meinen Großvater verrieten?
 
 1
-00:36:55,900 --> 00:36:59,020
+00:36:55,942 --> 00:36:59,020
 - Die meinen Vater verrieten.
 - Du bist keiner von beiden.
 
@@ -131,11 +131,11 @@ wir haben Hunger.
 Kommt er wieder?
 
 1
-00:37:35,190 --> 00:37:36,650
+00:37:35,190 --> 00:37:36,608
 Er ist schon ziemlich lange weg.
 
 1
-00:37:36,650 --> 00:37:38,020
+00:37:36,650 --> 00:37:37,978
 - Wer?
 - Gandalf.
 
@@ -154,7 +154,7 @@ und bring das den Jungs.
 Schluss jetzt. Du hattest genug.
 
 1
-00:37:45,490 --> 00:37:49,490
+00:37:45,490 --> 00:37:49,448
 Der Eintopf ist gar nicht mal schlecht.
 Hab schon Schlimmeres gegessen.
 
@@ -188,7 +188,7 @@ Jetzt sind es 14.
 Margerite und Bungo fehlen.
 
 1
-00:38:21,360 --> 00:38:23,440
+00:38:21,360 --> 00:38:23,398
 Was? Also, das ist nicht gut. Ha, ha.
 
 1
@@ -197,16 +197,16 @@ Und das ist ganz und gar nicht gut.
 Sollten wir das nicht Thorin sagen?
 
 1
-00:38:26,280 --> 00:38:29,240
+00:38:26,322 --> 00:38:29,198
 Äh, nein. Belasten wir ihn nicht damit.
 
 1
-00:38:29,240 --> 00:38:32,740
+00:38:29,240 --> 00:38:32,698
 Als unser verbürgter Meisterdieb
 könntest du der Sache doch nachgehen.
 
 1
-00:38:32,740 --> 00:38:34,540
+00:38:32,740 --> 00:38:34,498
 Also, äh...
 
 1
@@ -253,7 +253,7 @@ Oh.
 Er hat Myrte und Minzi.
 
 1
-00:39:31,550 --> 00:39:34,350
+00:39:31,550 --> 00:39:34,308
 Sie werden sie fressen.
 Wir müssen was unternehmen.
 
@@ -290,7 +290,7 @@ und einmal wie eine...
 Ist das wirklich so eine gute Idee?
 
 1
-00:39:52,070 --> 00:39:55,200
+00:39:52,070 --> 00:39:55,158
 Gestern Hammel, heute Hammel,
 
 1
@@ -313,7 +313,7 @@ Oh! Pferd mag ich nicht. Mochte ich
 noch nie. Ist nicht genug Fett dran.
 
 1
-00:40:12,010 --> 00:40:14,430
+00:40:12,010 --> 00:40:14,388
 Immer noch besser als zäher,
 alter Bauer.
 
