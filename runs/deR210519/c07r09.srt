@@ -5,3 +5,7 @@ Geht jetzt.
 1
 01:54:50,980 --> 01:54:53,280
 Solange es noch hell ist.
+
+1
+01:54:55,920 --> 01:54:58,570
+Die euch jagen, sind nicht mehr weit.
