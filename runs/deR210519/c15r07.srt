@@ -1,0 +1,247 @@
+﻿1
+03:08:01,609 --> 03:08:04,159
+Mein Herr Thranduil. Wir haben Euch hier
+
+1
+03:08:04,159 --> 03:08:07,279
+- nicht erwartet.
+- Ich hörte, Ihr braucht Hilfe.
+
+1
+03:08:25,429 --> 03:08:26,349
+Hier, nimm!
+
+1
+03:08:27,719 --> 03:08:29,009
+Reicht es weiter!
+
+1
+03:08:29,929 --> 03:08:31,019
+Und noch eine!
+
+1
+03:08:35,439 --> 03:08:37,609
+Ihr habt uns gerettet.
+
+1
+03:08:37,609 --> 03:08:41,529
+- Ich weiß nicht, wie ich Euch danken soll.
+- Eure Dankbarkeit ist unnötig.
+
+1
+03:08:41,529 --> 03:08:43,489
+Ich bin nicht euretwegen hier.
+
+1
+03:08:43,489 --> 03:08:47,199
+Ich komme, um etwas zurückzufordern,
+das mir gehört.
+
+1
+03:08:53,539 --> 03:08:57,919
+<i>In diesem Berg gibt es Edelsteine,
+die auch ich begehre.</i>
+
+1
+03:08:57,919 --> 03:09:01,209
+<i>Weiße Steine aus reinem Sternenlicht.</i>
+
+1
+03:09:01,839 --> 03:09:04,509
+Die Weißen Steine aus Lasgalen.
+
+1
+03:09:06,139 --> 03:09:09,139
+Ich kenne einen Elbenfürsten,
+der einen hochen Preis dafür bezahlen würde.
+
+1
+03:09:15,059 --> 03:09:17,519
+Wartet! Bitte, wartet!
+
+1
+03:09:20,109 --> 03:09:22,739
+Ihr zieht in den Krieg
+wegen einer Handvoll Edelsteine?
+
+1
+03:09:22,819 --> 03:09:26,449
+Die Erbstücke meines Volkes
+werden nicht leichtfertig aufgegeben.
+
+1
+03:09:26,449 --> 03:09:28,909
+Wir haben dasselbe Ziel.
+
+1
+03:09:29,779 --> 03:09:34,409
+Auch mein Volk hat einen Anspruch
+auf die Reichtümer in diesem Berg.
+
+1
+03:09:34,409 --> 03:09:36,709
+Lasst mich mit Thorin sprechen.
+
+1
+03:09:36,749 --> 03:09:39,209
+Ihr wollt mit dem Zwerg verhandeln?
+
+1
+03:09:39,209 --> 03:09:41,629
+Um einen Krieg zu verhindern?
+
+1
+03:09:41,709 --> 03:09:42,669
+Ja.
+
+1
+03:09:43,549 --> 03:09:45,549
+Für eine Nacht keine schlechte Arbeit.
+
+1
+03:09:47,379 --> 03:09:48,589
+Komm.
+
+1
+03:10:11,489 --> 03:10:14,239
+Seid gegrüßt, Thorin, Sohn von Thrain.
+
+1
+03:10:14,329 --> 03:10:16,659
+Dass Ihr noch am Leben seid,
+wagten wir nicht zu hoffen.
+
+1
+03:10:17,249 --> 03:10:21,539
+Warum kommt ihr in Kriegsrüstung
+an das Tor des Königs unter dem Berge?
+
+1
+03:10:21,629 --> 03:10:25,129
+Warum verschanzt sich der König
+unter dem Berge
+
+1
+03:10:25,129 --> 03:10:27,419
+wie ein Räuber in seiner Höhle?
+
+1
+03:10:28,089 --> 03:10:31,259
+Vielleicht, weil ich erwarte,
+beraubt zu werden.
+
+1
+03:10:32,349 --> 03:10:34,139
+Mein Herr,
+
+1
+03:10:34,219 --> 03:10:36,349
+um Euch zu berauben, sind wir nicht hier.
+
+1
+03:10:36,429 --> 03:10:38,599
+Nur um einer gerechten Einigung willen.
+
+1
+03:10:39,189 --> 03:10:41,059
+Wollt Ihr nicht mit mir sprechen?
+
+1
+03:11:16,179 --> 03:11:17,519
+Ich höre.
+
+1
+03:11:18,599 --> 03:11:20,559
+Im Namen der Bürger der Seestadt
+
+1
+03:11:20,639 --> 03:11:22,729
+ersuche ich Euch, Euer Wort zu halten:
+
+1
+03:11:23,399 --> 03:11:26,899
+Einen Anteil am Schatz,
+damit sie ihr Leben neu aufbauen können.
+
+1
+03:11:27,859 --> 03:11:30,609
+Ich werde mit niemandem verhandeln,
+
+1
+03:11:30,699 --> 03:11:33,119
+solange ein Heer in Waffen
+vor meinem Tor steht.
+
+1
+03:11:33,119 --> 03:11:37,539
+Dieses Heer wird den Berg angreifen,
+wenn wir uns nicht einig werden.
+
+1
+03:11:38,409 --> 03:11:41,079
+Eure Drohungen beeindrucken mich nicht.
+
+1
+03:11:42,999 --> 03:11:44,919
+Und Euer Gewissen?
+
+1
+03:11:44,999 --> 03:11:47,799
+Sagt es Euch nicht,
+dass unser Anliegen rechtens ist?
+
+1
+03:11:49,089 --> 03:11:51,719
+Mein Volk hat Euch geholfen.
+
+1
+03:11:53,049 --> 03:11:57,349
+Und zum Dank brachtet Ihr ihnen
+nichts weiter als Verderben und Tod.
+
+1
+03:11:57,349 --> 03:12:00,769
+Wann haben die Menschen aus der Seestadt je
+geholfen, ohne eine belohnung zu wunschen?
+
+1
+03:12:00,769 --> 03:12:02,309
+Wir haben eine Abmachung!
+
+1
+03:12:02,309 --> 03:12:04,059
+Eine Abmachung?
+
+1
+03:12:04,059 --> 03:12:08,189
+Was konnten wir tun, als unser Geburtsrecht
+gegen Decken und Essen zu verschachern?
+
+1
+03:12:08,279 --> 03:12:12,239
+Als unsere Freiheit
+mit unserer Zukunft zu erkaufen?
+
+1
+03:12:12,239 --> 03:12:14,239
+Das nennt Ihr einen gerechten Handel?
+
+1
+03:12:16,619 --> 03:12:18,199
+Sagt mir,
+
+1
+03:12:18,289 --> 03:12:21,039
+Bard, der Drachentöter,
+
+1
+03:12:21,579 --> 03:12:24,039
+warum sollte ich solche Regeln anerkennen?
+
+1
+03:12:26,249 --> 03:12:29,549
+Weil Ihr uns Euer Wort gegeben habt.
+
+1
+03:12:32,629 --> 03:12:34,589
+Bedeutet das denn gar nichts?
