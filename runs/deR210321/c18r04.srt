@@ -100,11 +100,14 @@ wenn man einen Zauberer bei sich hat.
 Die bringen anscheinend Glück.
 
 1
-04:00:09,540 --> 04:00:11,160
+04:00:09,540 --> 04:00:10,924
 Du denkst doch wohl nicht,
-dass du bei all deinen Abenteuern
 
 1
-04:00:11,160 --> 04:00:15,290
+04:00:11,007 --> 04:00:14,010
+dass du bei all deinen Abenteuern
 mit heiler Haut davongekommen bist,
+
+1
+04:00:14,094 --> 04:00:15,290
 war nur Glück?

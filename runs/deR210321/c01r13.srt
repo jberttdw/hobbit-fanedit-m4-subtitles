@@ -798,7 +798,7 @@ Ich ziehe in ein Abenteuer!
 
 1
 00:30:49,160 --> 00:30:52,870
-Ich hab's gesagt. Hab ich's nicht gesagt?
+Hab ich's nicht gesagt?
 Herzukommen war reine Zeitverschwendung.
 
 1

@@ -57,13 +57,9 @@ Bilbo!
 Pscht! Hier sind doch überall Wachen!
 
 1
-02:14:37,340 --> 02:14:39,000
+02:14:37,340 --> 02:14:40,420
 Schließt die Türen.
 So gewinnen wir Zeit.
-
-1
-02:14:39,000 --> 02:14:40,420
-Gut, Nori.
 
 1
 02:14:51,430 --> 02:14:53,060

@@ -29,12 +29,12 @@ Der Bär ist unberechenbar,
 
 1
 01:46:47,960 --> 01:46:50,420
-aber dem Menschen ist mit Vernunft
-beizukommen. Jedoch
+aber dem Menschen ist
+mit Vernunft beizukommen.
 
 1
 01:46:51,000 --> 01:46:53,840
-schätzt er Zwerge nicht übermäßig.
+Jedoch schätzt er Zwerge nicht übermäßig.
 
 1
 01:46:56,840 --> 01:46:58,260

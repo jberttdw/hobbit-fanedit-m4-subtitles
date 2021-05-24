@@ -8,4 +8,5 @@ Sag mir also, Dieb,
 
 1
 02:53:21,160 --> 02:53:23,200
-was wünscht du dir für einen Tod?
+was wünscht du dir
+für einen Tod?

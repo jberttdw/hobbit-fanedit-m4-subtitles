@@ -26,14 +26,13 @@ Ich sehe, dass Ihr nichts
 von Zauberern wisst.
 
 1
-03:16:59,907 --> 03:17:02,868
+03:16:59,907 --> 03:17:01,932
 Sie sind wie ein Wintergewitter,
-das auf einem rasenden Wind heranrollt,
 
 1
-03:17:02,910 --> 03:17:07,960
-um dann donnernd
-schlechte Kunde zu bringen.
+03:17:02,015 --> 03:17:07,960
+das auf einem rasenden Wind heranrollt,
+um dann donnernd schlechte Kunde zu bringen.
 
 1
 03:17:07,960 --> 03:17:12,170
