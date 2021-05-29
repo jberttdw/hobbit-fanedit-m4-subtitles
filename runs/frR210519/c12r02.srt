@@ -1,0 +1,87 @@
+﻿1
+02:41:47,999 --> 02:41:51,919
+Vous voulez que
+je trouve une pierre précieuse ?
+
+1
+02:41:53,379 --> 02:41:56,379
+Une grosse pierre blanche.
+
+1
+02:41:58,089 --> 02:42:01,049
+C'est tout ?
+Il doit y en avoir plein.
+
+1
+02:42:01,049 --> 02:42:04,059
+Il n'y a qu'une Arkenstone.
+
+1
+02:42:04,929 --> 02:42:07,269
+Vous la reconnaîtrez aussitôt.
+
+1
+02:42:08,189 --> 02:42:09,189
+Bien.
+
+1
+02:42:13,019 --> 02:42:15,439
+À vrai dire, mon ami...
+
+1
+02:42:15,439 --> 02:42:19,739
+Je ne sais pas
+ce que vous trouverez en bas.
+
+1
+02:42:21,909 --> 02:42:25,159
+Vous n'êtes pas obligé d'y aller.
+Il n'y a aucune honte à reculer.
+
+1
+02:42:25,159 --> 02:42:26,749
+Non, Balin.
+
+1
+02:42:27,749 --> 02:42:29,499
+J'ai fait une promesse.
+
+1
+02:42:30,329 --> 02:42:32,079
+Je me dois d'essayer.
+
+1
+02:42:36,799 --> 02:42:38,719
+Ça m'épatera toujours.
+
+1
+02:42:38,799 --> 02:42:39,719
+Quoi ?
+
+1
+02:42:39,799 --> 02:42:41,889
+Le courage des Hobbits.
+
+1
+02:42:43,849 --> 02:42:45,429
+Allez-y.
+
+1
+02:42:45,509 --> 02:42:49,479
+Et que la chance soit avec vous.
+
+1
+02:42:56,859 --> 02:42:59,279
+Bilbo?
+
+1
+02:43:00,489 --> 02:43:03,199
+S'il y a vraiment...
+
+1
+02:43:04,279 --> 02:43:07,199
+un dragon vivant, en bas...
+
+1
+02:43:09,499 --> 02:43:10,999
+ne le réveillez pas.

@@ -1,0 +1,109 @@
+﻿1
+01:44:37,410 --> 01:44:38,540
+La horde est proche ?
+
+1
+01:44:38,540 --> 01:44:42,460
+Trop proche. À deux lieues, pas plus.
+Mais il y a pire.
+
+1
+01:44:42,540 --> 01:44:45,210
+- Les Wargs nous ont sentis ?
+- Ça ne saurait tarder.
+
+1
+01:44:45,300 --> 01:44:47,460
+- Il y a un autre problème.
+- Vous ont-ils vu ?
+
+1
+01:44:47,840 --> 01:44:49,840
+- Ils vous ont vu.
+- Non.
+
+1
+01:44:49,930 --> 01:44:52,720
+Je vous l'avais dit.
+Discret comme une souris.
+
+1
+01:44:52,720 --> 01:44:54,300
+L'étoffe d'un cambrioleur.
+
+1
+01:44:54,300 --> 01:44:56,470
+Voulez-vous bien m'écouter
+
+1
+01:44:56,560 --> 01:44:57,220
+une seconde ?
+
+1
+01:44:57,220 --> 01:45:00,770
+Il y a autre chose là-haut.
+
+1
+01:45:01,690 --> 01:45:04,150
+Comme quoi ?
+
+1
+01:45:04,770 --> 01:45:05,770
+Un ours ?
+
+1
+01:45:05,770 --> 01:45:08,780
+Oui, mais plus gros.
+
+1
+01:45:08,780 --> 01:45:09,990
+Bien plus gros.
+
+1
+01:45:10,860 --> 01:45:13,070
+Vous connaissez cette bête ?
+
+1
+01:45:14,280 --> 01:45:15,330
+Demi-tour.
+
+1
+01:45:15,410 --> 01:45:17,870
+Avec une horde d'Orcs aux trousses ?
+
+1
+01:45:17,950 --> 01:45:19,540
+Il y a une maison,
+
+1
+01:45:21,460 --> 01:45:25,250
+pas loin d'ici,
+où nous pourrions trouver refuge.
+
+1
+01:45:25,250 --> 01:45:27,000
+La maison de qui ?
+
+1
+01:45:27,090 --> 01:45:29,460
+Ami ou ennemi ?
+
+1
+01:45:29,550 --> 01:45:31,720
+Ni l'un ni l'autre.
+
+1
+01:45:31,800 --> 01:45:33,680
+Il nous aidera...
+
+1
+01:45:34,680 --> 01:45:35,760
+...ou nous tuera.
+
+1
+01:45:36,720 --> 01:45:38,720
+Avons-nous le choix ?
+
+1
+01:45:41,020 --> 01:45:42,020
+Non.

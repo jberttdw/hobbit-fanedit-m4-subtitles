@@ -1,0 +1,28 @@
+﻿1
+03:34:43,629 --> 03:34:46,129
+Les Orcs déferlent sur le pont !
+
+1
+03:34:47,009 --> 03:34:50,179
+Les archers, au rempart Est !
+Retenez-les le plus longtemps possible !
+
+1
+03:34:50,219 --> 03:34:52,599
+Archers ! Suivez-moi !
+
+1
+03:34:52,599 --> 03:34:54,889
+Les Orcs ont pris Stone Street !
+
+1
+03:34:54,969 --> 03:34:56,849
+Le marché est envahi !
+
+1
+03:34:59,939 --> 03:35:01,019
+Vous autres,
+
+1
+03:35:01,809 --> 03:35:03,269
+suivez-moi !

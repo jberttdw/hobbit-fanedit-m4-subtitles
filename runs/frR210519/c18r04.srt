@@ -1,0 +1,100 @@
+﻿1
+03:57:38,589 --> 03:57:41,839
+Le roi est mort.
+
+1
+03:57:42,339 --> 03:57:44,549
+Vive le roi !
+
+1
+03:57:55,809 --> 03:57:58,149
+Il y aura un grand banquet ce soir.
+
+1
+03:57:58,229 --> 03:58:01,689
+On chantera des chansons.
+On contera des histoires.
+
+1
+03:58:02,359 --> 03:58:04,359
+Et Thorin Écu-de-Chêne
+
+1
+03:58:04,359 --> 03:58:06,989
+entrera dans la légende.
+
+1
+03:58:08,199 --> 03:58:12,289
+Vous l'honorerez ainsi.
+Mais pour moi, c'est différent.
+
+1
+03:58:13,119 --> 03:58:14,499
+Il était...
+
+1
+03:58:15,709 --> 03:58:16,829
+Pour moi,
+
+1
+03:58:18,499 --> 03:58:20,169
+il était...
+
+1
+03:58:27,089 --> 03:58:30,509
+Je vais m'éclipser.
+Dites au revoir aux autres pour moi.
+
+1
+03:58:30,509 --> 03:58:32,519
+Dites-leur vous-même.
+
+1
+03:58:48,659 --> 03:58:51,829
+Si l'un de vous passe
+un jour par Cul-de-Sac...
+
+1
+03:58:57,039 --> 03:58:58,789
+le thé est à 16h.
+
+1
+03:58:59,829 --> 03:59:02,379
+À volonté.
+
+1
+03:59:04,089 --> 03:59:05,919
+Vous êtes les bienvenus.
+
+1
+03:59:14,809 --> 03:59:17,639
+Pas la peine de frapper.
+
+1
+03:59:58,639 --> 04:00:02,229
+La frontière de la Comté.
+
+1
+04:00:02,309 --> 04:00:04,979
+C'est ici que je vous quitte.
+
+1
+04:00:07,319 --> 04:00:09,359
+C'est dommage.
+
+1
+04:00:11,239 --> 04:00:15,029
+J'apprécie la compagnie des Magiciens.
+
+1
+04:00:16,199 --> 04:00:18,409
+On dirait qu'ils portent chance.
+
+1
+04:00:18,999 --> 04:00:20,619
+Pensez-vous donc
+
+1
+04:00:20,619 --> 04:00:24,749
+que toutes vos aventures et évasions
+n'ont été qu'une question de chance ?

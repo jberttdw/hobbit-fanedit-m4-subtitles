@@ -1,0 +1,626 @@
+﻿1
+01:17:30,410 --> 01:17:34,210
+Nous nageons dans la félicité,
+mon précieux !
+
+1
+01:17:34,290 --> 01:17:36,790
+Quel morceau de choix !
+
+1
+01:17:38,840 --> 01:17:41,720
+Gollum !
+
+1
+01:17:42,630 --> 01:17:45,300
+Arrière ! Reculez.
+
+1
+01:17:45,390 --> 01:17:48,890
+Je vous préviens,
+n'approchez pas davantage.
+
+1
+01:17:50,520 --> 01:17:54,640
+Ça a une lame elfique.
+Mais ce n'est pas un Elfe.
+
+1
+01:17:56,400 --> 01:17:58,020
+Pas un Elfe, non.
+
+1
+01:17:58,820 --> 01:18:00,690
+Qu'est-ce, mon précieux ?
+
+1
+01:18:01,860 --> 01:18:03,200
+Qu'y a-t-il ?
+
+1
+01:18:03,530 --> 01:18:06,870
+Je m'appelle Bilbon Sacquet.
+
+1
+01:18:07,820 --> 01:18:09,620
+Sacquet ?
+
+1
+01:18:10,540 --> 01:18:13,920
+Qu'est-ce qu'un Sacquet, mon précieux ?
+
+1
+01:18:14,460 --> 01:18:18,710
+Je suis un Hobbit, de la Comté.
+
+1
+01:18:18,840 --> 01:18:24,010
+Nous aimons Gobelins, chauves-souris,
+poissons, mais n'avons jamais goûté au Hobbit.
+
+1
+01:18:25,260 --> 01:18:28,260
+Est-ce tendre ? Est-ce juteux ?
+
+1
+01:18:28,350 --> 01:18:32,020
+Restez à distance !
+
+1
+01:18:32,100 --> 01:18:34,060
+Je m'en servirai, s'il le faut.
+
+1
+01:18:35,230 --> 01:18:37,480
+Je ne veux pas d'ennuis,
+comprenez-vous ?
+
+1
+01:18:38,440 --> 01:18:41,480
+Indiquez-moi la sortie
+et je m'en irai.
+
+1
+01:18:41,480 --> 01:18:43,780
+Pourquoi ? C'est perdu ?
+
+1
+01:18:43,780 --> 01:18:47,200
+Et je veux ne plus être perdu, vite.
+
+1
+01:18:47,280 --> 01:18:50,950
+Nous connaissons des chemins sûrs
+pour le Hobbit.
+
+1
+01:18:50,950 --> 01:18:52,910
+Des chemins sûrs dans les ténèbres.
+
+1
+01:18:52,990 --> 01:18:54,700
+Tais-toi !
+
+1
+01:18:54,700 --> 01:18:57,540
+- Je n'ai rien dit.
+- Nous ne vous parlons pas.
+
+1
+01:18:57,540 --> 01:19:00,420
+Mais si, mon précieux. Mais si.
+
+1
+01:19:00,960 --> 01:19:04,260
+J'ignore à quoi vous jouez...
+
+1
+01:19:04,260 --> 01:19:05,880
+Jouer ?
+
+1
+01:19:05,880 --> 01:19:08,720
+Nous adorons les jeux,
+hein, mon précieux ?
+
+1
+01:19:08,800 --> 01:19:12,100
+Ça aime les jeux ? Oui ?
+Ça aime jouer ?
+
+1
+01:19:14,060 --> 01:19:15,230
+Peut-être.
+
+1
+01:19:17,560 --> 01:19:22,150
+<i>Qu'est-ce qui a des racines
+que nul ne voit,</i>
+
+1
+01:19:22,150 --> 01:19:25,070
+<i>est plus grand que les arbres,</i>
+
+1
+01:19:25,150 --> 01:19:27,320
+<i>monte haut, très haut</i>
+
+1
+01:19:27,450 --> 01:19:30,410
+<i>et malgré cela jamais ne croît ?</i>
+
+1
+01:19:31,450 --> 01:19:34,040
+La montagne.
+
+1
+01:19:34,040 --> 01:19:37,460
+Encore, hein ?
+
+1
+01:19:37,540 --> 01:19:41,000
+À vous. Demandez-nous.
+
+1
+01:19:41,130 --> 01:19:42,840
+Non ! Plus de devinettes.
+
+1
+01:19:44,670 --> 01:19:47,470
+Élimine-le. Élimine-le, Gollum !
+
+1
+01:19:51,140 --> 01:19:54,350
+J'ai envie de jouer. Très envie.
+
+1
+01:19:54,350 --> 01:19:56,350
+Je veux jouer. Je vois bien
+
+1
+01:19:57,310 --> 01:20:01,020
+que vous êtes très doué.
+
+1
+01:20:01,770 --> 01:20:04,730
+Alors, si nous...
+
+1
+01:20:05,440 --> 01:20:07,490
+jouions aux devinettes ?
+
+1
+01:20:07,570 --> 01:20:09,490
+Rien que vous et moi.
+
+1
+01:20:09,990 --> 01:20:14,120
+Rien que nous.
+
+1
+01:20:16,490 --> 01:20:18,830
+Et si je gagne,
+
+1
+01:20:18,960 --> 01:20:21,830
+vous m'indiquez la sortie.
+
+1
+01:20:24,710 --> 01:20:27,760
+Et si ça perd ? Alors ?
+
+1
+01:20:27,760 --> 01:20:31,260
+Si ça perd, mon précieux,
+nous le mangeons !
+
+1
+01:20:32,390 --> 01:20:36,180
+Si Sacquet perd,
+nous le mangeons tout entier.
+
+1
+01:20:42,730 --> 01:20:43,650
+Entendu.
+
+1
+01:20:48,740 --> 01:20:51,070
+Sacquet commence.
+
+1
+01:20:56,790 --> 01:20:59,500
+<i>Trente chevaux blancs
+sur une colline rouge.</i>
+
+1
+01:21:00,290 --> 01:21:03,080
+<i>D'abord ils mâchent,
+puis ils piaffent.</i>
+
+1
+01:21:03,170 --> 01:21:04,830
+<i>Puis plus rien ne bouge.</i>
+
+1
+01:21:15,890 --> 01:21:17,850
+Les dents ?
+
+1
+01:21:17,850 --> 01:21:21,980
+Les dents ! Oui, mon précieux !
+
+1
+01:21:21,980 --> 01:21:28,070
+Mais nous...
+Nous n'en avons que neuf.
+
+1
+01:21:31,740 --> 01:21:32,860
+À nous.
+
+1
+01:21:33,780 --> 01:21:36,530
+<i>Sans voix, il hurle.</i>
+
+1
+01:21:37,080 --> 01:21:40,080
+<i>Sans ailes, voltige.</i>
+
+1
+01:21:40,160 --> 01:21:42,750
+<i>Sans dents, mord.</i>
+
+1
+01:21:43,460 --> 01:21:47,250
+<i>Sans bouche, murmure.</i>
+
+1
+01:21:49,670 --> 01:21:51,630
+Un instant.
+
+1
+01:21:54,930 --> 01:21:56,800
+Nous savons !
+
+1
+01:21:56,890 --> 01:21:58,220
+Tais-toi !
+
+1
+01:22:04,520 --> 01:22:05,600
+Le vent.
+
+1
+01:22:05,980 --> 01:22:07,610
+C'est le vent. Évidemment.
+
+1
+01:22:08,480 --> 01:22:11,190
+Très intelligent, le Hobbit.
+
+1
+01:22:11,610 --> 01:22:13,740
+Très intelligent.
+
+1
+01:22:14,610 --> 01:22:20,080
+<i>Une boîte sans charnières,
+ni clé, ni couvercle.</i>
+
+1
+01:22:20,160 --> 01:22:23,460
+<i>Pourtant, un trésor doré y est celé.</i>
+
+1
+01:22:30,500 --> 01:22:32,760
+Boîte.
+Couvercle et clé.
+
+1
+01:22:32,760 --> 01:22:35,260
+- Eh bien ?
+- C'est traître !
+
+1
+01:22:38,260 --> 01:22:40,430
+- Boîte, clé...
+- Vous abandonnez ?
+
+1
+01:22:40,510 --> 01:22:44,020
+Qu'on nous donne une chance,
+mon précieux !
+
+1
+01:22:57,200 --> 01:22:58,410
+Un œuf !
+
+1
+01:22:59,030 --> 01:23:00,330
+Un œuf !
+
+1
+01:23:00,740 --> 01:23:03,870
+Un petit œuf coulant et croquant.
+
+1
+01:23:04,410 --> 01:23:08,500
+Grand-mère nous a appris à les gober.
+
+1
+01:23:17,130 --> 01:23:20,010
+Nous en avons une pour vous.
+
+1
+01:23:21,140 --> 01:23:24,810
+<i>Toutes choses il dévore.</i>
+
+1
+01:23:25,430 --> 01:23:29,850
+<i>Oiseaux, bêtes, arbres, fleurs.</i>
+
+1
+01:23:30,650 --> 01:23:34,690
+<i>Ronge le fer, mord l'acier,</i>
+
+1
+01:23:35,030 --> 01:23:38,860
+<i>réduit en poudre les rochers.</i>
+
+1
+01:23:40,320 --> 01:23:42,240
+Répondez-nous.
+
+1
+01:23:42,240 --> 01:23:45,830
+Excusez-moi. Un instant.
+Je vous ai accordé un long délai.
+
+1
+01:23:46,830 --> 01:23:50,880
+Oiseaux, bêtes... Bêtes ?
+Arbres, fleurs...
+
+1
+01:23:50,880 --> 01:23:52,290
+Je ne vois pas.
+
+1
+01:23:52,380 --> 01:23:55,710
+Est-ce goûteux ?
+
+1
+01:23:55,800 --> 01:23:59,840
+Est-ce savoureux ?
+
+1
+01:24:00,470 --> 01:24:01,720
+Est-ce croustillant ?
+
+1
+01:24:02,260 --> 01:24:03,430
+Je réfléchis.
+
+1
+01:24:03,850 --> 01:24:04,970
+Je réfléchis.
+
+1
+01:24:09,810 --> 01:24:11,770
+Ça sèche.
+
+1
+01:24:12,860 --> 01:24:16,990
+Sacquet sèche.
+
+1
+01:24:21,030 --> 01:24:22,620
+Le temps est écoulé.
+
+1
+01:24:26,330 --> 01:24:28,120
+Le temps.
+
+1
+01:24:28,120 --> 01:24:30,960
+La réponse est le temps.
+
+1
+01:24:33,290 --> 01:24:35,170
+En fait, c'était facile.
+
+1
+01:24:37,010 --> 01:24:38,380
+Dernière question.
+
+1
+01:24:40,050 --> 01:24:41,970
+Dernière chance.
+
+1
+01:24:46,310 --> 01:24:47,810
+Demandez-nous.
+
+1
+01:24:49,480 --> 01:24:52,190
+- Demandez-nous !
+- D'accord.
+
+1
+01:24:56,570 --> 01:25:00,780
+Qu'est-ce que j'ai dans ma poche ?
+
+1
+01:25:03,700 --> 01:25:05,200
+C'est pas du jeu.
+
+1
+01:25:06,200 --> 01:25:09,540
+C'est pas du jeu !
+C'est de la triche !
+
+1
+01:25:11,330 --> 01:25:13,330
+Posez-en une autre.
+
+1
+01:25:14,790 --> 01:25:18,920
+Vous avez dit : "Posez-moi une question."
+C'est ça ma question.
+
+1
+01:25:18,920 --> 01:25:21,300
+Qu'ai-je dans ma poche ?
+
+1
+01:25:22,930 --> 01:25:26,350
+Trois essais, mon précieux !
+Ça doit en accorder trois.
+
+1
+01:25:26,350 --> 01:25:28,350
+Trois essais, d'accord.
+À vous.
+
+1
+01:25:29,060 --> 01:25:30,310
+Des mains.
+
+1
+01:25:30,390 --> 01:25:32,390
+Faux. Deuxième essai.
+
+1
+01:25:33,650 --> 01:25:37,320
+Arêtes, dents de Gobelins,
+coquillages, chauves-souris.
+
+1
+01:25:40,230 --> 01:25:42,280
+Couteau ! Tais-toi !
+
+1
+01:25:42,280 --> 01:25:44,200
+Faux. Dernier essai.
+
+1
+01:25:44,200 --> 01:25:47,530
+Ficelle. Ou rien.
+
+1
+01:25:47,530 --> 01:25:50,540
+Deux réponses à la fois.
+Fausses, les deux.
+
+1
+01:25:57,670 --> 01:26:01,090
+J'ai gagné.
+Vous avez promis de m'indiquer la sortie.
+
+1
+01:26:01,880 --> 01:26:04,180
+Nous avons dit ça, mon précieux ?
+
+1
+01:26:04,840 --> 01:26:07,140
+Nous avons dit ça ?
+
+1
+01:26:11,060 --> 01:26:15,600
+Qu'est-ce que ça a dans sa poche ?
+
+1
+01:26:16,810 --> 01:26:18,560
+Cela ne vous regarde pas.
+
+1
+01:26:19,150 --> 01:26:20,820
+Vous avez perdu.
+
+1
+01:26:21,530 --> 01:26:23,240
+Perdu ?
+
+1
+01:26:25,200 --> 01:26:26,160
+Perdu ?
+
+1
+01:26:28,120 --> 01:26:29,620
+Perdu ?
+
+1
+01:26:36,250 --> 01:26:37,880
+Où est-il ?
+
+1
+01:26:39,040 --> 01:26:40,340
+Où est-il ?
+
+1
+01:26:45,090 --> 01:26:46,300
+Où est-il ?
+
+1
+01:26:50,720 --> 01:26:52,470
+Perdu ?
+
+1
+01:26:52,470 --> 01:26:54,850
+Nous nageons dans la calamité !
+
+1
+01:26:55,350 --> 01:26:58,770
+Mon précieux est perdu !
+
+1
+01:27:00,770 --> 01:27:05,110
+- Qu'avez-vous perdu ?
+- Ça doit pas demander ! Pas son affaire !
+
+1
+01:27:22,590 --> 01:27:26,220
+Qu'est-ce que ça a
+
+1
+01:27:26,300 --> 01:27:29,010
+dans sa sale
+
+1
+01:27:29,090 --> 01:27:31,890
+petite poche ?
+
+1
+01:27:41,940 --> 01:27:43,900
+Il l'a volé.
+
+1
+01:27:45,110 --> 01:27:47,570
+Il l'a volé !
+
+1
+01:27:51,030 --> 01:27:52,580
+Il l'a volé !
+
+1
+01:27:58,750 --> 01:28:00,540
+<i>♪ Vos os seront fracassés ♪</i>
+
+1
+01:28:00,630 --> 01:28:02,000
+<i>♪ Vos cous, tordus ♪</i>
+
+1
+01:28:02,000 --> 01:28:05,670
+<i>♪ Vous serez frappés, battus ♪
+♪ Et pour finir, pendus ♪</i>
+
+1
+01:28:05,670 --> 01:28:10,260
+<i>♪ Tous ici vous mourrez ♪
+♪ À jamais disparaîtrez ♪</i>
+
+1
+01:28:10,260 --> 01:28:13,810
+<i>♪ Dans les souterrains ♪
+♪ De la ville des Gobelins ♪</i>

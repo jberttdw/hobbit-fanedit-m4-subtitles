@@ -1,0 +1,121 @@
+﻿1
+02:27:38,139 --> 02:27:40,359
+Bonjour, Barde.
+Qu'est-ce qu'il te faut ?
+
+1
+02:27:41,959 --> 02:27:43,379
+Tu avais une tapisserie !
+
+1
+02:27:44,199 --> 02:27:45,819
+Très ancienne ! Où est-elle ?
+
+1
+02:27:45,909 --> 02:27:47,539
+Quelle tapisserie ?
+
+1
+02:27:48,219 --> 02:27:49,079
+Celle-ci.
+
+1
+02:27:49,579 --> 02:27:52,289
+Des Nains, je vous dis.
+Tombés du ciel.
+
+1
+02:27:52,289 --> 02:27:54,579
+Grosses barbes. Regards féroces.
+
+1
+02:27:55,069 --> 02:27:56,519
+Jamais rien vu de tel.
+
+1
+02:27:56,939 --> 02:27:58,919
+Que font des Nains ici ?
+
+1
+02:27:58,919 --> 02:28:01,339
+C'est la prophétie.
+
+1
+02:28:01,339 --> 02:28:03,589
+La prophétie du Peuple de Durin.
+
+1
+02:28:12,179 --> 02:28:13,599
+La prophétie.
+
+1
+02:28:18,519 --> 02:28:20,229
+La légende est vraie.
+
+1
+02:28:20,309 --> 02:28:22,569
+D'immenses salles pleines de trésors !
+
+1
+02:28:22,569 --> 02:28:23,899
+Vous imaginez ?
+
+1
+02:28:24,309 --> 02:28:26,659
+Le Seigneur des fontaines d'argent
+serait de retour ?
+
+1
+02:28:27,389 --> 02:28:29,469
+<i>Le Seigneur des fontaines d'argent</i>
+
+1
+02:28:30,109 --> 02:28:32,029
+<i>Le Roi de la pierre taillée</i>
+
+1
+02:28:34,399 --> 02:28:36,139
+<i>Le Roi sous la Montagne</i>
+
+1
+02:28:37,429 --> 02:28:39,259
+<i>Son bien va récupérer</i>
+
+1
+02:28:40,779 --> 02:28:44,839
+<i>Les cloches, avec allégresse</i>
+<i>Fêteront le retour du Roi</i>
+
+1
+02:28:45,509 --> 02:28:47,959
+<i>Mais tout ne sera que tristesse</i>
+
+1
+02:28:48,799 --> 02:28:51,349
+<i>Quand le lac luira et brûlera</i>
+
+1
+02:28:53,919 --> 02:28:55,729
+J'ai essayé de les retenir.
+
+1
+02:28:55,809 --> 02:28:57,479
+Depuis quand sont-ils partis ?
+
+1
+02:29:01,189 --> 02:29:03,109
+- Vous voyez quelque chose ?
+- Silence.
+
+1
+02:29:03,189 --> 02:29:06,069
+Dès que nous avons les armes,
+cap sur la Montagne.
+
+1
+02:29:06,069 --> 02:29:07,659
+Allez, allez !
+
+1
+02:29:11,949 --> 02:29:13,449
+Suivant.

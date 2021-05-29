@@ -1,0 +1,67 @@
+﻿1
+01:12:33,950 --> 01:12:36,830
+<i>♪ Dans la mine de Goblinville ♪</i>
+
+1
+01:12:36,910 --> 01:12:39,410
+<i>♪ Dans la mine de Goblinville ♪</i>
+
+1
+01:12:39,410 --> 01:12:42,580
+<i>♪ Que ça siffle, que ça crache ♪
+♪ Que l'on gifle et cravache ♪</i>
+
+1
+01:12:42,670 --> 01:12:45,590
+<i>♪ Que nul ne renâcle ♪
+♪ Quand on l'attache ♪</i>
+
+1
+01:12:45,590 --> 01:12:49,090
+<i>♪ Pilonne, pilonne ♪
+♪ En dessous du sol ♪</i>
+
+1
+01:12:49,170 --> 01:12:52,090
+<i>♪ Dans la mine de Goblinville ♪</i>
+
+1
+01:12:52,180 --> 01:12:55,050
+<i>♪ Dans la mine de Goblinville ♪</i>
+
+1
+01:12:55,050 --> 01:12:57,890
+<i>♪ Marteaux, tenailles ♪
+♪ Carcans, heurtoirs, cisailles ♪</i>
+
+1
+01:12:57,970 --> 01:13:02,980
+<i>♪ Plaintes et râles ♪
+♪ Quand ma pique vous empale ♪</i>
+
+1
+01:13:03,900 --> 01:13:05,650
+<i>♪ Chasse, casse ♪</i>
+
+1
+01:13:05,730 --> 01:13:06,980
+<i>♪ Creuse et fracasse ♪</i>
+
+1
+01:13:07,110 --> 01:13:09,780
+<i>♪ Grince, grogne ♪
+♪ Arrache et cogne ♪</i>
+
+1
+01:13:09,780 --> 01:13:14,160
+<i>♪ Que ça crie, que ça pleure ♪
+♪ Y aura pas d'sauveur ♪</i>
+
+1
+01:13:14,160 --> 01:13:19,660
+<i>♪ Pilonne, pilonne ♪
+♪ En dessous du sol ♪</i>
+
+1
+01:13:19,660 --> 01:13:28,630
+<i>♪ Dans la mine de Goblinville ♪</i>

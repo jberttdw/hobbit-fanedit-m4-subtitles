@@ -1,0 +1,16 @@
+﻿1
+04:00:27,419 --> 04:00:30,469
+Vous êtes quelqu'un de bien,
+M. Sacquet.
+
+1
+04:00:32,039 --> 04:00:33,719
+Je suis très attaché à vous.
+
+1
+04:00:35,909 --> 04:00:37,999
+Mais vous n'êtes qu'un petit bonhomme...
+
+1
+04:00:39,469 --> 04:00:42,309
+dans un vaste monde.

@@ -1,0 +1,219 @@
+﻿1
+03:23:32,329 --> 03:23:34,749
+Je logerai la prochaine entre vos yeux.
+
+1
+03:23:58,989 --> 03:24:01,069
+Nous venons vous annoncer
+
+1
+03:24:01,149 --> 03:24:04,449
+que le paiement de votre dette
+
+1
+03:24:04,449 --> 03:24:06,829
+a été accepté.
+
+1
+03:24:07,699 --> 03:24:09,659
+Quel paiement ?
+
+1
+03:24:09,749 --> 03:24:11,789
+Je ne vous ai rien donné.
+
+1
+03:24:11,869 --> 03:24:13,789
+Vous n'avez rien.
+
+1
+03:24:20,419 --> 03:24:22,339
+Nous avons ceci.
+
+1
+03:24:25,929 --> 03:24:27,889
+Ils ont l'Arkenstone.
+
+1
+03:24:28,849 --> 03:24:30,599
+Voleurs !
+
+1
+03:24:30,599 --> 03:24:33,899
+Comment avez-vous mis la main
+sur notre héritage ?
+
+1
+03:24:33,899 --> 03:24:36,309
+Cette pierre appartient au Roi !
+
+1
+03:24:37,229 --> 03:24:39,109
+Le Roi peut l'avoir...
+
+1
+03:24:39,189 --> 03:24:41,399
+si tel est notre souhait.
+
+1
+03:24:45,619 --> 03:24:49,619
+Mais d'abord,
+il doit honorer sa parole.
+
+1
+03:24:51,999 --> 03:24:53,789
+Ils se moquent de nous.
+
+1
+03:24:55,709 --> 03:24:58,209
+C'est une ruse.
+
+1
+03:24:58,209 --> 03:25:00,419
+Un mensonge éhonté.
+
+1
+03:25:01,549 --> 03:25:04,629
+L'Arkenstone est dans la Montagne !
+
+1
+03:25:04,719 --> 03:25:05,839
+C'est une duperie !
+
+1
+03:25:06,179 --> 03:25:08,639
+Pas du tout.
+
+1
+03:25:08,639 --> 03:25:10,809
+C'est la vraie pierre.
+
+1
+03:25:11,769 --> 03:25:13,309
+Je la leur ai donnée.
+
+1
+03:25:21,729 --> 03:25:23,319
+Vous ?
+
+1
+03:25:24,899 --> 03:25:27,159
+J'ai pris ma part du trésor.
+
+1
+03:25:28,989 --> 03:25:30,829
+Vous m'avez volé ?
+
+1
+03:25:30,829 --> 03:25:32,539
+Vous voler, non.
+
+1
+03:25:32,539 --> 03:25:36,619
+Je suis un cambrioleur,
+mais un cambrioleur honnête.
+
+1
+03:25:38,669 --> 03:25:41,339
+Je ne réclamerai rien d'autre.
+
+1
+03:25:41,379 --> 03:25:43,339
+Rien d'autre ?
+
+1
+03:25:44,799 --> 03:25:46,549
+Rien d'autre.
+
+1
+03:25:47,299 --> 03:25:51,179
+Tu n'as rien à me réclamer,
+misérable avorton !
+
+1
+03:25:53,059 --> 03:25:55,769
+Je comptais vous la donner.
+
+1
+03:25:55,769 --> 03:26:00,269
+- J'ai souvent essayé, mais...
+- Mais quoi, voleur ?
+
+1
+03:26:00,269 --> 03:26:03,149
+Vous avez changé, Thorin.
+
+1
+03:26:03,149 --> 03:26:08,029
+Le Nain que j'ai rencontré à Cul-de-Sac
+n'aurait jamais trahi sa parole.
+
+1
+03:26:08,109 --> 03:26:10,489
+Ni douté de la loyauté des siens !
+
+1
+03:26:11,279 --> 03:26:14,039
+Ne me parlez pas
+
+1
+03:26:14,119 --> 03:26:16,079
+de loyauté.
+
+1
+03:26:19,169 --> 03:26:21,669
+Jetez-le des remparts !
+
+1
+03:26:28,889 --> 03:26:30,679
+Vous êtes sourds ?
+
+1
+03:26:33,719 --> 03:26:37,059
+Je m'en charge !
+Soyez maudit !
+
+1
+03:26:37,889 --> 03:26:40,359
+Et maudit soit le Magicien
+qui vous a imposé à nous !
+
+1
+03:26:40,439 --> 03:26:44,729
+Si mon cambrioleur vous déplaît,
+ne l'abîmez pas, je vous en prie.
+
+1
+03:26:44,729 --> 03:26:47,739
+Rendez-le-moi !
+
+1
+03:26:50,949 --> 03:26:56,039
+Vous offrez une bien piètre image
+de Roi sous la Montagne,
+
+1
+03:26:56,039 --> 03:27:00,119
+n'est-ce pas, Thorin, fils de Thrain ?
+
+1
+03:27:06,799 --> 03:27:10,049
+J'en ai fini avec les Magiciens
+
+1
+03:27:10,129 --> 03:27:12,509
+et les charognes de la Comté !
+
+1
+03:27:16,719 --> 03:27:18,849
+Avons-nous votre accord ?
+
+1
+03:27:19,349 --> 03:27:22,519
+L'Arkenstone en échange
+de ce qui a été promis ?
+
+1
+03:27:32,369 --> 03:27:36,119
+Pourquoi devrais-je racheter
+ce qui me revient de droit ?

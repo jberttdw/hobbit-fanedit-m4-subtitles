@@ -1,0 +1,78 @@
+﻿1
+03:00:35,629 --> 03:00:37,879
+- Papa !
+- Viens là !
+
+1
+03:00:37,879 --> 03:00:39,379
+Tu es vivant !
+
+1
+03:00:39,919 --> 03:00:41,919
+Tout va bien.
+
+1
+03:00:45,179 --> 03:00:47,599
+C'est Barde qui a tué le Dragon !
+
+1
+03:00:47,679 --> 03:00:49,599
+Je l'ai vu de mes yeux !
+
+1
+03:00:49,599 --> 03:00:51,429
+Il a abattu la bête !
+
+1
+03:00:51,559 --> 03:00:53,889
+Avec une Flèche Noire !
+
+1
+03:00:56,189 --> 03:00:57,189
+Merci, Barde !
+
+1
+03:01:01,569 --> 03:01:03,029
+Tu nous as tous sauvés !
+
+1
+03:01:03,109 --> 03:01:04,319
+Soyez béni.
+
+1
+03:01:06,449 --> 03:01:09,869
+Gloire au Tueur du Dragon !
+
+1
+03:01:10,369 --> 03:01:13,449
+Gloire au Roi Barde !
+
+1
+03:01:15,459 --> 03:01:17,499
+Je l'ai toujours dit.
+
+1
+03:01:17,579 --> 03:01:20,379
+C'est un homme de noble lignée.
+
+1
+03:01:20,379 --> 03:01:23,049
+- Un chef-né !
+- Ne dis pas ça.
+
+1
+03:01:23,879 --> 03:01:25,759
+Je ne suis pas le Maître de la ville.
+
+1
+03:01:26,719 --> 03:01:28,049
+Où est-il ?
+
+1
+03:01:28,889 --> 03:01:31,809
+- Où est le Maître ?
+- Il est déjà loin, sur l'Anduin.
+
+1
+03:01:31,809 --> 03:01:33,309
+Avec tout notre argent, c'est sûr.

@@ -1,0 +1,11 @@
+﻿1
+02:53:24,359 --> 02:53:27,319
+Notre petit jeu s'arrête là.
+
+1
+02:53:27,409 --> 02:53:30,529
+Dis-moi, voleur,
+
+1
+02:53:30,619 --> 02:53:32,659
+comment souhaites-tu mourir ?

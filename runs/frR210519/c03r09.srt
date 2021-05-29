@@ -1,0 +1,65 @@
+﻿1
+01:02:01,110 --> 01:02:04,700
+Bien sûr que j'allais vous le dire.
+J'attendais l'occasion.
+
+1
+01:02:04,780 --> 01:02:08,160
+Je sais évidemment ce que je fais.
+
+1
+01:02:08,160 --> 01:02:12,750
+Vraiment ? Ce dragon dort depuis 60 ans.
+
+1
+01:02:12,750 --> 01:02:15,830
+Que se passera-t-il si votre plan échoue
+et que vous réveillez la bête ?
+
+1
+01:02:15,830 --> 01:02:17,920
+Et si nous réussissons ?
+
+1
+01:02:18,000 --> 01:02:20,000
+Si les Nains reprennent la Montagne,
+
+1
+01:02:20,000 --> 01:02:22,170
+nos défenses à l'Est
+seront renforcées.
+
+1
+01:02:22,170 --> 01:02:24,760
+C'est dangereux, Gandalf.
+
+1
+01:02:24,840 --> 01:02:26,800
+C'est aussi dangereux de ne rien faire.
+
+1
+01:02:26,800 --> 01:02:31,470
+Le trône d'Erebor lui revient de droit.
+Que craignez-vous ?
+
+1
+01:02:31,470 --> 01:02:33,270
+Avez-vous oublié ?
+
+1
+01:02:33,270 --> 01:02:37,060
+Il y a une prédisposition à la folie
+dans cette famille.
+
+1
+01:02:37,060 --> 01:02:38,560
+Son grand-père est devenu fou.
+
+1
+01:02:38,560 --> 01:02:41,360
+Son père a succombé à la même maladie.
+
+1
+01:02:41,360 --> 01:02:45,860
+Pouvez-vous jurer que Thorin Écu-de-Chêne
+n'en sera pas aussi atteint ?

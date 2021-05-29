@@ -1,0 +1,233 @@
+﻿1
+03:08:01,609 --> 03:08:04,159
+Seigneur Thranduil.
+
+1
+03:08:04,159 --> 03:08:07,279
+- Quelle surprise de vous voir ici.
+- J'ai eu vent de votre détresse.
+
+1
+03:08:35,439 --> 03:08:37,609
+Vous nous sauvez.
+
+1
+03:08:37,609 --> 03:08:41,529
+- Comment vous remercier ?
+- Votre gratitude est déplacée.
+
+1
+03:08:41,529 --> 03:08:43,489
+Ce n'est pas pour vous que je viens.
+
+1
+03:08:43,489 --> 03:08:47,199
+Je viens reprendre
+un bien qui m'appartient.
+
+1
+03:08:53,539 --> 03:08:57,919
+<i>La Montagne renferme aussi
+des gemmes que je désire.</i>
+
+1
+03:08:57,919 --> 03:09:01,209
+<i>Des gemmes blanches
+au pur éclat d'étoile.</i>
+
+1
+03:09:01,839 --> 03:09:04,509
+Les Gemmes Blanches de Lasgalen.
+
+1
+03:09:06,139 --> 03:09:09,139
+Je connais un Seigneur Elfe
+qui en donnera un bon prix.
+
+1
+03:09:15,059 --> 03:09:17,519
+Attendez !
+
+1
+03:09:20,109 --> 03:09:22,739
+Vous iriez en guerre
+pour quelques joyaux ?
+
+1
+03:09:22,819 --> 03:09:26,449
+Pas question de renoncer
+à l'héritage de mon peuple.
+
+1
+03:09:26,449 --> 03:09:28,909
+Nous sommes alliés.
+
+1
+03:09:29,779 --> 03:09:34,409
+Mon peuple aussi
+revendique ces richesses.
+
+1
+03:09:34,409 --> 03:09:36,709
+Laissez-moi parler à Thorin.
+
+1
+03:09:36,749 --> 03:09:39,209
+Vous tenteriez
+de raisonner le Nain ?
+
+1
+03:09:39,209 --> 03:09:41,629
+Pour éviter la guerre ?
+
+1
+03:09:41,709 --> 03:09:42,669
+Bien sûr.
+
+1
+03:09:47,379 --> 03:09:48,589
+Venez.
+
+1
+03:10:11,489 --> 03:10:14,239
+Salutations, Thorin, fils de Thrain !
+
+1
+03:10:14,329 --> 03:10:16,659
+C'est une joie inespérée
+de vous trouver en vie.
+
+1
+03:10:17,249 --> 03:10:21,539
+Pourquoi vous présentez-vous armés
+aux portes du Roi sous la Montagne ?
+
+1
+03:10:21,629 --> 03:10:25,129
+Pourquoi le Roi sous la Montagne
+se retranche-t-il tel un voleur
+
+1
+03:10:25,129 --> 03:10:27,419
+dans sa forteresse ?
+
+1
+03:10:28,089 --> 03:10:31,259
+Sans doute parce qu'il s'attend
+à ce qu'on le vole.
+
+1
+03:10:32,349 --> 03:10:34,139
+Seigneur...
+
+1
+03:10:34,219 --> 03:10:36,349
+Nous ne venons pas vous voler,
+
+1
+03:10:36,429 --> 03:10:38,599
+mais vous proposer un accord.
+
+1
+03:10:39,189 --> 03:10:41,059
+Me refuserez-vous audience ?
+
+1
+03:11:16,179 --> 03:11:17,519
+J'écoute.
+
+1
+03:11:18,599 --> 03:11:20,559
+Au nom des habitants de Lacville,
+
+1
+03:11:20,639 --> 03:11:22,729
+je vous demande
+d'honorer votre parole.
+
+1
+03:11:23,399 --> 03:11:26,899
+Une part du trésor
+pour leur permettre de se relever.
+
+1
+03:11:27,859 --> 03:11:30,609
+Je ne négocierai avec personne
+
+1
+03:11:30,699 --> 03:11:33,119
+tant qu'une armée est à ma porte.
+
+1
+03:11:33,119 --> 03:11:37,539
+Cette armée attaquera la Montagne
+faute d'accord entre nous.
+
+1
+03:11:38,409 --> 03:11:41,079
+Vos menaces ne m'impressionnent pas.
+
+1
+03:11:42,999 --> 03:11:44,919
+Et votre conscience ?
+
+1
+03:11:44,999 --> 03:11:47,799
+Ne vous dit-elle pas
+que notre demande est juste ?
+
+1
+03:11:49,089 --> 03:11:51,719
+Mon peuple vous a offert son aide.
+
+1
+03:11:53,049 --> 03:11:57,349
+En retour, vous ne lui avez apporté
+que ruine et désolation.
+
+1
+03:11:57,349 --> 03:12:00,769
+Les Hommes de Lacville ne nous sont venus
+en aide qu'à la seule promesse d'or.
+
+1
+03:12:00,769 --> 03:12:02,309
+Nous avions conclu un marché !
+
+1
+03:12:02,309 --> 03:12:04,059
+Un marché ?
+
+1
+03:12:04,059 --> 03:12:08,189
+Nous avons bradé notre bien
+contre des couvertures et des vivres !
+
+1
+03:12:08,279 --> 03:12:12,239
+Hypothéqué notre avenir
+contre notre liberté !
+
+1
+03:12:12,239 --> 03:12:14,239
+Vous appelez ça un marché équitable ?
+
+1
+03:12:16,619 --> 03:12:18,199
+Dis-moi,
+
+1
+03:12:18,289 --> 03:12:21,039
+Barde, Tueur de Dragon...
+
+1
+03:12:21,579 --> 03:12:24,039
+pourquoi honorerais-je un tel contrat ?
+
+1
+03:12:26,249 --> 03:12:29,549
+Vous nous avez donné votre parole.
+
+1
+03:12:32,629 --> 03:12:34,589
+Cela n'a-t-il donc aucune valeur ?
