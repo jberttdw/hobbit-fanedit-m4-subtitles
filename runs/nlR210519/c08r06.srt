@@ -1,0 +1,37 @@
+﻿1
+02:01:28,229 --> 02:01:30,579
+Geen wind.
+
+1
+02:01:31,749 --> 02:01:34,169
+Geen vogels.
+
+1
+02:01:34,249 --> 02:01:36,629
+Hoe laat is het?
+
+1
+02:01:38,089 --> 02:01:39,879
+Ik weet het niet.
+
+1
+02:01:40,969 --> 02:01:43,719
+Ik weet niet eens welke dag het is.
+
+1
+02:01:47,519 --> 02:01:50,269
+Dit duurt veel te lang.
+
+1
+02:01:51,729 --> 02:01:55,739
+Komt er dan geen eind
+aan dit vervloekte bos?
+
+1
+02:01:55,829 --> 02:01:57,639
+Ik zie geen uitgang.
+
+1
+02:01:58,549 --> 02:02:01,189
+Alleen maar bomen
+en nog meer bomen.
