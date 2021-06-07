@@ -15,7 +15,7 @@ Vous devriez rentrer.
 À l'abri du vent.
 
 1
-03:18:18,479 --> 03:18:21,569
+03:18:18,429 --> 03:18:22,183
 J'avais besoin d'air.
 Ça empeste le dragon à l'intérieur.
 
@@ -30,7 +30,7 @@ La bataille sera finie
 d'ici demain soir.
 
 1
-03:18:37,369 --> 03:18:40,169
+03:18:37,239 --> 03:18:40,826
 Mais je doute que nous serons
 vivants pour y assister.
 
@@ -43,7 +43,7 @@ Nous vivons des jours sombres.
 En effet.
 
 1
-03:18:53,559 --> 03:18:56,639
+03:18:53,464 --> 03:18:56,639
 On ne pourrait vous blâmer
 de vouloir être ailleurs.
 
@@ -56,7 +56,7 @@ Minuit approche.
 Bombur a la prochaine garde.
 
 1
-03:19:07,439 --> 03:19:09,319
+03:19:07,439 --> 03:19:10,564
 Ça va prendre un peu de temps
 pour le réveiller.
 

@@ -24,7 +24,7 @@ ni les plus malins.
 Qui tu traites de nigaud ?
 
 1
-00:18:02,430 --> 00:18:04,270
+00:18:02,430 --> 00:18:05,097
 Nous sommes peut-être peu nombreux,
 
 1
@@ -63,11 +63,8 @@ Allez, dites un nombre.
 S'il vous plaît.
 
 1
-00:18:34,420 --> 00:18:35,880
+00:18:34,420 --> 00:18:38,550
 Nous ne sommes pas les seuls
-
-1
-00:18:35,880 --> 00:18:38,550
 à avoir lu ces signes.
 
 1
@@ -156,12 +153,12 @@ Une porte Naine close est invisible.
 Cette carte détient la réponse,
 
 1
-00:20:00,510 --> 00:20:02,720
+00:20:00,510 --> 00:20:03,147
 mais je n'ai pas le pouvoir
 de la déchiffrer.
 
 1
-00:20:02,800 --> 00:20:06,010
+00:20:03,230 --> 00:20:06,010
 En Terre du Milieu, d'autres l'ont.
 
 1
@@ -250,8 +247,8 @@ ce qui nous donne un net avantage.
 
 1
 00:21:22,010 --> 00:21:26,590
-Vous m'avez chargé de trouver un quatorzième.
-J'ai choisi M. Sacquet.
+Vous m'avez chargé de trouver
+un quatorzième, et j'ai choisi M. Sacquet.
 
 1
 00:21:27,090 --> 00:21:29,850
@@ -285,23 +282,16 @@ Comme vous voudrez.
 - On est partis.
 
 1
-00:21:53,200 --> 00:21:54,200
+00:21:53,200 --> 00:21:58,080
 Le contrat classique :
-
-1
-00:21:54,290 --> 00:21:56,370
-faux frais, durée,
-
-1
-00:21:56,460 --> 00:21:58,080
-rémunération,
+faux frais, durée, rémunération,
 
 1
 00:21:58,080 --> 00:22:00,090
 dispositions funéraires, etc.
 
 1
-00:22:01,170 --> 00:22:02,460
+00:22:01,170 --> 00:22:03,113
 Dispositions funéraires ?
 
 1
@@ -332,11 +322,11 @@ Cela semble honnête.
 1
 00:22:27,400 --> 00:22:30,620
 "La Compagnie décline toute responsabilité
-en cas de blessures infligées
 
 1
 00:22:30,620 --> 00:22:36,040
-"ou consécutives, lacérations...
+"en cas de blessures infligées
+ou consécutives, lacérations...
 
 1
 00:22:37,620 --> 00:22:39,000
@@ -412,12 +402,8 @@ couvert de boue,
 de brindilles et de lucioles.
 
 1
-00:23:42,060 --> 00:23:44,150
-Un jeune Hobbit
-qui rêvait de s'aventurer
-
-1
-00:23:44,230 --> 00:23:48,780
+00:23:42,060 --> 00:23:48,780
+Un jeune Hobbit qui rêvait de s'aventurer
 au-delà des frontières de la Comté.
 
 1
@@ -446,10 +432,11 @@ Vous êtes aussi un Touque.
 1
 00:24:07,250 --> 00:24:10,420
 Savez-vous qu'un de vos aïeux,
-Taureau Rugissant, était si énorme
+Taureau Rugissant,
 
 1
 00:24:10,510 --> 00:24:13,680
+était si énorme
 qu'il montait un vrai cheval ?
 
 1
@@ -457,12 +444,12 @@ qu'il montait un vrai cheval ?
 Véridique !
 
 1
-00:24:15,680 --> 00:24:18,720
+00:24:15,680 --> 00:24:18,914
 À la Bataille des Champs Verts,
 il chargea les Gobelins.
 
 1
-00:24:18,810 --> 00:24:22,850
+00:24:18,916 --> 00:24:22,850
 D'un puissant coup de massue,
 il décapita le roi Gobelin.
 
@@ -494,7 +481,7 @@ Vous en aurez une ou deux à raconter
 à votre retour.
 
 1
-00:24:51,300 --> 00:24:53,550
+00:24:51,300 --> 00:24:54,201
 Pouvez-vous me promettre
 que je reviendrai ?
 
@@ -746,12 +733,9 @@ dans la Compagnie
 de Thorin Écu-de-Chêne.
 
 1
-00:31:41,960 --> 00:31:43,080
-Donnez-lui un poney.
-
-1
-00:31:43,630 --> 00:31:45,130
-Pas besoin.
+00:31:41,960 --> 00:31:45,130
+- Donnez-lui un poney.
+- Pas besoin.
 
 1
 00:31:45,130 --> 00:31:47,420

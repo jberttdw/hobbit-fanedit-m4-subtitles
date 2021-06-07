@@ -21,24 +21,21 @@ sont innombrables.
 On peut en fortifier certaines.
 
 1
-03:37:46,189 --> 03:37:48,059
+03:37:46,189 --> 03:37:48,765
 Les rendre sûres, imprenables.
 
 1
-03:37:53,529 --> 03:37:55,489
+03:37:53,520 --> 03:37:55,480
 C'est ça.
 
 1
-03:37:55,489 --> 03:37:57,319
-Il faut déplacer l'or dans
-les profondeurs.
+03:37:55,489 --> 03:37:58,191
+Il faut déplacer l'or
+dans les profondeurs.
 
 1
-03:37:57,319 --> 03:37:59,489
+03:37:58,274 --> 03:38:01,369
 Tu n'as pas entendu ?
-
-1
-03:37:59,489 --> 03:38:01,369
 Dain est encerclé.
 
 1
@@ -50,7 +47,7 @@ Ils vont se faire massacrer.
 C'est la guerre.
 
 1
-03:38:08,579 --> 03:38:10,089
+03:38:08,534 --> 03:38:10,662
 Une vie a bien peu de valeur.
 
 1

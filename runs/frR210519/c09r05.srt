@@ -99,12 +99,9 @@ Je vous libérerai
 si vous me rendez ce qui m'appartient.
 
 1
-02:12:33,539 --> 02:12:35,079
-Un échange de bons procédés.
-
-1
-02:12:35,159 --> 02:12:37,369
-Vous avez ma parole.
+02:12:33,539 --> 02:12:37,369
+- Un échange de bons procédés.
+- Vous avez ma parole.
 
 1
 02:12:37,459 --> 02:12:39,959
@@ -128,7 +125,7 @@ la fin des temps fût-elle proche !
 Vous,
 
 1
-02:12:55,349 --> 02:12:57,389
+02:12:55,349 --> 02:12:57,679
 qui n'avez nul sens de l'honneur !
 
 1

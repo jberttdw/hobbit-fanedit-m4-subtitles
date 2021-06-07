@@ -16,7 +16,7 @@ Vous faites partie de la Compagnie.
 Vous êtes des nôtres.
 
 1
-01:08:28,120 --> 01:08:29,500
+01:08:28,120 --> 01:08:30,106
 Mais non, justement.
 
 1
@@ -24,7 +24,7 @@ Mais non, justement.
 Thorin a eu raison de me désavouer.
 
 1
-01:08:35,130 --> 01:08:38,090
+01:08:35,130 --> 01:08:38,573
 Je suis un Sacquet, pas un Touque.
 Je me suis trompé.
 
@@ -68,7 +68,7 @@ Je vous souhaite bonne chance.
 Sincèrement.
 
 1
-01:09:31,770 --> 01:09:32,560
+01:09:31,770 --> 01:09:33,252
 C'est quoi ça ?
 
 1

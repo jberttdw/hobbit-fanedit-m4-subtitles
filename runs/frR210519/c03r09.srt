@@ -1,5 +1,5 @@
 ﻿1
-01:02:01,110 --> 01:02:04,700
+01:02:01,051 --> 01:02:04,700
 Bien sûr que j'allais vous le dire.
 J'attendais l'occasion.
 
@@ -12,13 +12,14 @@ Je sais évidemment ce que je fais.
 Vraiment ? Ce dragon dort depuis 60 ans.
 
 1
-01:02:12,750 --> 01:02:15,830
-Que se passera-t-il si votre plan échoue
-et que vous réveillez la bête ?
+01:02:12,750 --> 01:02:14,729
+Que se passera-t-il
+si votre plan échoue
 
 1
-01:02:15,830 --> 01:02:17,920
-Et si nous réussissons ?
+01:02:14,731 --> 01:02:17,920
+- et que vous réveillez la bête ?
+- Et si nous réussissons ?
 
 1
 01:02:18,000 --> 01:02:20,000
@@ -52,11 +53,8 @@ Il y a une prédisposition à la folie
 dans cette famille.
 
 1
-01:02:37,060 --> 01:02:38,560
+01:02:37,060 --> 01:02:41,360
 Son grand-père est devenu fou.
-
-1
-01:02:38,560 --> 01:02:41,360
 Son père a succombé à la même maladie.
 
 1

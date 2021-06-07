@@ -29,11 +29,8 @@ On ne va pas se battre ?
 J'ai dit, restez où vous êtes !
 
 1
-03:31:55,039 --> 03:31:56,089
+03:31:55,039 --> 03:31:57,959
 Les Elfes.
-
-1
-03:31:56,589 --> 03:31:57,959
 Ils ne vont pas combattre ?
 
 1
@@ -45,13 +42,9 @@ Thranduil ! C'est de la folie !
 Chargez !
 
 1
-03:32:58,939 --> 03:33:00,229
+03:32:58,725 --> 03:33:01,819
 Gandalf ?
-
-1
-03:33:00,319 --> 03:33:01,819
-Est-ce bien raisonnable
-de rester ici ?
+Est-ce bien raisonnable de rester ici ?
 
 1
 03:33:02,329 --> 03:33:04,779

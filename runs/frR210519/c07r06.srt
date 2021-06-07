@@ -185,11 +185,8 @@ Nous avons eu des ennuis
 avec les Gobelins dans les montagnes.
 
 1
-01:51:01,840 --> 01:51:03,840
+01:51:01,840 --> 01:51:05,590
 Pourquoi avoir approché les Gobelins ?
-
-1
-01:51:03,840 --> 01:51:05,590
 Quelle bêtise !
 
 1

@@ -95,6 +95,6 @@ On dirait qu'ils portent chance.
 Pensez-vous donc
 
 1
-04:00:20,619 --> 04:00:24,749
+04:00:20,619 --> 04:00:25,537
 que toutes vos aventures et évasions
 n'ont été qu'une question de chance ?

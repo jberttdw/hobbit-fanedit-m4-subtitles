@@ -30,7 +30,7 @@ Ce n'est pas la seule chose
 que je vais écraser !
 
 1
-01:14:27,270 --> 01:14:30,400
+01:14:27,270 --> 01:14:31,092
 Pour des informations,
 c'est à moi qu'il faut parler.
 
@@ -45,17 +45,18 @@ Tout bien considéré,
 c'était plutôt une piste.
 
 1
-01:14:42,830 --> 01:14:46,080
+01:14:42,830 --> 01:14:46,078
 Toujours est-il qu'on était
 sur la route, le sentier, la piste.
 
 1
 01:14:46,080 --> 01:14:48,880
 Puis on ne l'était plus,
-parce qu'on devait être
+et c'est un problème
 
 1
 01:14:48,960 --> 01:14:52,300
+parce qu'on devait être
 au Pays de Dun mardi dernier.
 
 1

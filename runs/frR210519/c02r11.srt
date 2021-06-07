@@ -154,7 +154,7 @@ Quoi ?
 Il a des vers dans les boyaux.
 
 1
-00:46:05,450 --> 00:46:08,530
+00:46:05,054 --> 00:46:08,530
 En fait, ils en ont tous.
 Ils sont infestés de parasites.
 

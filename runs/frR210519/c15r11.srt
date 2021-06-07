@@ -1,11 +1,7 @@
 ﻿1
-03:16:53,769 --> 03:16:56,979
+03:16:53,677 --> 03:16:57,979
 Oubliez vos petits désaccords
-avec les Nains.
-
-1
-03:16:56,979 --> 03:16:57,979
-La guerre est proche !
+avec les Nains. La guerre est proche !
 
 1
 03:16:57,979 --> 03:17:02,529

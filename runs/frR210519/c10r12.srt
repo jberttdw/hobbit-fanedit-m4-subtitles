@@ -9,6 +9,9 @@ Vous tous !
 1
 02:32:06,079 --> 02:32:07,379
 Vous devez m'écouter !
+
+1
+02:32:07,379 --> 02:32:09,830
 Avez-vous oublié le sort de Dale ?
 
 1

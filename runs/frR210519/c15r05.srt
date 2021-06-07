@@ -3,7 +3,7 @@
 Parfait.
 
 1
-03:06:16,759 --> 03:06:18,969
+03:06:16,666 --> 03:06:18,969
 Sécurisez cette forteresse
 d'ici l'aube !
 

@@ -41,7 +41,7 @@ Piètre trophée
 Un jour, il poussera.
 
 1
-03:04:58,969 --> 03:05:01,179
+03:04:58,969 --> 03:05:01,379
 En le regardant, je me rappellerai.
 
 1
@@ -50,7 +50,7 @@ Tout ce qui est arrivé.
 Le bon comme le mauvais.
 
 1
-03:05:06,439 --> 03:05:09,519
+03:05:06,439 --> 03:05:09,974
 Et la chance que j'ai eu
 d'avoir pu rentrer chez moi.
 

@@ -3,7 +3,7 @@
 Quel silence.
 
 1
-02:34:35,319 --> 02:34:37,109
+02:34:35,319 --> 02:34:37,519
 Il n'en a pas toujours été ainsi.
 
 1
@@ -20,7 +20,7 @@ Les arbres bruissaient de chants d'oiseaux.
 Détendez-vous, M. Sacquet.
 
 1
-02:34:53,999 --> 02:34:57,669
+02:34:53,999 --> 02:34:58,369
 Nous avons des vivres, des outils
 et nous avançons à bonne allure.
 
@@ -45,7 +45,7 @@ La désolation de Smaug.
 Le soleil est proche du zénith.
 
 1
-02:35:23,449 --> 02:35:25,989
+02:35:23,449 --> 02:35:26,776
 Il nous faut trouver
 la porte secrète avant son coucher.
 

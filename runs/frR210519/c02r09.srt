@@ -7,12 +7,9 @@ Fichtre !
 Bert, regarde ce qui est sorti de mon pif !
 
 1
-00:41:32,380 --> 00:41:34,300
-Ça a des bras, des jambes et tout !
-
-1
-00:41:34,760 --> 00:41:36,300
-C'est quoi ?
+00:41:32,380 --> 00:41:36,300
+- Ça a des bras, des jambes et tout !
+- C'est quoi ?
 
 1
 00:41:36,300 --> 00:41:38,930

@@ -8,22 +8,18 @@
 Rien ici.
 
 1
-03:02:25,779 --> 03:02:28,649
+03:02:25,779 --> 03:02:28,522
 - Cherchez.
 - Elle peut être n'importe où.
 
 1
-03:02:28,649 --> 03:02:30,819
+03:02:28,605 --> 03:02:31,462
 L'Arkenstone est dans ces salles.
+Trouvez-la !
 
 1
-03:02:30,819 --> 03:02:32,369
-- Trouvez-la !
-- Vous avez entendu ?
-
-1
-03:02:32,449 --> 03:02:35,659
-- Cherchez !
+03:02:31,441 --> 03:02:35,659
+- Vous avez entendu ? Cherchez !
 - Tous !
 
 1

@@ -8,7 +8,7 @@ Ne bougez pas.
 Restez tranquille.
 
 1
-03:51:49,359 --> 03:51:50,359
+03:51:49,359 --> 03:51:51,440
 Je suis content de vous voir.
 
 1
@@ -41,19 +41,19 @@ J'étais aveugle.
 
 1
 03:52:17,469 --> 03:52:19,599
-Je suis désolé...
+Je suis désolé
 
 1
 03:52:19,729 --> 03:52:22,309
 de vous avoir infligé ces épreuves.
 
 1
-03:52:23,229 --> 03:52:26,439
+03:52:23,229 --> 03:52:26,433
 Je me réjouis de les avoir
 affrontées à vos côtés, Thorin.
 
 1
-03:52:26,439 --> 03:52:28,569
+03:52:26,517 --> 03:52:28,569
 Toutes, sans exception.
 
 1
@@ -62,7 +62,7 @@ Un Sacquet n'en mérite pas tant.
 
 1
 03:52:38,949 --> 03:52:40,579
-Adieu...
+Adieu,
 
 1
 03:52:40,659 --> 03:52:43,039
@@ -109,7 +109,7 @@ Thorin. Vous n'avez pas le droit.
 Tenez bon, Thorin.
 
 1
-03:53:32,509 --> 03:53:33,799
+03:53:32,501 --> 03:53:33,791
 Tenez bon.
 
 1

@@ -53,13 +53,13 @@ Où est la viande ?
 Ils ont des frites ?
 
 1
-00:57:11,900 --> 00:57:14,070
+00:57:11,900 --> 00:57:14,014
 Merci de nous recevoir.
 
 1
-00:57:14,160 --> 00:57:15,820
+00:57:14,097 --> 00:57:16,099
 Je ne suis pas en tenue pour dîner.
 
 1
-00:57:15,950 --> 00:57:17,990
+00:57:16,183 --> 00:57:17,990
 Vous ne l'êtes jamais.

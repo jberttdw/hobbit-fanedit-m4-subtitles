@@ -12,7 +12,7 @@ J'ai passé toute ma vie sur ces eaux,
 M. le Nain.
 
 1
-02:21:10,929 --> 02:21:13,889
+02:21:10,929 --> 02:21:14,289
 Si je voulais vous noyer,
 je ne le ferais pas ici.
 
@@ -52,12 +52,12 @@ Allez, les gars.
 Retournez vos poches.
 
 1
-02:21:36,999 --> 02:21:38,749
+02:21:36,999 --> 02:21:39,081
 Comment savons-nous
 qu'il ne nous trahira pas ?
 
 1
-02:21:38,749 --> 02:21:40,169
+02:21:39,083 --> 02:21:40,169
 On ne sait pas.
 
 1
@@ -115,7 +115,7 @@ L'argent, vite !
 On paiera à la livraison, pas avant.
 
 1
-02:22:27,379 --> 02:22:29,799
+02:22:27,379 --> 02:22:30,584
 Si vous tenez à la liberté, obtempérez.
 
 1

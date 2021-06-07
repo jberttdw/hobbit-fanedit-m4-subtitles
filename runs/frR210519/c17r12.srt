@@ -3,12 +3,12 @@
 Les Orcs déferlent sur le pont !
 
 1
-03:34:47,009 --> 03:34:50,179
+03:34:46,875 --> 03:34:50,179
 Les archers, au rempart Est !
 Retenez-les le plus longtemps possible !
 
 1
-03:34:50,219 --> 03:34:52,599
+03:34:50,253 --> 03:34:52,547
 Archers ! Suivez-moi !
 
 1

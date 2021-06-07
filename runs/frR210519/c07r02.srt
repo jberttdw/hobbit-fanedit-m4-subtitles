@@ -1,10 +1,11 @@
 ﻿1
-01:44:37,410 --> 01:44:38,540
-La horde est proche ?
+01:44:37,410 --> 01:44:39,682
+- La horde est proche ?
+- Trop proche.
 
 1
-01:44:38,540 --> 01:44:42,460
-Trop proche. À deux lieues, pas plus.
+01:44:39,683 --> 01:44:42,460
+À deux lieues, pas plus.
 Mais il y a pire.
 
 1
@@ -32,12 +33,8 @@ Discret comme une souris.
 L'étoffe d'un cambrioleur.
 
 1
-01:44:54,300 --> 01:44:56,470
-Voulez-vous bien m'écouter
-
-1
-01:44:56,560 --> 01:44:57,220
-une seconde ?
+01:44:54,300 --> 01:44:57,220
+Voulez-vous bien m'écouter une seconde ?
 
 1
 01:44:57,220 --> 01:45:00,770

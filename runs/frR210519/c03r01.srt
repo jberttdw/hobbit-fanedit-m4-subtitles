@@ -7,12 +7,9 @@ Gandalf.
 Où sommes-nous ?
 
 1
-00:51:59,760 --> 00:52:00,880
-Vous le sentez ?
-
-1
-00:52:00,880 --> 00:52:04,260
-Oui, on dirait...
+00:51:59,760 --> 00:52:04,260
+- Vous le sentez ?
+- Oui, on dirait...
 
 1
 00:52:05,640 --> 00:52:06,720
@@ -72,12 +69,13 @@ Vous pensez que les Elfes
 encourageront notre Quête ?
 
 1
-00:53:32,930 --> 00:53:34,560
-Ils voudront nous en détourner.
+00:53:32,930 --> 00:53:36,213
+- Ils voudront nous en détourner.
+- Certes.
 
 1
-00:53:34,560 --> 00:53:39,690
-Certes. Mais il nous faut
+00:53:36,296 --> 00:53:39,690
+Mais il nous faut
 des réponse à nos questions.
 
 1

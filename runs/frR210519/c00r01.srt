@@ -1,4 +1,5 @@
 ﻿1
 00:00:16,820 --> 00:00:20,950
-<font color="#e08344">Synchronisation : Eric Odmyr
+<font color="#e08344">Synchronisation : Eric Odmyr, JBert
 Traduction : Ugo</font>
+

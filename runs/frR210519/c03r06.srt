@@ -71,11 +71,8 @@ Bien sûr.
 On passe aisément à côté.
 
 1
-00:59:51,400 --> 00:59:52,730
+00:59:51,400 --> 00:59:55,610
 Vous ne croyez pas si bien dire.
-
-1
-00:59:52,730 --> 00:59:55,610
 Elles n'apparaissent que sous une lune
 
 1
@@ -98,12 +95,12 @@ sous un premier quartier de lune,
 il y a près de deux cent ans.
 
 1
-01:00:15,340 --> 01:00:18,130
+01:00:15,340 --> 01:00:18,949
 On dirait que c'est le destin
 qui vous a mené à Fondcombe.
 
 1
-01:00:19,090 --> 01:00:21,300
+01:00:19,032 --> 01:00:21,300
 Le sort vous sourit,
 Thorin Écu-de-Chêne.
 
@@ -132,12 +129,12 @@ Le Nouvel An Nain.
 Quand la dernière lune d'automne
 
 1
-01:01:01,800 --> 01:01:04,760
+01:01:01,800 --> 01:01:04,909
 et le premier soleil d'hiver
 sont ensemble dans le ciel.
 
 1
-01:01:04,760 --> 01:01:06,970
+01:01:04,911 --> 01:01:06,970
 C'est fâcheux.
 
 1

@@ -1,9 +1,6 @@
 ﻿1
-02:02:16,719 --> 02:02:19,089
+02:02:16,719 --> 02:02:21,009
 Je ne me souviens pas de cet endroit.
-
-1
-02:02:19,159 --> 02:02:21,009
 Ça ne me dit rien.
 
 1
@@ -15,7 +12,7 @@ Le chemin est forcément par là.
 Il ne peut pas avoir disparu !
 
 1
-02:02:26,619 --> 02:02:28,469
+02:02:26,619 --> 02:02:28,634
 À moins qu'on ne l'ait déplacé.
 
 1
@@ -43,11 +40,11 @@ Des Nains des Montagnes Bleues.
 C'est la même que la mienne.
 
 1
-02:03:10,099 --> 02:03:13,139
+02:03:10,099 --> 02:03:13,051
 C'est la vôtre. Vous comprenez ?
 
 1
-02:03:13,139 --> 02:03:15,059
+02:03:13,053 --> 02:03:15,059
 On tourne en rond. On est perdus.
 
 1

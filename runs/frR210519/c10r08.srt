@@ -7,11 +7,11 @@ On a payé pour des armes.
 Des épées et des haches forgées.
 
 1
-02:26:49,349 --> 02:26:50,359
+02:26:49,349 --> 02:26:51,011
 C'est une plaisanterie !
 
 1
-02:26:52,149 --> 02:26:54,769
+02:26:52,054 --> 02:26:54,769
 Vous ne trouverez mieux qu'à l'arsenal.
 
 1
@@ -28,9 +28,6 @@ Thorin...
 Prenons le tout et partons.
 
 1
-02:27:01,609 --> 02:27:03,109
+02:27:01,609 --> 02:27:04,119
 J'ai fait avec moins que ça.
-
-1
-02:27:03,109 --> 02:27:04,119
 Toi aussi.

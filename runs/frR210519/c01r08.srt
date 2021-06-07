@@ -7,7 +7,7 @@ Dwalin, pour vous servir.
 Bilbon Sacquet, votre serviteur.
 
 1
-00:07:52,490 --> 00:07:53,860
+00:07:52,430 --> 00:07:53,860
 Nous connaissons-nous ?
 
 1
@@ -24,11 +24,11 @@ Ici ?
 Quoi, ici ?
 
 1
-00:08:03,040 --> 00:08:03,920
+00:08:02,941 --> 00:08:03,920
 Le souper.
 
 1
-00:08:04,670 --> 00:08:07,040
+00:08:04,670 --> 00:08:07,487
 Il a dit qu'il y aurait plein à manger.
 
 1
@@ -87,7 +87,7 @@ tu es plus court et plus large
 que la dernière fois.
 
 1
-00:09:19,030 --> 00:09:20,620
+00:09:19,030 --> 00:09:21,227
 Plus large, pas plus court.
 
 1
@@ -118,13 +118,13 @@ Mais j'aime les connaître
 avant leur visite.
 
 1
-00:09:49,980 --> 00:09:51,070
+00:09:49,980 --> 00:09:52,342
 - C'est quoi ?
-- Je sais pas.
+- Je sais pas, du fromage ?
 
 1
-00:09:51,110 --> 00:09:54,530
-- Du fromage. Tout bleu.
+00:09:52,425 --> 00:09:54,530
+- Tout bleu.
 - Y a du moisi.
 
 1
@@ -159,21 +159,17 @@ Excuses acceptées.
 Pour vous servir.
 
 1
-00:10:22,260 --> 00:10:24,520
+00:10:22,260 --> 00:10:27,001
 - M. Soquette, je suppose.
-- N'entrez pas.
+- N'entrez pas. Ce n'est pas ici.
 
 1
-00:10:24,600 --> 00:10:27,140
-Ce n'est pas ici.
-
-1
-00:10:27,230 --> 00:10:29,310
+00:10:27,085 --> 00:10:29,963
 - C'est annulé ?
 - On n'a pas été prévenus.
 
 1
-00:10:29,310 --> 00:10:33,520
+00:10:30,046 --> 00:10:33,520
 - Annulé ? Non !
 - Quel soulagement.
 
@@ -255,16 +251,13 @@ Mon poulet.
 Mon vin. S'il vous plaît !
 
 1
-00:11:44,850 --> 00:11:46,970
+00:11:44,746 --> 00:11:46,970
 Il est blessé.
 
 1
-00:11:47,720 --> 00:11:49,270
-Ils ont frappé fort ?
-
-1
-00:11:49,350 --> 00:11:51,980
-Mort ? Non, seulement entre les oreilles.
+00:11:47,720 --> 00:11:51,980
+- Ils ont frappé fort ?
+- Mort ? Non, seulement entre les oreilles.
 
 1
 00:11:52,230 --> 00:11:54,310

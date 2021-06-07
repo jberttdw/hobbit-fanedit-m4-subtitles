@@ -12,22 +12,18 @@ L'achèteriez-vous
 avec le sang des Nains ?
 
 1
-03:20:28,779 --> 03:20:30,439
+03:20:28,779 --> 03:20:30,395
 On n'en arrivera pas là.
 
 1
-03:20:30,439 --> 03:20:33,449
+03:20:30,397 --> 03:20:33,449
 - Ils ne peuvent pas gagner.
 - Ça ne les arrêtera pas.
 
 1
-03:20:33,949 --> 03:20:36,619
+03:20:33,856 --> 03:20:38,619
 Les Nains ne se rendront pas.
-
-1
-03:20:36,619 --> 03:20:38,619
-Ils défendront leur bien
-jusqu'à la mort.
+Ils défendront leur bien jusqu'à la mort.
 
 1
 03:20:38,619 --> 03:20:40,369
@@ -83,15 +79,12 @@ De quel droit... ?
 J'ai pris mon quatorzième du trésor.
 
 1
-03:21:22,369 --> 03:21:23,499
+03:21:22,369 --> 03:21:24,999
 Pourquoi ?
-
-1
-03:21:23,909 --> 03:21:24,999
 Vous ne nous devez rien.
 
 1
-03:21:24,999 --> 03:21:26,959
+03:21:25,291 --> 03:21:27,013
 Je ne le fais pas pour vous.
 
 1
@@ -113,11 +106,11 @@ et incroyablement mal élevés.
 
 1
 03:21:39,049 --> 03:21:42,219
-Mais ils sont aussi courageux,
+Mais ils sont aussi courageux, bons,
 
 1
-03:21:43,729 --> 03:21:45,229
-bons et excessivement loyaux.
+03:21:43,729 --> 03:21:45,886
+et excessivement loyaux.
 
 1
 03:21:46,689 --> 03:21:50,189
@@ -126,7 +119,8 @@ et voudrais les sauver.
 
 1
 03:21:50,979 --> 03:21:54,569
-Pour Thorin, cette pierre compte plus que tout.
+Pour Thorin,
+cette pierre compte plus que tout.
 
 1
 03:21:54,569 --> 03:21:58,739
@@ -138,11 +132,8 @@ qu'il vous donnera votre dû.
 Nul besoin de guerre.
 
 1
-03:22:06,959 --> 03:22:08,369
+03:22:06,959 --> 03:22:10,339
 Reposez-vous maintenant.
-
-1
-03:22:08,369 --> 03:22:10,339
 Vous partirez demain.
 
 1
@@ -156,16 +147,16 @@ Vous m'avez choisi comme quatorzième.
 Je ne peux quitter la Compagnie.
 
 1
-03:22:16,759 --> 03:22:18,839
+03:22:16,759 --> 03:22:18,625
 Il n'y a plus de Compagnie.
 
 1
-03:22:18,839 --> 03:22:21,599
-Je n'ose imaginer la fureur de Thorin
-quand il se rendra compte de votre larcin.
+03:22:18,627 --> 03:22:21,670
+Pense de la fureur de Thorin
+quand il apprend de votre larcin.
 
 1
-03:22:21,599 --> 03:22:23,309
+03:22:21,672 --> 03:22:23,309
 Je n'ai pas peur de Thorin.
 
 1
@@ -181,7 +172,7 @@ Ne sous-estimez pas l'influence de l'or.
 L'or qu'un reptile a longtemps couvé.
 
 1
-03:22:32,189 --> 03:22:36,899
+03:22:32,189 --> 03:22:37,479
 Le Mal du Dragon envahit le cœur de
 tous ceux qui s'approchent de la Montagne.
 

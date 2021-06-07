@@ -1,6 +1,6 @@
 ﻿1
 01:28:16,060 --> 01:28:19,560
-Je connais cette épée !
+Cette épée !
 C'est le Fendoir à Gobelins !
 
 1

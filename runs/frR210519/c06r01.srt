@@ -73,16 +73,12 @@ Je le croyais avec Dori !
 Je l'ai vu filer quand on nous a capturés.
 
 1
-01:34:54,620 --> 01:34:56,210
-Que s'est-il passé ?
+01:34:54,620 --> 01:34:56,689
+Que s'est-il passé ? Parlez.
 
 1
-01:34:56,210 --> 01:34:58,000
-- Parlez.
-- Je vais vous dire ce qu'il s'est passé.
-
-1
-01:34:58,630 --> 01:35:01,380
+01:34:56,691 --> 01:35:01,380
+Je vais vous dire ce qu'il s'est passé.
 M. Sacquet a saisi sa chance !
 
 1
@@ -110,7 +106,7 @@ Faux.
 Bilbon Sacquet.
 
 1
-01:35:33,910 --> 01:35:36,580
+01:35:33,910 --> 01:35:37,232
 Je n'ai jamais été aussi ravi
 de voir quelqu'un.
 
@@ -119,9 +115,6 @@ de voir quelqu'un.
 Bilbon, on n'y croyait plus.
 
 1
-01:35:40,750 --> 01:35:42,630
-Comment avez-vous fui les Gobelins ?
-
-1
-01:35:42,630 --> 01:35:44,420
-Oui, comment ?
+01:35:40,750 --> 01:35:44,420
+- Comment avez-vous fui les Gobelins ?
+- Oui, comment ?

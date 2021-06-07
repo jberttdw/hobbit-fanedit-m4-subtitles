@@ -71,12 +71,9 @@ Allez, c'est bon.
 Ça suffit, les politesses.
 
 1
-02:19:31,329 --> 02:19:32,369
-Vous êtes pressé ?
-
-1
-02:19:32,459 --> 02:19:34,249
-Ça vous regarde ?
+02:19:31,329 --> 02:19:34,249
+- Vous êtes pressé ?
+- Ça vous regarde ?
 
 1
 02:19:34,289 --> 02:19:36,669
@@ -101,11 +98,8 @@ dans les Monts de Fer.
 De simples marchands ?
 
 1
-02:19:48,599 --> 02:19:49,719
+02:19:48,599 --> 02:19:51,979
 Il nous faut des vivres,
-
-1
-02:19:49,719 --> 02:19:51,979
 du matériel, des armes.
 
 1
@@ -162,9 +156,6 @@ Oui.
 Mais pour ça...
 
 1
-02:20:32,639 --> 02:20:34,019
-il vous faudrait un passeur.
-
-1
-02:20:34,099 --> 02:20:36,019
-Pour lequel nous paierons double.
+02:20:32,639 --> 02:20:37,104
+- il vous faudrait un passeur.
+- Pour lequel nous paierons double.

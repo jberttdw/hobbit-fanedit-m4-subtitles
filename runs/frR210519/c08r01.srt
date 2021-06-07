@@ -59,12 +59,12 @@ Quoi qu'il arrive,
 restez sur le sentier !
 
 1
-01:57:37,809 --> 01:57:41,099
+01:57:37,809 --> 01:57:41,764
 Partons. Il nous faut y être
 avant la fin du Jour de Durin.
 
 1
-01:57:42,689 --> 01:57:45,109
+01:57:42,689 --> 01:57:46,352
 C'est notre seule chance
 de trouver la porte secrète.
 
@@ -109,6 +109,6 @@ Ce ruisseau est soumis à un charme.
 Moi, je ne lui trouve aucun charme.
 
 1
-01:59:12,069 --> 01:59:14,779
+01:59:12,069 --> 01:59:15,482
 Il nous faut trouver
 un autre moyen de traverser.

@@ -3,11 +3,8 @@
 Pied-d'Acier.
 
 1
-03:29:13,549 --> 03:29:14,629
+03:29:13,549 --> 03:29:16,719
 Qui est-ce ?
-
-1
-03:29:15,469 --> 03:29:16,719
 Il n'a pas l'air commode.
 
 1
@@ -87,13 +84,14 @@ Nul besoin de guerre
 entre Nains, Hommes et Elfes.
 
 1
-03:30:21,779 --> 03:30:24,619
+03:30:21,779 --> 03:30:25,906
 Une légion d'Orcs approche.
+Retirez-vous !
 
 1
-03:30:24,619 --> 03:30:28,869
-- Retirez-vous !
-- Pas question de me retirer devant un Elfe.
+03:30:25,989 --> 03:30:28,869
+Pas question de me retirer
+devant un Elfe.
 
 1
 03:30:29,539 --> 03:30:32,589

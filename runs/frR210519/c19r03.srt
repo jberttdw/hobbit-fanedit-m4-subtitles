@@ -1,10 +1,10 @@
 ﻿1
-04:01:29,399 --> 04:01:32,529
+04:01:29,350 --> 04:01:32,645
 Attendez une minute.
 C'est le coffre de mariage de ma mère.
 
 1
-04:01:32,529 --> 04:01:35,029
+04:01:32,729 --> 04:01:35,029
 Et ça, c'est ma chaise.
 
 1
@@ -16,11 +16,8 @@ Posez ce pouf !
 Que se passe-t-il ?
 
 1
-04:01:40,409 --> 04:01:42,119
+04:01:40,409 --> 04:01:44,289
 Bonjour, M. Bilbon.
-
-1
-04:01:42,619 --> 04:01:44,289
 Vous n'êtes pas censé être là.
 
 1
@@ -92,14 +89,13 @@ Lobelia Sacquet de Besace.
 C'est chez moi, ici !
 
 1
-04:02:27,329 --> 04:02:29,999
+04:02:27,331 --> 04:02:30,001
 Et ça, ce sont mes cuillers.
 Merci bien.
 
 1
 04:02:30,089 --> 04:02:31,799
-- C'est illicite.
-- Excusez-moi.
+C'est illicite.
 
 1
 04:02:31,919 --> 04:02:35,589

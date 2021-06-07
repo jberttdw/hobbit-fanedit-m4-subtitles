@@ -3,7 +3,7 @@
 Vous n'avez pas le droit...
 
 1
-02:32:49,499 --> 02:32:51,339
+02:32:49,499 --> 02:32:52,789
 Vous n'avez pas le droit
 d'entrer dans la Montagne.
 

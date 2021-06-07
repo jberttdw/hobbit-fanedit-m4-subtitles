@@ -7,7 +7,7 @@ Attrapez ma main !
 J'ai cru notre cambrioleur perdu.
 
 1
-01:06:37,510 --> 01:06:40,010
+01:06:37,510 --> 01:06:40,663
 Il est perdu
 depuis qu'il a quitté sa maison.
 

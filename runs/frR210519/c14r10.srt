@@ -61,18 +61,15 @@ C'est un homme de noble lignée.
 - Ne dis pas ça.
 
 1
-03:01:23,879 --> 03:01:25,759
+03:01:23,879 --> 03:01:26,626
 Je ne suis pas le Maître de la ville.
 
 1
-03:01:26,719 --> 03:01:28,049
+03:01:26,719 --> 03:01:29,880
 Où est-il ?
+Où est le Maître ?
 
 1
-03:01:28,889 --> 03:01:31,809
-- Où est le Maître ?
-- Il est déjà loin, sur l'Anduin.
-
-1
-03:01:31,809 --> 03:01:33,309
-Avec tout notre argent, c'est sûr.
+03:01:29,963 --> 03:01:33,309
+Il est déjà loin, sur l'Anduin.
+Avec tout notre argent.

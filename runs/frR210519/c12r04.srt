@@ -11,12 +11,12 @@ dans les Ombres.
 Je ne viens pas vous voler,
 
 1
-02:49:20,369 --> 02:49:23,909
+02:49:20,369 --> 02:49:23,819
 ô Smaug aux Incommensurables Richesses.
 
 1
-02:49:23,909 --> 02:49:26,369
-Je voulais simplement pouvoir
+02:49:23,821 --> 02:49:26,824
+Je voulais simplement
 admirer votre magnificence.
 
 1
@@ -114,12 +114,9 @@ Inventeur d'Énigmes.
 Charmants titres.
 
 1
-02:51:02,889 --> 02:51:04,299
-Continue.
-
-1
-02:51:04,389 --> 02:51:05,349
-Monteur de Tonneau.
+02:51:02,889 --> 02:51:05,349
+- Continue.
+- Monteur de Tonneau.
 
 1
 02:51:05,349 --> 02:51:09,599

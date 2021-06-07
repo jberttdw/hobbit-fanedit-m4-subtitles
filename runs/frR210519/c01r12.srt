@@ -106,7 +106,8 @@ Ils ne viendront pas.
 
 1
 00:16:34,800 --> 00:16:38,430
-Ils disent que c'est notre Quête exclusivement.
+Ils disent que
+c'est notre Quête exclusivement.
 
 1
 00:16:40,890 --> 00:16:42,890
@@ -139,7 +140,7 @@ se dresse un pic isolé.
 
 1
 00:17:07,130 --> 00:17:10,250
-Oin a lu les présages. 
+Oin a lu les présages.
 
 1
 00:17:10,340 --> 00:17:13,800

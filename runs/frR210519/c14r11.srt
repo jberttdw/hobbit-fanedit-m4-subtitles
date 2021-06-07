@@ -21,12 +21,9 @@ Ceux qui en ont la force,
 suivez-moi.
 
 1
-03:01:46,489 --> 03:01:47,949
-Sauvons ce qui peut l'être !
-
-1
-03:01:48,029 --> 03:01:50,029
-Et ensuite ?
+03:01:46,489 --> 03:01:50,029
+- Sauvons ce qui peut l'être !
+- Et ensuite ?
 
 1
 03:01:54,289 --> 03:01:56,249

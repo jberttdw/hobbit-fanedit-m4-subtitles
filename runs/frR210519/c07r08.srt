@@ -72,7 +72,7 @@ Ils sont moins sages et plus dangereux.
 Mais peu importe.
 
 1
-01:53:51,670 --> 01:53:52,680
+01:53:51,534 --> 01:53:52,680
 Que voulez-vous dire ?
 
 1
@@ -110,7 +110,7 @@ Aveugles à toute vie qu'ils jugent
 moins précieuse que la leur.
 
 1
-01:54:29,050 --> 01:54:31,210
+01:54:28,904 --> 01:54:31,866
 Mais les Orcs,
 je les hais davantage encore.
 

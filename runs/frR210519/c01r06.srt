@@ -16,11 +16,8 @@
 - Dans quel sens ?
 
 1
-00:03:10,080 --> 00:03:11,370
+00:03:10,080 --> 00:03:16,130
 Me souhaiter le bonjour ?
-
-1
-00:03:11,370 --> 00:03:16,130
 Affirmer que c'est un jour faste ?
 
 1
@@ -173,5 +170,5 @@ Merci. Ni aujourd'hui, ni...
 Essayez au-delà de la Colline ou de l'Eau.
 
 1
-00:05:31,340 --> 00:05:32,460
+00:05:31,340 --> 00:05:32,560
 Bonjour chez vous.

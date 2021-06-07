@@ -1,10 +1,10 @@
 ﻿1
-02:13:51,369 --> 02:13:53,909
+02:13:51,369 --> 02:13:54,485
 Galion, vieux fripon,
 on n'a plus rien à boire.
 
 1
-02:13:54,699 --> 02:13:57,749
+02:13:54,569 --> 02:13:57,749
 Ces tonneaux vides
 auraient déjà dû repartir à Esgaroth.
 
@@ -55,12 +55,12 @@ Bilbon !
 Chut ! Les gardes sont tout près !
 
 1
-02:14:46,799 --> 02:14:48,459
+02:14:46,799 --> 02:14:49,879
 Fermez les portes.
 On aura de l'avance.
 
 1
-02:15:00,889 --> 02:15:02,519
+02:15:00,889 --> 02:15:03,012
 - L'escalier.
 - Toi d'abord !
 
@@ -102,12 +102,9 @@ Par ici !
 Grimpez dans les tonneaux, vite !
 
 1
-02:15:44,559 --> 02:15:46,359
-Vous êtes fou ? Ils nous trouveront.
-
-1
-02:15:46,439 --> 02:15:48,109
-Non, je vous le promets.
+02:15:44,559 --> 02:15:48,109
+- Vous êtes fou ? Ils nous trouveront.
+- Non, je vous le promets.
 
 1
 02:15:48,189 --> 02:15:51,989
@@ -126,7 +123,7 @@ Tout le monde y est.
 Et maintenant ?
 
 1
-02:16:18,509 --> 02:16:20,389
+02:16:18,421 --> 02:16:21,257
 - Retenez votre souffle.
 - Pardon ?
 

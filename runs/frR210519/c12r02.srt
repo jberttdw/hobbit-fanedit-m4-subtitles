@@ -34,7 +34,7 @@ Je ne sais pas
 ce que vous trouverez en bas.
 
 1
-02:42:21,909 --> 02:42:25,159
+02:42:21,800 --> 02:42:25,157
 Vous n'êtes pas obligé d'y aller.
 Il n'y a aucune honte à reculer.
 

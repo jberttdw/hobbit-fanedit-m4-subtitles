@@ -7,7 +7,7 @@ Vous n'êtes pas avec vos compagnons ?
 Non, on ne me regrettera pas.
 
 1
-01:03:42,670 --> 01:03:46,590
+01:03:42,569 --> 01:03:46,590
 En vérité, la plupart d'entre eux
 pensent que je ne devrais pas être là.
 

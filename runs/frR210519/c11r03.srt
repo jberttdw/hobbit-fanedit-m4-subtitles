@@ -11,7 +11,7 @@ La porte secrète !
 Que tous ceux qui ont douté de nous
 
 1
-02:36:54,039 --> 02:36:55,329
+02:36:54,039 --> 02:36:56,032
 s'en mordent les doigts !
 
 1
@@ -23,7 +23,7 @@ Bon, alors... On a une clé.
 Donc, quelque part...
 
 1
-02:37:08,049 --> 02:37:09,179
+02:37:08,049 --> 02:37:10,046
 il doit y avoir une serrure.
 
 1
@@ -72,12 +72,9 @@ Allez !
 Ouvre-toi !
 
 1
-02:37:59,689 --> 02:38:00,979
-Il faut qu'elle s'ouvre.
-
-1
-02:38:00,979 --> 02:38:02,519
-Ça ne sert à rien.
+02:37:59,689 --> 02:38:02,519
+- Il faut qu'elle s'ouvre.
+- Ça ne sert à rien.
 
 1
 02:38:02,519 --> 02:38:05,189
@@ -101,5 +98,5 @@ illuminera la serrure."
 C'est ce qui est écrit.
 
 1
-02:38:40,479 --> 02:38:42,229
+02:38:40,479 --> 02:38:42,847
 Qu'est-ce qui nous a échappé ?

@@ -4,11 +4,11 @@ Vous êtes quelqu'un de bien,
 M. Sacquet.
 
 1
-04:00:32,039 --> 04:00:33,719
+04:00:32,039 --> 04:00:34,087
 Je suis très attaché à vous.
 
 1
-04:00:35,909 --> 04:00:37,999
+04:00:35,909 --> 04:00:39,342
 Mais vous n'êtes qu'un petit bonhomme...
 
 1

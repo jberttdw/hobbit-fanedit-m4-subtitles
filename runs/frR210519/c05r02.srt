@@ -50,13 +50,17 @@ Sacquet ?
 Qu'est-ce qu'un Sacquet, mon précieux ?
 
 1
-01:18:14,460 --> 01:18:18,710
+01:18:14,460 --> 01:18:18,510
 Je suis un Hobbit, de la Comté.
 
 1
-01:18:18,840 --> 01:18:24,010
-Nous aimons Gobelins, chauves-souris,
-poissons, mais n'avons jamais goûté au Hobbit.
+01:18:18,611 --> 01:18:21,446
+Nous aimons Gobelins,
+chauves-souris, poissons,
+
+1
+01:18:21,447 --> 01:18:24,010
+mais n'avons jamais goûté au Hobbit.
 
 1
 01:18:25,260 --> 01:18:28,260
@@ -372,7 +376,7 @@ Nous en avons une pour vous.
 Répondez-nous.
 
 1
-01:23:42,240 --> 01:23:45,830
+01:23:42,240 --> 01:23:46,130
 Excusez-moi. Un instant.
 Je vous ai accordé un long délai.
 
@@ -394,12 +398,9 @@ Est-ce goûteux ?
 Est-ce savoureux ?
 
 1
-01:24:00,470 --> 01:24:01,720
-Est-ce croustillant ?
-
-1
-01:24:02,260 --> 01:24:03,430
-Je réfléchis.
+01:24:00,470 --> 01:24:03,430
+- Est-ce croustillant ?
+- Je réfléchis.
 
 1
 01:24:03,850 --> 01:24:04,970

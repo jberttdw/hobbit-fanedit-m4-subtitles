@@ -1,10 +1,10 @@
 ﻿1
 03:08:01,609 --> 03:08:04,159
-Seigneur Thranduil.
+Seigneur Thranduil. Quelle surprise
 
 1
 03:08:04,159 --> 03:08:07,279
-- Quelle surprise de vous voir ici.
+- de vous voir ici.
 - J'ai eu vent de votre détresse.
 
 1
@@ -12,12 +12,12 @@ Seigneur Thranduil.
 Vous nous sauvez.
 
 1
-03:08:37,609 --> 03:08:41,529
+03:08:37,609 --> 03:08:41,311
 - Comment vous remercier ?
 - Votre gratitude est déplacée.
 
 1
-03:08:41,529 --> 03:08:43,489
+03:08:41,394 --> 03:08:43,489
 Ce n'est pas pour vous que je viens.
 
 1
@@ -40,7 +40,7 @@ au pur éclat d'étoile.</i>
 Les Gemmes Blanches de Lasgalen.
 
 1
-03:09:06,139 --> 03:09:09,139
+03:09:06,139 --> 03:09:09,923
 Je connais un Seigneur Elfe
 qui en donnera un bon prix.
 
@@ -49,7 +49,7 @@ qui en donnera un bon prix.
 Attendez !
 
 1
-03:09:20,109 --> 03:09:22,739
+03:09:20,016 --> 03:09:22,739
 Vous iriez en guerre
 pour quelques joyaux ?
 
@@ -89,11 +89,11 @@ Bien sûr.
 Venez.
 
 1
-03:10:11,489 --> 03:10:14,239
+03:10:11,489 --> 03:10:14,153
 Salutations, Thorin, fils de Thrain !
 
 1
-03:10:14,329 --> 03:10:16,659
+03:10:14,237 --> 03:10:17,156
 C'est une joie inespérée
 de vous trouver en vie.
 
@@ -105,14 +105,14 @@ aux portes du Roi sous la Montagne ?
 1
 03:10:21,629 --> 03:10:25,129
 Pourquoi le Roi sous la Montagne
-se retranche-t-il tel un voleur
+se retranche-t-il
 
 1
 03:10:25,129 --> 03:10:27,419
-dans sa forteresse ?
+tel un voleur dans sa forteresse ?
 
 1
-03:10:28,089 --> 03:10:31,259
+03:10:28,089 --> 03:10:31,459
 Sans doute parce qu'il s'attend
 à ce qu'on le vole.
 
@@ -129,7 +129,7 @@ Nous ne venons pas vous voler,
 mais vous proposer un accord.
 
 1
-03:10:39,189 --> 03:10:41,059
+03:10:39,189 --> 03:10:41,459
 Me refuserez-vous audience ?
 
 1
@@ -141,7 +141,7 @@ J'écoute.
 Au nom des habitants de Lacville,
 
 1
-03:11:20,639 --> 03:11:22,729
+03:11:20,639 --> 03:11:23,306
 je vous demande
 d'honorer votre parole.
 
@@ -172,7 +172,7 @@ Vos menaces ne m'impressionnent pas.
 Et votre conscience ?
 
 1
-03:11:44,999 --> 03:11:47,799
+03:11:44,999 --> 03:11:48,372
 Ne vous dit-elle pas
 que notre demande est juste ?
 
@@ -187,16 +187,13 @@ que ruine et désolation.
 
 1
 03:11:57,349 --> 03:12:00,769
-Les Hommes de Lacville ne nous sont venus
+Vous ne nous sont venus
 en aide qu'à la seule promesse d'or.
 
 1
-03:12:00,769 --> 03:12:02,309
-Nous avions conclu un marché !
-
-1
-03:12:02,309 --> 03:12:04,059
-Un marché ?
+03:12:00,769 --> 03:12:04,059
+- Nous avions conclu un marché !
+- Un marché ?
 
 1
 03:12:04,059 --> 03:12:08,189
@@ -209,7 +206,7 @@ Hypothéqué notre avenir
 contre notre liberté !
 
 1
-03:12:12,239 --> 03:12:14,239
+03:12:12,239 --> 03:12:14,739
 Vous appelez ça un marché équitable ?
 
 1
@@ -229,5 +226,5 @@ pourquoi honorerais-je un tel contrat ?
 Vous nous avez donné votre parole.
 
 1
-03:12:32,629 --> 03:12:34,589
+03:12:32,629 --> 03:12:35,169
 Cela n'a-t-il donc aucune valeur ?

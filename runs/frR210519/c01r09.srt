@@ -32,7 +32,7 @@ Dwalin, Balin...
 Bifur, Bofur, Bombur...
 
 1
-00:12:19,210 --> 00:12:21,800
+00:12:19,210 --> 00:12:22,634
 - Dori, Nori... Ori!
 - Pas mes tomates de concours !
 
@@ -41,11 +41,11 @@ Bifur, Bofur, Bombur...
 Vous avez raison, Bifur.
 
 1
-00:12:29,310 --> 00:12:31,730
+00:12:29,207 --> 00:12:31,728
 Il semble qu'un Nain manque à l'appel.
 
 1
-00:12:31,730 --> 00:12:36,690
+00:12:31,730 --> 00:12:37,423
 Juste en retard. Il revient d'une réunion
 de notre clan dans le Nord. Il va arriver.
 

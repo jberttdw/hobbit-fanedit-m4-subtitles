@@ -36,9 +36,13 @@ Je me souviens.
 du Peuple de Durin.
 
 1
-02:40:58,739 --> 02:41:06,709
+02:40:58,739 --> 02:41:01,777
 Puisse le Cœur de la Montagne unir
-tous les Nains dans la défense de ces lieux."
+
+1
+02:41:01,778 --> 02:41:06,709
+tous les Nains dans la
+défense de ces lieux."
 
 1
 02:41:07,419 --> 02:41:09,669
@@ -65,6 +69,6 @@ Et qu'est-ce que c'est ?
 Ça, Maître Cambrioleur,
 
 1
-02:41:33,859 --> 02:41:36,359
+02:41:33,859 --> 02:41:37,105
 c'est la raison
 de votre présence parmi nous.

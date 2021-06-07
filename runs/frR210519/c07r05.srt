@@ -27,7 +27,7 @@ Parfois, un homme grand et fort.
 L'ours est imprévisible,
 
 1
-01:46:47,960 --> 01:46:50,420
+01:46:47,960 --> 01:46:50,998
 mais l'homme peut entendre raison.
 Néanmoins,
 
@@ -53,11 +53,8 @@ C'est évident, il est
 sous l'emprise d'un maléfice.
 
 1
-01:47:06,600 --> 01:47:07,850
+01:47:06,600 --> 01:47:10,270
 Ne dites pas de bêtises.
-
-1
-01:47:07,940 --> 01:47:10,270
 Il est maître de son sortilège.
 
 1

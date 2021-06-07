@@ -33,17 +33,13 @@ mal en point.
 Comme si une maladie l'affectait.
 
 1
-01:56:02,759 --> 01:56:04,549
+01:56:02,743 --> 01:56:04,533
 Ne peut-on pas la contourner ?
 
 1
-01:56:04,629 --> 01:56:06,929
-Pas sans rajouter
-deux cent milles vers le nord.
-
-1
-01:56:06,929 --> 01:56:09,259
-Ou deux fois plus...
+01:56:04,629 --> 01:56:09,296
+Pas sans rajouter deux cent milles
+vers le nord. Ou deux fois plus...
 
 1
 01:56:10,429 --> 01:56:12,059
