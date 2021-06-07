@@ -49,7 +49,7 @@ for ($i = $index.Count - 1; $i -ge 0; $i--) {
 }
 
 #$index | ForEach-Object {
-#    Write-Host "Index $($_.Run) - $($_.Start.ToString("hh:mm:ss,fff")) - $($_.End.ToString("hh:mm:ss,fff"))"
+#    Write-Host "Index $($_.Run) - $($_.Start.ToString("HH:mm:ss,fff")) - $($_.End.ToString("HH:mm:ss,fff"))"
 #}
 
 $reader = $null

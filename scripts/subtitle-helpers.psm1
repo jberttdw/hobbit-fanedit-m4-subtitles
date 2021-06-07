@@ -166,6 +166,9 @@ function Get-NextSubtitle ([System.IO.TextReader] $reader) {
         }
         $line = $reader.ReadLine()
     }
+    if ($nextSubtitle) {
+        return $nextSubtitle
+    }
 }
 
 function Write-Subtitles ($subtitles, $fileName) {
