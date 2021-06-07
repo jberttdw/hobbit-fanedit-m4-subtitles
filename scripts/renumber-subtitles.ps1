@@ -4,12 +4,17 @@
 param (
     # Patterns of files to look for - can be used to give just a handful of filenames
     [parameter()]
-    [string[]] $patterns = "*.srt"
+    [string[]] $patterns = "*.srt",
+    # Whether we should use incrementing numbers, otherwise everything is reset to number 1 for easier diffing
+    [parameter()]
+    [switch]
+    [bool] $unique
 )
 
 function Convert-SubRipFile {
     param (
-        $file
+        $file,
+        $uniqueNumber
     )
     $lines = Get-Content -Encoding UTF8 $file
     $number = 1
@@ -20,8 +25,12 @@ function Convert-SubRipFile {
             Write-Output $line
             $nextRealLineIsNumber = $true
         } elseif ($nextRealLineIsNumber) {
-            Write-Output $number
-            $number++
+            if ($uniqueNumber) {
+                Write-Output $number
+                $number++
+            } else {
+                Write-Output 1
+            }
             $nextRealLineIsNumber = $false
         } else {
             Write-Output $line
@@ -31,4 +40,4 @@ function Convert-SubRipFile {
 
 $subtitleFiles = Get-ChildItem $patterns
 
-$subtitleFiles | % { Convert-SubRipFile $_ | Set-Content -Encoding UTF8 $_ ; Write-Host "Updated file $_" }
+$subtitleFiles | % { Convert-SubRipFile $_ $unique | Set-Content -Encoding UTF8 $_ ; Write-Host "Updated file $_" }
