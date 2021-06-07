@@ -5,3 +5,7 @@ Ga...
 1
 01:54:50,980 --> 01:54:53,280
 het is nu nog licht.
+
+1
+01:54:55,920 --> 01:54:58,570
+Jullie jagers zijn niet ver meer.
