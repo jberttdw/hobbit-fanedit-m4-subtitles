@@ -62,7 +62,7 @@ Quel dommage !
 
 1
 03:14:11,149 --> 03:14:13,189
-Mais vous aurez essayé.
+Vous aurez essayé.
 
 1
 03:14:13,279 --> 03:14:15,779
