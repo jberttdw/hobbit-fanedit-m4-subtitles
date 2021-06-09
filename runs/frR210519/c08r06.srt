@@ -1,0 +1,35 @@
+﻿1
+02:01:28,229 --> 02:01:30,579
+Ni vent,
+
+1
+02:01:31,749 --> 02:01:34,169
+ni chants d'oiseaux.
+
+1
+02:01:34,249 --> 02:01:36,629
+Quelle heure est-il ?
+
+1
+02:01:38,089 --> 02:01:39,879
+Aucune idée.
+
+1
+02:01:40,969 --> 02:01:43,719
+J'ignore même quel jour on est.
+
+1
+02:01:47,519 --> 02:01:50,269
+Ça prend trop longtemps.
+
+1
+02:01:51,729 --> 02:01:55,739
+Cette maudite forêt est-elle sans fin ?
+
+1
+02:01:55,829 --> 02:01:57,639
+Je n'en vois pas.
+
+1
+02:01:58,549 --> 02:02:01,189
+Des arbres, toujours des arbres !

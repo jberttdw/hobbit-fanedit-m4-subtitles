@@ -1,0 +1,44 @@
+﻿1
+01:03:33,120 --> 01:03:35,950
+Vous n'êtes pas avec vos compagnons ?
+
+1
+01:03:36,040 --> 01:03:39,670
+Non, on ne me regrettera pas.
+
+1
+01:03:42,569 --> 01:03:46,590
+En vérité, la plupart d'entre eux
+pensent que je ne devrais pas être là.
+
+1
+01:03:47,590 --> 01:03:49,050
+Vraiment ?
+
+1
+01:03:50,340 --> 01:03:53,220
+On dit que les Hobbits
+sont très résilients.
+
+1
+01:03:56,930 --> 01:03:57,850
+Vraiment ?
+
+1
+01:04:04,150 --> 01:04:08,740
+On dit aussi qu'ils chérissent
+le confort du foyer.
+
+1
+01:04:12,030 --> 01:04:14,950
+On dit qu'il faut éviter
+les conseils des Elfes.
+
+1
+01:04:14,950 --> 01:04:17,660
+Qu'ils répondent par oui et par non.
+
+1
+01:04:26,630 --> 01:04:30,510
+Vous pouvez rester ici
+si vous le désirez.

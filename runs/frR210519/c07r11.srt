@@ -1,0 +1,11 @@
+﻿1
+01:56:41,379 --> 01:56:43,589
+Pas mon cheval ! J'en ai besoin.
+
+1
+01:56:45,040 --> 01:56:46,379
+Vous nous quittez ?
+
+1
+01:56:46,379 --> 01:56:49,089
+J'y suis contraint.

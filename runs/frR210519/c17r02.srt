@@ -1,0 +1,36 @@
+﻿1
+03:27:37,369 --> 03:27:38,699
+J'en ai assez entendu.
+
+1
+03:27:47,629 --> 03:27:49,919
+Thorin, déposez les armes.
+
+1
+03:27:51,299 --> 03:27:53,049
+Ouvrez ces portes.
+
+1
+03:27:53,469 --> 03:27:56,759
+Ce trésor causera votre perte.
+
+1
+03:27:57,269 --> 03:28:00,979
+Thorin, nous ne pouvons
+gagner cette bataille.
+
+1
+03:28:10,819 --> 03:28:12,569
+Votre réponse ?
+
+1
+03:28:13,869 --> 03:28:15,699
+Aurez-vous la paix...
+
+1
+03:28:17,199 --> 03:28:18,869
+ou la guerre ?
+
+1
+03:28:30,009 --> 03:28:33,089
+La guerre.

@@ -1,0 +1,159 @@
+﻿1
+02:11:07,579 --> 02:11:09,039
+Arrêtez !
+
+1
+02:11:09,619 --> 02:11:10,909
+C'est inutile !
+
+1
+02:11:10,909 --> 02:11:13,169
+Ce n'est pas un cachot d'Orc.
+
+1
+02:11:13,499 --> 02:11:16,249
+Ce sont les Salles
+du Royaume des Forêts.
+
+1
+02:11:16,339 --> 02:11:20,299
+Nul ne sort d'ici
+sans le consentement du roi.
+
+1
+02:11:24,679 --> 02:11:28,639
+On pourrait croire
+qu'il s'agit d'une noble quête.
+
+1
+02:11:28,639 --> 02:11:31,519
+Une quête pour reconquérir une terre
+
+1
+02:11:32,139 --> 02:11:34,559
+et occire un dragon.
+
+1
+02:11:35,189 --> 02:11:39,109
+Pour ma part,
+je flaire un mobile plus prosaïque.
+
+1
+02:11:39,979 --> 02:11:42,489
+Une tentative de cambriolage,
+
+1
+02:11:42,569 --> 02:11:44,859
+quelque chose de cet acabit.
+
+1
+02:11:47,779 --> 02:11:50,159
+Vous avez trouvé un accès.
+
+1
+02:11:50,159 --> 02:11:55,209
+Vous cherchez ce qui vous conférerait
+le droit de régner.
+
+1
+02:11:55,209 --> 02:11:57,169
+Le Joyau du Roi.
+
+1
+02:11:57,879 --> 02:12:00,629
+L'Arkenstone.
+
+1
+02:12:01,589 --> 02:12:04,839
+Il vous est précieux,
+plus que toute autre chose.
+
+1
+02:12:05,889 --> 02:12:08,549
+Je comprends cela.
+
+1
+02:12:08,549 --> 02:12:12,389
+La Montagne renferme aussi
+des gemmes que je désire.
+
+1
+02:12:13,559 --> 02:12:17,229
+Des gemmes blanches,
+au pur éclat d'étoile.
+
+1
+02:12:17,939 --> 02:12:20,109
+Je vous offre mon aide.
+
+1
+02:12:23,239 --> 02:12:24,699
+J'écoute.
+
+1
+02:12:24,699 --> 02:12:27,619
+Je vous libérerai
+
+1
+02:12:27,659 --> 02:12:30,199
+si vous me rendez ce qui m'appartient.
+
+1
+02:12:33,539 --> 02:12:37,369
+- Un échange de bons procédés.
+- Vous avez ma parole.
+
+1
+02:12:37,459 --> 02:12:39,959
+De roi à roi.
+
+1
+02:12:44,089 --> 02:12:47,219
+Je doute fort que Thranduil...
+
+1
+02:12:47,839 --> 02:12:49,389
+le grand roi,
+
+1
+02:12:49,389 --> 02:12:53,139
+tienne parole,
+la fin des temps fût-elle proche !
+
+1
+02:12:54,099 --> 02:12:55,269
+Vous,
+
+1
+02:12:55,349 --> 02:12:57,679
+qui n'avez nul sens de l'honneur !
+
+1
+02:12:58,519 --> 02:13:01,189
+J'ai vu comment vous traitez vos amis.
+
+1
+02:13:01,189 --> 02:13:05,109
+Nous sommes venus autrefois,
+affamés, sans logis,
+
+1
+02:13:05,109 --> 02:13:06,779
+implorant votre aide.
+
+1
+02:13:06,779 --> 02:13:09,739
+Mais vous vous êtes détourné.
+
+1
+02:13:09,739 --> 02:13:13,579
+Vous avez ignoré
+les souffrances de mon peuple
+
+1
+02:13:13,579 --> 02:13:15,959
+et l'horreur qui s'abattit sur nous !
+
+1
+02:13:16,059 --> 02:13:17,829
+Brûle en enfer !

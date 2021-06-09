@@ -1,0 +1,25 @@
+﻿1
+00:01:36,170 --> 00:01:38,360
+<i>Dans un trou</i>
+
+1
+00:01:38,460 --> 00:01:40,860
+<i>vivait un Hobbit.</i>
+
+1
+00:01:42,790 --> 00:01:48,500
+<i>Pas un vilain trou sale, humide,
+plein de vers et d'odeurs de moisi.</i>
+
+1
+00:01:48,510 --> 00:01:50,710
+<i>C'était un trou de Hobbit.</i>
+
+1
+00:01:50,800 --> 00:01:55,330
+<i>Ce qui signifie bonne chère,
+flambée dans l'âtre</i>
+
+1
+00:01:56,590 --> 00:01:59,430
+<i>et tout le confort domestique.</i>

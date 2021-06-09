@@ -1,0 +1,74 @@
+﻿1
+02:39:54,969 --> 02:39:56,299
+Erebor.
+
+1
+02:39:57,139 --> 02:39:59,139
+Thorin.
+
+1
+02:40:11,439 --> 02:40:14,029
+Je reconnais ces murs.
+
+1
+02:40:17,159 --> 02:40:19,329
+Ces couloirs.
+
+1
+02:40:21,699 --> 02:40:23,539
+Cette roche.
+
+1
+02:40:27,169 --> 02:40:29,629
+Tu te souviens, Balin ?
+
+1
+02:40:32,759 --> 02:40:36,049
+Des salles emplies de lumière dorée.
+
+1
+02:40:37,179 --> 02:40:38,759
+Je me souviens.
+
+1
+02:40:51,779 --> 02:40:56,909
+"Ici se trouve le Septième Royaume
+du Peuple de Durin.
+
+1
+02:40:58,739 --> 02:41:01,777
+Puisse le Cœur de la Montagne unir
+
+1
+02:41:01,778 --> 02:41:06,709
+tous les Nains dans la
+défense de ces lieux."
+
+1
+02:41:07,419 --> 02:41:09,669
+Le Trône du Roi.
+
+1
+02:41:12,959 --> 02:41:16,129
+Qu'est-ce que c'est ? Au-dessus ?
+
+1
+02:41:19,679 --> 02:41:21,759
+L'Arkenstone.
+
+1
+02:41:22,849 --> 02:41:24,519
+L'Arkenstone.
+
+1
+02:41:28,229 --> 02:41:29,729
+Et qu'est-ce que c'est ?
+
+1
+02:41:29,809 --> 02:41:33,779
+Ça, Maître Cambrioleur,
+
+1
+02:41:33,859 --> 02:41:37,105
+c'est la raison
+de votre présence parmi nous.

@@ -1,0 +1,278 @@
+﻿1
+01:48:14,000 --> 01:48:17,090
+Filons par la porte de derrière.
+
+1
+01:48:17,090 --> 01:48:19,970
+Je ne fuis devant personne,
+bête ou pas.
+
+1
+01:48:19,970 --> 01:48:22,260
+Inutile de discuter.
+
+1
+01:48:22,260 --> 01:48:26,060
+Nous ne passerons pas
+les Terres Sauvages sans Beorn.
+
+1
+01:48:26,100 --> 01:48:29,350
+Nous serons capturés
+avant d'atteindre la forêt.
+
+1
+01:48:29,350 --> 01:48:32,400
+Bilbon, vous voilà.
+
+1
+01:48:32,400 --> 01:48:35,900
+Cela va exiger un certain doigté.
+
+1
+01:48:35,900 --> 01:48:37,900
+Il faut avancer prudemment.
+
+1
+01:48:37,900 --> 01:48:42,370
+Le dernier être à l'avoir alarmé
+a été réduit en lambeaux.
+
+1
+01:48:44,030 --> 01:48:46,790
+J'irai en premier. Et Bilbon...
+
+1
+01:48:46,790 --> 01:48:48,160
+venez avec moi.
+
+1
+01:48:50,170 --> 01:48:52,670
+Est-ce vraiment une bonne idée ?
+
+1
+01:48:52,670 --> 01:48:55,130
+Vous autres, attendez ici.
+
+1
+01:48:55,130 --> 01:48:57,590
+Et ne sortez qu'à mon signal.
+
+1
+01:48:57,590 --> 01:48:59,010
+On attend le signal.
+
+1
+01:48:59,010 --> 01:49:02,970
+Ni gestes brusques ni tapage.
+Ne l'importunez pas.
+
+1
+01:49:03,430 --> 01:49:05,600
+Ne sortez que deux par deux.
+
+1
+01:49:06,430 --> 01:49:08,480
+Non, en fait, Bombur...
+
+1
+01:49:08,480 --> 01:49:11,020
+Vous comptez pour deux.
+Sortez seul.
+
+1
+01:49:13,480 --> 01:49:16,270
+N'oubliez pas. Attendez le signal.
+
+1
+01:49:16,360 --> 01:49:18,150
+On attend le signal.
+
+1
+01:49:18,990 --> 01:49:21,320
+Quel signal ?
+
+1
+01:49:36,130 --> 01:49:38,130
+Vous êtes tendu.
+
+1
+01:49:41,930 --> 01:49:44,260
+Tendu ? Balivernes.
+
+1
+01:49:45,470 --> 01:49:46,720
+Bonjour !
+
+1
+01:49:52,810 --> 01:49:54,810
+Bonjour !
+
+1
+01:49:57,270 --> 01:49:59,110
+Qui êtes-vous ?
+
+1
+01:49:59,650 --> 01:50:03,400
+Je suis Gandalf. Gandalf le Gris.
+
+1
+01:50:07,950 --> 01:50:09,870
+Jamais entendu parler.
+
+1
+01:50:13,160 --> 01:50:14,580
+Je suis un Magicien.
+
+1
+01:50:14,580 --> 01:50:17,460
+Peut-être connaissez-vous mon confrère,
+Radagast le Brun.
+
+1
+01:50:17,540 --> 01:50:20,550
+Il réside à l'orée sud de la Forêt Noire.
+
+1
+01:50:20,550 --> 01:50:22,880
+Que voulez-vous ?
+
+1
+01:50:22,880 --> 01:50:26,890
+Simplement vous remercier
+de votre hospitalité.
+
+1
+01:50:26,970 --> 01:50:31,600
+Nous avons trouvé refuge
+dans votre demeure, hier soir.
+
+1
+01:50:32,480 --> 01:50:34,390
+Qui est ce petit gars ?
+
+1
+01:50:34,390 --> 01:50:38,020
+C'est M. Sacquet, de la Comté.
+
+1
+01:50:39,900 --> 01:50:42,400
+Ce n'est pas un Nain, n'est-ce pas ?
+
+1
+01:50:43,030 --> 01:50:46,450
+Que nenni. C'est un Hobbit.
+
+1
+01:50:46,450 --> 01:50:49,950
+De bonne famille
+et à la réputation irréprochable.
+
+1
+01:50:49,950 --> 01:50:53,370
+Un Semi-Homme et un Magicien.
+
+1
+01:50:54,580 --> 01:50:56,040
+Que faites-vous ici ?
+
+1
+01:50:56,040 --> 01:50:59,460
+Nous avons eu des ennuis
+
+1
+01:50:59,460 --> 01:51:01,750
+avec les Gobelins dans les montagnes.
+
+1
+01:51:01,840 --> 01:51:05,590
+Pourquoi avoir approché les Gobelins ?
+Quelle bêtise !
+
+1
+01:51:05,590 --> 01:51:08,390
+- Vous avez raison.
+- Le signal ! Sortez !
+
+1
+01:51:19,900 --> 01:51:22,030
+Dwalin. Et Balin.
+
+1
+01:51:22,110 --> 01:51:25,200
+Et je dois vous avouer que
+
+1
+01:51:25,200 --> 01:51:29,070
+plusieurs membres de notre groupe
+sont, de fait, des Nains.
+
+1
+01:51:29,660 --> 01:51:34,160
+Pour vous, deux, c'est "plusieurs" ?
+
+1
+01:51:34,450 --> 01:51:37,040
+Puisque vous faites la remarque...
+
+1
+01:51:39,500 --> 01:51:41,790
+ils sont sans doute plus de deux.
+
+1
+01:51:42,750 --> 01:51:45,050
+C'est à nous !
+
+1
+01:51:47,880 --> 01:51:51,430
+Et voici la suite
+de notre joyeuse troupe.
+
+1
+01:51:51,430 --> 01:51:53,930
+Pour vous, six, c'est une "troupe" ?
+
+1
+01:51:55,060 --> 01:51:57,350
+Qu'est-ce que c'est ? Un cirque ambulant ?
+
+1
+01:52:03,690 --> 01:52:07,650
+Dori et Ori, pour vous servir.
+
+1
+01:52:07,740 --> 01:52:09,110
+Je refuse vos services.
+
+1
+01:52:09,110 --> 01:52:10,950
+Tout à fait compréhensible.
+
+1
+01:52:11,030 --> 01:52:12,780
+Allez !
+
+1
+01:52:15,200 --> 01:52:18,250
+Fili et Kili. J'avais oublié.
+
+1
+01:52:18,670 --> 01:52:23,170
+Et Nori, Bofur, Bifur...
+
+1
+01:52:25,170 --> 01:52:26,800
+et Bombur.
+
+1
+01:52:28,010 --> 01:52:30,180
+C'est tout ?
+
+1
+01:52:32,350 --> 01:52:33,850
+Il y en a d'autres ?
+
+1
+01:52:46,190 --> 01:52:49,820
+C'est donc vous
+que l'on appelle Écu-de-Chêne.

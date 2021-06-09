@@ -1,0 +1,95 @@
+﻿1
+03:17:45,529 --> 03:17:47,569
+Il faut aiguiser ces lames.
+
+1
+03:17:47,699 --> 03:17:49,869
+Fichus Elfes !
+
+1
+03:18:10,299 --> 03:18:12,929
+Vous devriez rentrer.
+
+1
+03:18:12,929 --> 03:18:15,309
+À l'abri du vent.
+
+1
+03:18:18,429 --> 03:18:22,183
+J'avais besoin d'air.
+Ça empeste le dragon à l'intérieur.
+
+1
+03:18:28,109 --> 03:18:31,699
+Les Elfes ont mis
+leurs archers en position.
+
+1
+03:18:33,949 --> 03:18:36,499
+La bataille sera finie
+d'ici demain soir.
+
+1
+03:18:37,239 --> 03:18:40,826
+Mais je doute que nous serons
+vivants pour y assister.
+
+1
+03:18:41,669 --> 03:18:44,589
+Nous vivons des jours sombres.
+
+1
+03:18:46,919 --> 03:18:49,339
+En effet.
+
+1
+03:18:53,464 --> 03:18:56,639
+On ne pourrait vous blâmer
+de vouloir être ailleurs.
+
+1
+03:19:02,859 --> 03:19:04,859
+Minuit approche.
+
+1
+03:19:04,939 --> 03:19:06,899
+Bombur a la prochaine garde.
+
+1
+03:19:07,439 --> 03:19:10,564
+Ça va prendre un peu de temps
+pour le réveiller.
+
+1
+03:19:11,619 --> 03:19:12,819
+Bofur ?
+
+1
+03:19:15,949 --> 03:19:18,039
+Je vous verrai demain matin.
+
+1
+03:19:19,959 --> 03:19:21,749
+Au revoir, Bilbon.
+
+1
+03:20:05,709 --> 03:20:09,169
+Depuis quand mon avis
+compte-t-il pour si peu ?
+
+1
+03:20:09,169 --> 03:20:10,759
+Quelles intentions me prêtez-vous ?
+
+1
+03:20:10,759 --> 03:20:13,429
+Vous essayez de sauver vos amis Nains.
+
+1
+03:20:13,429 --> 03:20:16,009
+J'admire votre loyauté.
+
+1
+03:20:16,009 --> 03:20:19,349
+Mais cela ne me détourne pas
+de mon projet.

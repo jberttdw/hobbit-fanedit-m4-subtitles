@@ -1,0 +1,41 @@
+﻿1
+03:03:04,399 --> 03:03:06,359
+<i>Elle est ici.</i>
+
+1
+03:03:06,359 --> 03:03:07,819
+Je le sais.
+
+1
+03:03:07,899 --> 03:03:09,739
+On a tout retourné.
+
+1
+03:03:09,739 --> 03:03:10,779
+Pas assez bien.
+
+1
+03:03:10,779 --> 03:03:13,659
+Thorin, nous voulons tous
+revoir cette pierre.
+
+1
+03:03:13,659 --> 03:03:16,869
+Et pourtant,
+on ne l'a toujours pas !
+
+1
+03:03:19,499 --> 03:03:23,919
+Douterais-tu de notre loyauté ?
+
+1
+03:03:32,219 --> 03:03:33,929
+L'Arkenstone...
+
+1
+03:03:34,889 --> 03:03:37,099
+est l'héritage de notre peuple.
+
+1
+03:03:37,769 --> 03:03:40,689
+C'est le Joyau du Roi.

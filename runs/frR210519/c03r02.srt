@@ -1,0 +1,65 @@
+﻿1
+00:56:12,550 --> 00:56:15,890
+Bienvenue, Thorin, fils de Thrain.
+
+1
+00:56:15,890 --> 00:56:18,470
+Je ne crois pas vous connaître.
+
+1
+00:56:19,100 --> 00:56:22,190
+Vous ressemblez à votre grand-père.
+
+1
+00:56:22,190 --> 00:56:24,900
+J'ai connu Thror
+quand il régnait sous la Montagne.
+
+1
+00:56:24,900 --> 00:56:28,190
+Vraiment ? Il ne m'a pas parlé de vous.
+
+1
+00:56:39,330 --> 00:56:41,620
+Qu'est-ce que c'est ?
+
+1
+00:56:41,620 --> 00:56:43,790
+Une insulte ?
+
+1
+00:56:43,880 --> 00:56:48,130
+Non, M. Gloin,
+une invitation à dîner.
+
+1
+00:56:54,720 --> 00:56:57,760
+Dans ce cas, allons-y.
+
+1
+00:57:00,430 --> 00:57:03,650
+Goûte. Juste une bouchée.
+
+1
+00:57:03,730 --> 00:57:06,110
+J'aime pas la verdure.
+
+1
+00:57:06,650 --> 00:57:08,020
+Où est la viande ?
+
+1
+00:57:08,940 --> 00:57:10,650
+Ils ont des frites ?
+
+1
+00:57:11,900 --> 00:57:14,014
+Merci de nous recevoir.
+
+1
+00:57:14,097 --> 00:57:16,099
+Je ne suis pas en tenue pour dîner.
+
+1
+00:57:16,183 --> 00:57:17,990
+Vous ne l'êtes jamais.
