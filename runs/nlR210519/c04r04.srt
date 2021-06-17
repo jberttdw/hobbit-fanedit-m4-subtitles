@@ -25,7 +25,7 @@ Kom maar.
 Waren we bijna onze inbreker kwijt.
 
 1
-01:06:37,510 --> 01:06:40,010
+01:06:37,510 --> 01:06:40,663
 Hij is ons tot last, al sinds zijn vertrek.
 
 1
@@ -41,7 +41,7 @@ Hij hoort niet bij ons.
 Dwalin.
 
 1
-01:06:54,400 --> 01:06:56,990
+01:06:54,344 --> 01:06:56,990
 Het ziet er veilig uit.
 -Doorzoek alles.
 

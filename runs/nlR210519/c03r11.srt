@@ -16,7 +16,7 @@ dat ik hier hoor te zijn.
 Is dat zo?
 
 1
-01:03:50,340 --> 01:03:53,220
+01:03:50,340 --> 01:03:53,955
 Ik heb gehoord dat hobbits
 sterk en moedig zijn.
 
@@ -29,7 +29,7 @@ Echt?
 En ook dat ze graag thuis zijn.
 
 1
-01:04:12,030 --> 01:04:14,950
+01:04:11,890 --> 01:04:14,950
 Ik heb gehoord dat je elfen
 niet om raad moet vragen.
 

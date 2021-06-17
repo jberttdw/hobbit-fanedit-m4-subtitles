@@ -7,7 +7,7 @@ Wat moeten we dan doen?
 Ze allemaal laten gaan?
 
 1
-00:46:15,960 --> 00:46:19,670
+00:46:17,400 --> 00:46:19,670
 Ik heb jou heus wel door.
 
 1
@@ -31,14 +31,14 @@ Wie is dat?
 
 1
 00:46:32,390 --> 00:46:33,640
-Kunnen we hem ook opeten?
+Vangen we hem ook?
 
 1
 00:46:59,620 --> 00:47:02,420
 Ga met je voet van mijn rug.
 
 1
-00:47:11,930 --> 00:47:14,010
+00:47:11,829 --> 00:47:14,010
 En waar was jij, als ik mag vragen?
 
 1
@@ -46,16 +46,13 @@ En waar was jij, als ik mag vragen?
 Ik wilde vooruitkijken.
 
 1
-00:47:16,060 --> 00:47:20,150
+00:47:16,060 --> 00:47:19,962
 En waarom kwam je terug?
 -Ik keek achterom.
 
 1
-00:47:20,150 --> 00:47:21,270
-Vervelende toestand.
-
-1
-00:47:21,270 --> 00:47:22,940
+00:47:20,046 --> 00:47:22,940
+Net op tijd.
 Maar ze zijn nog allemaal heel.
 
 1
@@ -71,16 +68,16 @@ Hij was zo slim om tijd te winnen.
 Daar dachten jullie niet aan.
 
 1
-00:47:34,160 --> 00:47:37,080
+00:47:34,160 --> 00:47:36,979
 Ze komen vast van de Reuzenheide.
 
 1
-00:47:37,160 --> 00:47:40,080
+00:47:37,063 --> 00:47:40,107
 Sinds wanneer komen bergtrollen
 zo ver zuidelijk?
 
 1
-00:47:40,080 --> 00:47:42,210
+00:47:40,191 --> 00:47:42,210
 Al een Era niet meer.
 
 1
@@ -126,7 +123,7 @@ Nori.
 Pak een schep.
 
 1
-00:48:58,240 --> 00:49:01,160
+00:48:58,144 --> 00:49:01,160
 Deze zwaarden zijn niet gemaakt
 door een trol.
 
@@ -193,23 +190,19 @@ dus licht het blauw op
 als er orks of aardmannen nabij zijn.
 
 1
-00:50:41,760 --> 00:50:44,020
-Maar ik heb nog nooit
-een zwaard gebruikt.
-
-1
-00:50:44,020 --> 00:50:47,060
-Ik hoop ook dat dat nooit hoeft.
+00:50:41,760 --> 00:50:47,060
+Ik heb nog nooit een zwaard gebruikt.
+-Ik hoop ook dat dat nooit hoeft.
 
 1
 00:50:47,140 --> 00:50:50,060
 Maar onthoud één ding:
 
 1
-00:50:50,060 --> 00:50:55,070
+00:50:50,060 --> 00:50:56,011
 Ware moed is weten
 wanneer je geen leven moet nemen...
 
 1
-00:50:56,190 --> 00:50:59,570
+00:50:56,095 --> 00:50:59,570
 maar 't juist moet sparen.

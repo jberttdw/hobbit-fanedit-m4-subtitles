@@ -8,7 +8,8 @@ We betreden zo de Wildernis.
 
 1
 01:04:44,900 --> 01:04:48,320
-Balin, jij kent het hier het best, ga voorop.
+Balin, jij kent het hier
+het best, ga voorop.
 
 1
 01:04:54,490 --> 01:04:56,530

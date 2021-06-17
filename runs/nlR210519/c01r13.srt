@@ -34,13 +34,9 @@ maar we zijn wel vechters.
 Tot de laatste dwerg.
 
 1
-00:18:09,150 --> 00:18:11,480
+00:18:09,150 --> 00:18:14,320
 En we hebben een tovenaar bij ons.
-
-1
-00:18:11,570 --> 00:18:14,320
-Gandalf heeft waarschijnlijk al
-honderden draken gedood.
+Gandalf heeft vast al hopen draken gedood.
 
 1
 00:18:14,320 --> 00:18:16,610
@@ -63,13 +59,9 @@ Noem een getal.
 Alsjeblieft...
 
 1
-00:18:34,420 --> 00:18:35,880
-Denk je dat anderen...
-
-1
-00:18:35,880 --> 00:18:38,550
-die voortekenen
-niet hebben gezien?
+00:18:34,420 --> 00:18:38,550
+Denk je dat anderen die
+voortekenen niet hebben gezien?
 
 1
 00:18:40,930 --> 00:18:43,470
@@ -137,7 +129,7 @@ Als er een sleutel is...
 
 1
 00:19:42,200 --> 00:19:43,740
-dan moet er ook een deur zijn.
+dan is er ook een deur.
 
 1
 00:19:44,660 --> 00:19:48,910
@@ -150,8 +142,8 @@ Een andere ingang.
 
 1
 00:19:51,250 --> 00:19:55,460
-Als we 'm kunnen vinden, want
-gesloten dwergendeuren zijn onzichtbaar.
+Als we 'm vinden.
+Gesloten dwergendeuren zijn onzichtbaar.
 
 1
 00:19:57,460 --> 00:20:00,510
@@ -211,7 +203,7 @@ Ik heb nog nooit iets gestolen.
 Ik ben het met Mr Balings eens.
 
 1
-00:20:42,880 --> 00:20:44,760
+00:20:42,783 --> 00:20:44,760
 Hij lijkt geen inbrekerstype.
 
 1
@@ -233,7 +225,7 @@ Genoeg.
 
 1
 00:20:58,820 --> 00:21:04,400
-Als ik zeg dat Bilbo Balings een inbreker is,
+Als ik zeg dat Mr Balings een inbreker is,
 dan is hij een inbreker.
 
 1
@@ -273,7 +265,7 @@ dan jullie weten.
 
 1
 00:21:34,350 --> 00:21:37,690
-En dan hij weet.
+En dan hij zelf weet.
 
 1
 00:21:41,570 --> 00:21:44,190
@@ -293,16 +285,9 @@ Geef hem het contract.
 -En we gaan.
 
 1
-00:21:53,200 --> 00:21:54,200
+00:21:53,200 --> 00:21:58,080
 Niks bijzonders.
-
-1
-00:21:54,290 --> 00:21:56,370
-Contante uitgaven...
-
-1
-00:21:56,460 --> 00:21:58,080
-tijd, vergoeding...
+Contante uitgaven, tijd, vergoeding...
 
 1
 00:21:58,080 --> 00:22:00,090
@@ -313,16 +298,13 @@ uitvaartregeling, enzovoorts.
 Uitvaartregeling?
 
 1
-00:22:08,180 --> 00:22:10,470
+00:22:08,180 --> 00:22:11,720
 Ik kan zijn veiligheid niet garanderen.
+-Begrepen.
 
 1
-00:22:10,550 --> 00:22:11,720
-Begrepen.
-
-1
-00:22:12,310 --> 00:22:14,720
-Ik ben niet verantwoordelijk
+00:22:12,310 --> 00:22:15,376
+Noch ben ik verantwoordelijk
 voor zijn lot.
 
 1
@@ -340,15 +322,14 @@ Redelijk.
 
 1
 00:22:27,400 --> 00:22:30,620
-'De groep is niet aansprakelijk
-voor verwondingen...
+'De groep is niet aansprakelijk voor...
 
 1
 00:22:30,620 --> 00:22:36,040
-als gevolg van openrijten...
+verwondingen als gevolg van openrijten...
 
 1
-00:22:37,620 --> 00:22:39,000
+00:22:37,620 --> 00:22:39,316
 ingewandenverlies...'
 
 1
@@ -373,15 +354,12 @@ Tikje duizelig.
 Denk aan een oven met vleugels.
 
 1
-00:22:59,560 --> 00:23:01,150
+00:22:59,560 --> 00:23:04,133
 Ik heb frisse lucht nodig.
+-Een lichtflits, korte pijn en poef.
 
 1
-00:23:01,230 --> 00:23:04,190
-Een lichtflits, korte pijn en poef.
-
-1
-00:23:04,230 --> 00:23:06,110
+00:23:04,230 --> 00:23:06,969
 Je bent veranderd in een hoopje as.
 
 1
@@ -395,7 +373,7 @@ Goed bezig, Bofur.
 1
 00:23:16,620 --> 00:23:19,330
 Het gaat wel.
-Laat me maar even rustig zitten.
+Laat me even rusten.
 
 1
 00:23:19,410 --> 00:23:23,130
@@ -412,27 +390,22 @@ Ik herinner me een jonge hobbit
 die altijd in het bos naar elfen zocht.
 
 1
-00:23:34,850 --> 00:23:38,220
+00:23:34,850 --> 00:23:38,125
 Die pas thuiskwam
 als het al donker was.
 
 1
-00:23:38,220 --> 00:23:42,060
-Die door de modder kroop,
-en vuurvliegjes volgde.
+00:23:38,208 --> 00:23:41,962
+Die onder de modder zat,
+achtervolgd door vuurvliegjes.
 
 1
-00:23:42,060 --> 00:23:44,150
-Een jonge hobbit
-die niets liever wilde...
+00:23:42,060 --> 00:23:48,677
+Een jonge hobbit die wilde ontdekken
+wat er zoal buiten de Gouw te vinden was.
 
 1
-00:23:44,230 --> 00:23:48,780
-dan te ontdekken wat er buiten
-de Gouw te vinden was.
-
-1
-00:23:48,780 --> 00:23:52,490
+00:23:48,761 --> 00:23:52,490
 De wereld bestaat niet
 uit boeken en kaarten.
 
@@ -453,7 +426,7 @@ Ik ben een Balings uit Balingshoek.
 Je bent ook een Toek.
 
 1
-00:24:07,250 --> 00:24:10,420
+00:24:07,112 --> 00:24:10,420
 Weet je dat je oud-oud-oud-oud-oom
 Bullebas Toek...
 
@@ -463,13 +436,9 @@ zo groot was dat hij
 op een echt paard reed?
 
 1
-00:24:13,760 --> 00:24:15,680
-Dat kon ie echt.
-
-1
-00:24:15,680 --> 00:24:18,720
-In de Slag van Groeneveld viel hij
-in zijn eentje de aardmannen aan.
+00:24:13,760 --> 00:24:18,720
+Dat kon ie echt. In de Slag van Groeneveld
+viel hij in zijn eentje de aardmannen aan.
 
 1
 00:24:18,810 --> 00:24:22,850
@@ -496,7 +465,7 @@ Volgens mij verzin je dat.
 
 1
 00:24:38,370 --> 00:24:41,580
-Ach, een goed verhaal
+Ach, elk goed verhaal
 verdient wat verfraaiing.
 
 1
@@ -622,7 +591,7 @@ Van mijn grootvader tot mijn vader
 is deze tot mij gekomen.
 
 1
-00:26:34,190 --> 00:26:38,070
+00:26:34,190 --> 00:26:38,764
 Zij droomden van de dag dat de dwergen
 Erebor zouden heroveren.
 
@@ -684,12 +653,12 @@ werd angstig groot</i>
 <i>tot boom als fakkel, vlammen spoog</i>
 
 1
-00:29:52,680 --> 00:29:55,980
+00:29:52,680 --> 00:29:56,668
 Getekend: Thorin, zoon van Thraín
 Getuige: Balin, zoon van Fundin
 
 1
-00:29:55,990 --> 00:29:58,270
+00:29:56,670 --> 00:29:58,270
 Inbreker:
 
 1
@@ -749,12 +718,9 @@ Welkom, meester Balings...
 bij de groep van Thorin Eikenschild.
 
 1
-00:31:41,960 --> 00:31:43,080
+00:31:41,960 --> 00:31:45,130
 Geef hem een pony.
-
-1
-00:31:43,630 --> 00:31:45,130
-Nee, dat hoeft niet.
+-Nee, dat hoeft niet.
 
 1
 00:31:45,130 --> 00:31:47,420

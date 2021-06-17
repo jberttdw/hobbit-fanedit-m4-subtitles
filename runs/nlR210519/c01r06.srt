@@ -16,11 +16,11 @@ Goedemorgen.
 -Wat bedoel je?
 
 1
-00:03:10,080 --> 00:03:11,370
-Wens je me een goede morgen...
+00:03:10,080 --> 00:03:11,981
+Wens je me een goede morgen,
 
 1
-00:03:11,370 --> 00:03:16,130
+00:03:11,983 --> 00:03:16,130
 of bedoel je dat het gewoon
 een goede morgen is voor iedereen?
 
@@ -66,7 +66,7 @@ Van die nare, vervelende,
 ongemakkelijke dingen.
 
 1
-00:04:01,860 --> 00:04:03,880
+00:04:01,860 --> 00:04:04,077
 Dan kom je te laat voor het eten.
 
 1
@@ -89,7 +89,7 @@ Pardon?
 1
 00:04:24,070 --> 00:04:27,410
 Je bent veranderd, maar niet
-in je voordeel, Bilbo Balings.
+verbeterd, Bilbo Balings.
 
 1
 00:04:27,410 --> 00:04:28,740
@@ -98,7 +98,7 @@ Ken ik jou?
 1
 00:04:28,740 --> 00:04:32,020
 Je kent mijn naam,
-maar niet de man die erbij hoort.
+ook al herken je mij niet.
 
 1
 00:04:32,020 --> 00:04:33,960
@@ -126,15 +126,11 @@ Oude Toek stak dat altijd af.
 
 1
 00:04:48,610 --> 00:04:51,430
-Ik wist niet dat je nog bestond.
+Ik wist niet dat je nog rond trok.
 
 1
-00:04:51,500 --> 00:04:53,020
-Waar zou ik anders moeten zijn?
-
-1
-00:04:53,020 --> 00:04:55,250
-Waar zou je...
+00:04:51,500 --> 00:04:53,752
+En is daar iets mis mee?
 
 1
 00:04:57,860 --> 00:05:01,900
@@ -143,7 +139,7 @@ van mij herinnert...
 
 1
 00:05:01,900 --> 00:05:04,600
-ook al is 't alleen maar vuurwerk.
+ook al is 't alleen maar dat vuurwerk.
 
 1
 00:05:05,430 --> 00:05:07,320

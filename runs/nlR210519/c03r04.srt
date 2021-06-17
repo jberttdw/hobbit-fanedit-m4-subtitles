@@ -26,8 +26,12 @@ De Vijandhamer. Het zwaard
 van de koning van Gondolin.
 
 1
-00:58:02,200 --> 00:58:07,170
-Ik zou 't niet doen. Zwaarden worden vernoemd
+00:58:02,104 --> 00:58:03,728
+Niet waard het te vragen.
+
+1
+00:58:03,730 --> 00:58:07,170
+Zwaarden worden vernoemd
 naar hun daden in de strijd.
 
 1
@@ -37,7 +41,7 @@ is nog nooit gevochten?
 
 1
 00:58:10,170 --> 00:58:13,510
-Ik twijfel of het een zwaard is.
+Ik twijfel vooral of het een zwaard is.
 
 1
 00:58:13,590 --> 00:58:15,510

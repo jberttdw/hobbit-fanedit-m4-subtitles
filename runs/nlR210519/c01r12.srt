@@ -31,7 +31,7 @@ Die deur is net geschilderd.
 1
 00:15:34,030 --> 00:15:36,950
 Er is wel een teken.
-Ik heb 't er zelf op gezet.
+Ik heb 't er op gezet.
 
 1
 00:15:38,120 --> 00:15:42,210
@@ -51,7 +51,7 @@ Zo...
 dus dit is de hobbit.
 
 1
-00:15:50,970 --> 00:15:53,090
+00:15:50,908 --> 00:15:53,090
 Mr Balings, heb je veel gevochten?
 
 1
@@ -66,7 +66,7 @@ Wat is je favoriete wapen?
 1
 00:15:57,260 --> 00:16:00,680
 Ik kan wel aardig kastanje-tikken,
-als je 't per se wilt weten.
+weet je wel.
 
 1
 00:16:00,680 --> 00:16:04,350
@@ -78,7 +78,7 @@ wat dat ertoe doet.
 Dat dacht ik al.
 
 1
-00:16:06,650 --> 00:16:09,320
+00:16:06,591 --> 00:16:10,136
 Hij lijkt meer op
 een kruidenier dan op 'n inbreker.
 
@@ -93,7 +93,7 @@ Ja, afgezanten van alle
 zeven koninkrijken.
 
 1
-00:16:21,660 --> 00:16:24,250
+00:16:21,660 --> 00:16:24,817
 Wat zeiden de dwergen
 van de IJzerheuvels?
 
@@ -185,9 +185,10 @@ Klauwen als vleeshaken.
 
 1
 00:17:43,080 --> 00:17:45,750
-Dol op kostbare metalen.
--Ik weet wat een draak is.
+Dol op goud en zilver.
+-Een draak dus.
 
 1
 00:17:45,750 --> 00:17:47,790
-Ik ben niet bang. Ik ben er klaar voor.
+Ik ben niet bang. Laten we gaan.
+

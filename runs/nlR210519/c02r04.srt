@@ -32,13 +32,9 @@ Ik heb je het al gezegd:
 Daar ga ik niet naartoe.
 
 1
-00:36:23,860 --> 00:36:26,330
-Hoezo niet?
-De elfen kunnen ons helpen...
-
-1
-00:36:26,410 --> 00:36:28,620
-met voedsel, rust, advies.
+00:36:23,860 --> 00:36:28,620
+Hoezo niet? De elfen kunnen ons
+helpen met voedsel, rust en advies.
 
 1
 00:36:28,660 --> 00:36:30,790
@@ -93,12 +89,12 @@ niet voor gegeven.
 Ik wist niet dat die van jou waren.
 
 1
-00:37:11,700 --> 00:37:14,540
+00:37:11,700 --> 00:37:14,399
 Is alles goed?
 Gandalf, waar ga je heen?
 
 1
-00:37:14,620 --> 00:37:18,210
+00:37:14,482 --> 00:37:18,210
 Op stap met de enige hier
 die nog een beetje verstand heeft.
 
@@ -112,7 +108,7 @@ Wie bedoel je?
 Ik ben die dwergen zat.
 
 1
-00:37:25,890 --> 00:37:27,800
+00:37:25,785 --> 00:37:27,800
 Kom, Bombur. We hebben honger.
 
 1
@@ -120,7 +116,7 @@ Kom, Bombur. We hebben honger.
 Komt ie wel terug?
 
 1
-00:37:35,190 --> 00:37:36,650
+00:37:35,086 --> 00:37:36,650
 Hij blijft wel lang weg.
 
 1
@@ -139,7 +135,7 @@ naar de mannen.
 
 1
 00:37:43,990 --> 00:37:45,490
-Ho maar, je hebt genoeg gehad.
+Stop, jij at al genoeg.
 
 1
 00:37:45,490 --> 00:37:49,490
@@ -175,12 +171,12 @@ En nu zijn er nog 14.
 Daisy en Bungo zijn weg.
 
 1
-00:38:21,360 --> 00:38:23,440
+00:38:21,360 --> 00:38:23,259
 Da's niet zo mooi.
 
 1
-00:38:23,440 --> 00:38:26,280
-En dat al helemaal niet.
+00:38:23,343 --> 00:38:26,280
+En dat zeker niet.
 Moeten we Thorin inlichten?
 
 1
@@ -188,7 +184,7 @@ Moeten we Thorin inlichten?
 Nee, we moeten hem niet ongerust maken.
 
 1
-00:38:29,240 --> 00:38:32,740
+00:38:29,240 --> 00:38:33,102
 Als onze officiële inbreker leek dit
 een klusje voor jou.
 
@@ -228,18 +224,17 @@ Hij heeft Myrtle en Minty.
 Ze gaan ze opeten. We moeten wat doen.
 
 1
-00:39:34,350 --> 00:39:36,220
+00:39:34,350 --> 00:39:36,374
 Ja, je moet wat doen.
 
 1
-00:39:36,600 --> 00:39:40,520
-Bergtrollen zijn niet slim, en jij bent klein.
-Ze gaan je nooit opmerken.
+00:39:36,457 --> 00:39:40,520
+Bergtrollen zijn dom.
+Jij bent klein, ze gaan je nooit opmerken.
 
 1
 00:39:40,520 --> 00:39:42,650
-Er is geen gevaar.
-Wij blijven in de buurt.
+Geen angst, wij blijven in de buurt.
 
 1
 00:39:42,650 --> 00:39:46,280

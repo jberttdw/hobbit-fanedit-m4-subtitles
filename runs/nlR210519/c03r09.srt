@@ -1,5 +1,5 @@
 ﻿1
-01:02:01,110 --> 01:02:04,700
+01:02:01,051 --> 01:02:04,700
 Natuurlijk ging ik het vertellen.
 Ik wachtte juist op deze kans.
 
@@ -14,7 +14,7 @@ O, ja? Die draak slaapt nu al 60 jaar.
 
 1
 01:02:12,750 --> 01:02:15,830
-Wat gebeurt er als je plan mislukt
+Wat als je plan mislukt
 en dat beest wakker wordt?
 
 1
@@ -22,13 +22,9 @@ en dat beest wakker wordt?
 En als we slagen?
 
 1
-01:02:18,000 --> 01:02:20,000
-Als de dwergen de berg terugnemen...
-
-1
-01:02:20,000 --> 01:02:22,170
-is onze verdediging in het oosten
-veel sterker.
+01:02:18,000 --> 01:02:22,170
+Als we de berg heroveren is
+onze verdediging in het oosten veel sterker.
 
 1
 01:02:22,170 --> 01:02:24,760

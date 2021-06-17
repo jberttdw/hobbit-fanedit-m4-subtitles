@@ -16,8 +16,8 @@ Dwergen, uwe kwaadaardigheid.
 Dwergen?
 
 1
-01:13:45,690 --> 01:13:47,310
-We vonden ze in het Voorportaal.
+01:13:45,546 --> 01:13:47,310
+Ze lagen in het Voorportaal.
 
 1
 01:13:47,310 --> 01:13:50,320

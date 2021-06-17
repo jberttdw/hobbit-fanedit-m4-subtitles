@@ -20,7 +20,8 @@ Ik waarschuw je, kom niet dichterbij.
 
 1
 01:17:50,520 --> 01:17:54,640
-Het heeft een elfendolk maar het is geen elfs.
+Het heeft een elfendolk
+maar het is geen elfs.
 
 1
 01:17:56,400 --> 01:17:58,020
@@ -74,8 +75,8 @@ Ik wil geen problemen, begrepen?
 
 1
 01:18:38,440 --> 01:18:41,480
-Vertel me hoe ik hieruit kom
-en ik ben weer weg.
+Toon me de uitweg
+en ik laat je gerust.
 
 1
 01:18:41,480 --> 01:18:43,780
@@ -383,7 +384,7 @@ Geef me een moment.
 Ik heb jou ook de tijd gegeven.
 
 1
-01:23:46,830 --> 01:23:50,880
+01:23:46,830 --> 01:23:50,776
 Dieren, beesten...
 Beesten? Bomen, bloemen.
 

@@ -1,10 +1,10 @@
 ﻿1
-00:14:23,670 --> 00:14:26,300
-Willen jullie daarmee stoppen?
+00:14:23,670 --> 00:14:26,324
+En kan je dat laten?
 Zo worden ze bot.
 
 1
-00:14:26,300 --> 00:14:28,300
+00:14:26,407 --> 00:14:28,300
 Horen jullie dat?
 
 1

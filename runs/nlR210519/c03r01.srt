@@ -46,11 +46,8 @@ Hier ligt het Laatste Huiselijke Huis
 ten oosten van de zee.
 
 1
-00:53:14,710 --> 00:53:17,670
+00:53:14,710 --> 00:53:19,880
 Dus dit was je plan.
-
-1
-00:53:17,670 --> 00:53:19,880
 Bescherming zoeken bij onze vijand.
 
 1
@@ -69,12 +66,13 @@ Denk je dat de elfen onze tocht
 hun zegen geven?
 
 1
-00:53:32,930 --> 00:53:34,560
+00:53:32,930 --> 00:53:36,213
 Die gaan ons tegenhouden.
+-Natuurlijk.
 
 1
-00:53:34,560 --> 00:53:39,690
-Natuurlijk. Maar we hebben vragen
+00:53:36,296 --> 00:53:39,967
+Maar we hebben vragen
 die beantwoord moeten worden.
 
 1

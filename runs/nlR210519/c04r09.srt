@@ -24,7 +24,7 @@ en niets dan de waarheid.
 U moet wat harder praten.
 
 1
-01:14:21,060 --> 01:14:23,350
+01:14:20,957 --> 01:14:23,350
 Uw mannen hebben m'n trompet geplet.
 
 1
@@ -53,7 +53,8 @@ een pad, een spoor.
 
 1
 01:14:46,080 --> 01:14:48,880
-En toen ineens niet, en dat is een probleem...
+En toen ineens niet,
+en dat is een probleem...
 
 1
 01:14:48,960 --> 01:14:52,300

@@ -1,19 +1,12 @@
 ﻿1
-00:13:35,710 --> 00:13:37,040
-Ik wist dat je het kon.
-
-1
 00:13:37,040 --> 00:13:40,210
 Dat is een onderlegger,
 geen theedoek.
 
 1
-00:13:40,210 --> 00:13:41,300
+00:13:40,210 --> 00:13:43,340
 Het zit vol met gaten.
-
-1
-00:13:41,300 --> 00:13:43,340
-Dat hoort zo. Het is gehaakt.
+-Dat hoort zo. Het is gehaakt.
 
 1
 00:13:43,420 --> 00:13:46,180
@@ -29,8 +22,8 @@ Mijn beste Bilbo, wat scheelt er?
 
 1
 00:13:51,930 --> 00:13:54,980
-Wat er scheelt? Ik ben omringd
-door dwergen.
+Wat er scheelt?
+Ik ben omringd door dwergen.
 
 1
 00:13:54,980 --> 00:13:56,600
@@ -48,20 +41,19 @@ Ik wil niet aan ze wennen.
 1
 00:14:02,570 --> 00:14:05,690
 Moet je m'n keuken zien.
-Het tapijt.
+Het tapijt vol modder.
 
 1
 00:14:05,690 --> 00:14:08,030
 Ze hebben mijn voorraad geplunderd.
 
 1
-00:14:08,030 --> 00:14:09,870
-En dan heb ik 't nog niet
-over de badkamer.
+00:14:08,030 --> 00:14:11,351
+En de badkamer, die is
+zo goed als verwoest.
 
 1
-00:14:09,950 --> 00:14:13,870
-Alle leidingen zijn vernield.
+00:14:11,434 --> 00:14:13,870
 Wat doen ze in mijn huis?
 
 1

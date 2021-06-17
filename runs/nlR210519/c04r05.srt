@@ -62,7 +62,7 @@ Je hebt gelijk.
 Wij horen nergens thuis.
 
 1
-01:09:20,380 --> 01:09:22,680
+01:09:20,281 --> 01:09:22,680
 Ik wens je alle geluk van de wereld.
 
 1
@@ -70,7 +70,7 @@ Ik wens je alle geluk van de wereld.
 Echt.
 
 1
-01:09:31,770 --> 01:09:32,560
+01:09:31,770 --> 01:09:33,252
 Wat is dat?
 
 1

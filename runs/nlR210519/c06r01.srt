@@ -68,16 +68,13 @@ Waar is onze hobbit?
 Waar is onze hobbit?
 
 1
-01:34:44,030 --> 01:34:46,700
+01:34:44,030 --> 01:34:48,240
 Vervloekte halfling. Is ie verdwaald?
+-Ik dacht dat ie bij Dori was.
 
 1
-01:34:46,700 --> 01:34:48,240
-Ik dacht dat ie bij Dori was.
-
-1
-01:34:48,620 --> 01:34:51,790
-Het is niet mijn schuld.
+01:34:48,516 --> 01:34:51,790
+Beschuldig me niet.
 -Waar zag je 'm voor 't laatst?
 
 1
@@ -86,16 +83,13 @@ Ik zag hem wegglippen,
 toen ze ons pakten.
 
 1
-01:34:54,620 --> 01:34:56,210
+01:34:54,620 --> 01:34:56,689
 En wat gebeurde er toen?
-
-1
-01:34:56,210 --> 01:34:58,000
 Zeg het.
--Dat zal ik je vertellen.
 
 1
-01:34:58,630 --> 01:35:01,380
+01:34:56,691 --> 01:35:01,380
+Dat zal ik je vertellen.
 Meester Balings greep zijn kans.
 
 1
@@ -117,6 +111,7 @@ Die is al lang weg.
 
 1
 01:35:25,110 --> 01:35:27,450
+Neen.
 Dat is ie niet.
 
 1
@@ -124,7 +119,7 @@ Dat is ie niet.
 Bilbo Balings.
 
 1
-01:35:33,910 --> 01:35:36,580
+01:35:33,910 --> 01:35:37,232
 Ik ben nog nooit zo blij geweest
 iemand te zien.
 
@@ -133,9 +128,7 @@ iemand te zien.
 Bilbo. We hadden je al opgegeven.
 
 1
-01:35:40,750 --> 01:35:42,630
+01:35:40,750 --> 01:35:44,420
 Hoe ben je langs de aardmannen gekomen?
+-Ik ben benieuwd.
 
-1
-01:35:42,630 --> 01:35:44,420
-Ik ben benieuwd.

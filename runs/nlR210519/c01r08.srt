@@ -28,7 +28,7 @@ Wat is waar?
 Het eten.
 
 1
-00:08:04,670 --> 00:08:07,040
+00:08:04,670 --> 00:08:07,487
 Hij zei dat er heel veel te eten zou zijn.
 
 1
@@ -124,13 +124,13 @@ Maar ik wil wel graag weten
 wie er op bezoek komt.
 
 1
-00:09:49,980 --> 00:09:51,070
+00:09:49,980 --> 00:09:52,217
 Wat is dit?
--Geen idee.
+-Geen idee, is het kaas?
 
 1
-00:09:51,110 --> 00:09:54,530
-Iets van kaas, maar bedorven.
+00:09:52,300 --> 00:09:54,530
+Zeker bedorven.
 -Helemaal beschimmeld.
 
 1
@@ -170,20 +170,17 @@ Fíli.
 Tot uw dienst.
 
 1
-00:10:22,260 --> 00:10:24,520
+00:10:22,260 --> 00:10:27,001
 U bent vast Mr Bolings.
+-Nee. Jullie zijn op het verkeerde adres.
 
 1
-00:10:24,600 --> 00:10:27,140
-Nee. En jullie zijn hier verkeerd.
-
-1
-00:10:27,230 --> 00:10:29,310
-Wat? Is het afgelast?
+00:10:27,085 --> 00:10:29,963
+Is het afgelast?
 -Wij weten van niets.
 
 1
-00:10:29,310 --> 00:10:33,520
+00:10:30,046 --> 00:10:33,520
 Hoezo, er is niets afgelast.
 -Gelukkig.
 
@@ -215,16 +212,13 @@ Mr Dwalin.
 
 1
 00:10:55,170 --> 00:10:58,090
-Dit moet weg anders kunnen we
-er niet allemaal in.
+Verhuis dit zodat
+we allemaal binnen kunnen.
 
 1
-00:10:58,090 --> 00:11:00,090
+00:10:58,090 --> 00:11:01,390
 Allemaal? Hoeveel komen er nog?
-
-1
-00:11:00,220 --> 00:11:01,390
-Waar moet dit heen?
+-Waar moet dit heen?
 
 1
 00:11:01,470 --> 00:11:03,260
@@ -270,16 +264,13 @@ Pardon, dat is mijn kip.
 Als... Dat is mijn wijn. Pardon.
 
 1
-00:11:44,850 --> 00:11:46,970
+00:11:44,746 --> 00:11:46,970
 Hij is... gewond.
 
 1
-00:11:47,720 --> 00:11:49,270
+00:11:47,720 --> 00:11:51,980
 De bijl in z'n hoofd?
-
-1
-00:11:49,350 --> 00:11:51,980
-Dood? Nee, alleen tussen z'n oren.
+-Dood? Nee, alleen tussen z'n oren.
 
 1
 00:11:52,230 --> 00:11:54,310
